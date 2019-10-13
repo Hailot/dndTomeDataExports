@@ -1,0 +1,744 @@
+[{
+        "item_description": "Abacus [2 gp]",
+        "item_name": "Abacus",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Acid (vial) [25 gp]",
+        "item_name": "Acid, vials of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Alchemist's fire (flask) [50 gp]",
+        "item_name": "Alchemist's fire, flasks of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Arrows (20) [1 gp]",
+        "item_name": "Arrows",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Blowgun needles (50) [1 gp]",
+        "item_name": "Blowgun needles",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Crossbow bolts (20) [1 gp]",
+        "item_name": "Crossbow bolts",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Sling bullets (20) [4 cp]",
+        "item_name": "Sling bullets",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Antitoxin (vial) [50 gp]",
+        "item_name": "Antitoxin, vials of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Crystal [10 gp]",
+        "item_name": "Crystal arcane focus",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Orb [20 gp]",
+        "item_name": "Orb arcane focus",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Rod [10 gp]",
+        "item_name": "Rod arcane focus",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Staff [5 gp]",
+        "item_name": "Staff arcane focus",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Wand [10 gp]",
+        "item_name": "Wand arcane focus",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Backpack [2 gp]",
+        "item_name": "Backpack",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Ball bearings (bag of 1,000) [1 gp]",
+        "item_name": "Bag of 1000 ball bearings",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Barrel [2 gp]",
+        "item_name": "Barrel",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Basket [4 sp]",
+        "item_name": "Basket",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Bedroll [1 gp]",
+        "item_name": "Bedroll",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Bell [1 gp]",
+        "item_name": "Bell",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Bit and bridle [2 gp]",
+        "item_name": "Bit and bridle",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Blanket [5 sp]",
+        "item_name": "Blanket",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Block and tackle [1 gp]",
+        "item_name": "Block and tackle",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Book [25 gp]",
+        "item_name": "Book",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Bottle, glass [2 gp]",
+        "item_name": "Glass bottle",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Bucket [5 sp]",
+        "item_name": "Bucket",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Caltrops [1 gp]",
+        "item_name": "Caltrops",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Candle [1 cp]",
+        "item_name": "Candle",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Case, crossbow bolt [1 gp]",
+        "item_name": "Crossbow bolt case",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Case, map or scroll [1 gp]",
+        "item_name": "Map or scroll case",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Chain (10 feet) [5 gp]",
+        "item_name": "Chain, feet of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Chalk (1 piece) [1 cp]",
+        "item_name": "Chalk, pieces of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Chest [5 gp]",
+        "item_name": "Chest",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Climber's kit [25 gp]",
+        "item_name": "Climber's kit",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Common [5 sp]",
+        "item_name": "Common clothes",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Costume [5 gp]",
+        "item_name": "Costume clothes",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Fine [15 gp]",
+        "item_name": "Fine clothes",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Traveler's [2 gp]",
+        "item_name": "Traveler's clothes",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Component pouch [25 gp]",
+        "item_name": "Component pouch",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Crowbar [2 gp]",
+        "item_name": "Crowbar",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Sprig of mistletoe [1 gp]",
+        "item_name": "Sprig of mistletoe druidic focus",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Totem [1 gp]",
+        "item_name": "Totem druidic focus",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Wooden staff [5 gp]",
+        "item_name": "Wooden staff druidic focus",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Yew wand  [10 gp]",
+        "item_name": "Yew wand druidic focus",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Fishing tackle [1 gp]",
+        "item_name": "Fishing tackle",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Flask or tankard [2 cp]",
+        "item_name": "Flask or tankard",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Grappling hook [2 gp]",
+        "item_name": "Grappling hook",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Hammer [1 gp]",
+        "item_name": "Hammer",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Hammer, sledge [2 gp]",
+        "item_name": "Sledge hammer",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Healer's kit [5 gp]",
+        "item_name": "Healer's kit",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Amulet [5 gp]",
+        "item_name": "Amulet holy symbol",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Emblem [5 gp]",
+        "item_name": "Emblem holy symbol",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Reliquary [5 gp]",
+        "item_name": "Reliquary holy symbol",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Holy water (flask) [25 gp]",
+        "item_name": "Holy water, flasks of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Hourglass [25 gp]",
+        "item_name": "Hourglass",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Hunting trap [5 gp]",
+        "item_name": "Hunting trap",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Ink (1 ounce bottle) [10 gp]",
+        "item_name": "Ink, 1 ounce bottle of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Ink pen [2 cp]",
+        "item_name": "Ink pen",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Jug or pitcher [2 cp]",
+        "item_name": "Jug or pitcher",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Small Knife [1 sp]",
+        "item_name": "Small Knife",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Ladder (10-foot) [1 sp]",
+        "item_name": "10-foot ladder",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Lamp [5 sp]",
+        "item_name": "Lamp",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Lantern, bullseye [10 gp]",
+        "item_name": "Bullseye lantern",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Lantern, hooded [5 gp]",
+        "item_name": "Hooded lantern",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Lock [10 gp]",
+        "item_name": "Lock",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Magnifying glass [100 gp]",
+        "item_name": "Magnifying glass",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Manacles [2 gp]",
+        "item_name": "Manacles",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Mess kit [2 sp]",
+        "item_name": "Mess kit",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Mirror, steel [5 gp]",
+        "item_name": "Steel mirror",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Oil (flask) [1 sp]",
+        "item_name": "Oil, flasks of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Paper (one sheet) [2 sp]",
+        "item_name": "Paper, sheets of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Parchment (one sheet) [1 sp]",
+        "item_name": "Parchment, sheets of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Perfume (vial) [5 gp]",
+        "item_name": "Perfume, vials of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Pick, miner's [2 gp]",
+        "item_name": "Miner's pick",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Piton [5 cp]",
+        "item_name": "Piton",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Poison, basic (vial) [100 gp]",
+        "item_name": "Basic poison, vials of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Pole (10-foot) [5 cp]",
+        "item_name": "10-foot pole",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Pot, iron [2 gp]",
+        "item_name": "Iron pot",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Potion of healing [50 gp]",
+        "item_name": "Potion of healing",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Pouch [5 sp]",
+        "item_name": "Pou﻿ch",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Quiver [1 gp]",
+        "item_name": "Quiver",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Ram, portable [4 gp]",
+        "item_name": "Portable ram",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Rations (1 day) [5 sp]",
+        "item_name": "Rations, days of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Robes [1 gp]",
+        "item_name": "Robes",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Rope, hempen (50 feet) [1 gp]",
+        "item_name": "Hempen rope, feet of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Rope, silk (50 feet) [10 gp]",
+        "item_name": "Silk rope, feet of",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Sack [1 cp]",
+        "item_name": "Sack",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Exotic [60 gp]",
+        "item_name": "Exotic saddle",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Military [20 gp]",
+        "item_name": "Military saddle",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Pack [5 gp]",
+        "item_name": "Pack saddle",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Riding [10 gp]",
+        "item_name": "Riding saddle",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Saddlebags [4 gp]",
+        "item_name": "Saddlebags",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Scale, merchant's [5 gp]",
+        "item_name": "Merchant's scale",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Sealing wax [5 cp]",
+        "item_name": "Sealing wax",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Shovel [2 gp]",
+        "item_name": "Shovel",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Signal whistle [5 cp]",
+        "item_name": "Signal whistle",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Signet ring [5 gp]",
+        "item_name": "Signet ring",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Soap [2 cp]",
+        "item_name": "Soap",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Spellbook [50 gp]",
+        "item_name": "Spellbook",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Spikes, iron (10) [1 gp]",
+        "item_name": "Iron spike",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Spyglass [1000 gp]",
+        "item_name": "Spyglass",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Tent, two-person [2 gp]",
+        "item_name": "Two-person tent",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Tinderbox [5 sp]",
+        "item_name": "Tinderbox",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Torch [1 cp]",
+        "item_name": "Torch",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Vial [1 gp]",
+        "item_name": "Vial",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Waterskin [2 sp]",
+        "item_name": "Waterskin",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }, {
+        "item_description": "Whetstone [1 cp]",
+        "item_name": "Whetstone",
+        "item_pic": "",
+        "item_rarity": "common",
+        "item_source": "SRD",
+        "item_type": "Adventuring Gear"
+    }
+]
