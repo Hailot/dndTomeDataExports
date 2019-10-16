@@ -17,6 +17,7 @@
     "spell_sources": "X,150,E,15",
     "spell_level": 1,
     "spell_school": "Abjuration",
+    "spell_time": "1 rea",
     "spell_range": "Self",
     "spell_components": "S",
     "spell_duration": "1 rnd",

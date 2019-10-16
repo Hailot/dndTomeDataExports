@@ -486,6 +486,7 @@
     "spell_sources": "P,284",
     "spell_level": 8,
     "spell_school": "Conjuration",
+    "spell_time": "1 min",
     "spell_range": "Sight",
     "spell_components": "V,S",
     "spell_duration": "Conc, 6 rnd",
