@@ -62,10 +62,10 @@
         */ 
         "spell_duration": "",
         /*
-        * Rules: Either True Or Null
-        * Datatype: Boolean
+        * Rules: Either 1(True) Or 0 (Null)
+        * Datatype: Boolean(tinyInteger)
         */ 
-        "spell_ritual": null,
+        "spell_ritual": 0,
         /*
         * Rules: First Letter Capitalised - Description of the spell
         * Datatype: String
@@ -86,7 +86,7 @@
     "spell_range": "",
     "spell_components": "",
     "spell_duration": "",
-    "spell_ritual": null,
+    "spell_ritual": 0,
     "spell_text": ""
     }
 ]

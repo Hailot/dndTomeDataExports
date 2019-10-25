@@ -1,0 +1,442 @@
+[{
+        "item_description": "A round rubber bad with straps. The ball is placed in a person's mouth and strapped around the head from behind. While worn, the person cannot speak, and cannot cast any spells with a verbal component.",
+        "item_id": 230,
+        "item_name": "Ball Gag",
+        "item_pic": "http://www.adelehuxley.com/wp-content/uploads/2016/07/ball-gag.jpg",
+        "item_rarity": "Common",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Sexual Good"
+    }, {
+        "item_description": "This distillate of herbs renders the imbiber infertile for 4d6+6 (10-30) days. It is 95% effective. Usually taken as a preventative, some women also use a triple dose, taken all at once as an abortive potion. Many societies that find birth shield acceptable as a preventative do not endorse the use of it to abort. The imbiber of a triple dose must make a DC 20 Constitution save or lose the child. If done in the first trimester, she takes ld6 points of damage whether or not she made the Constitution save. During die second trimester, she takes 2d6 points of damage. Taken during the third trimester, die brew is very dangerous and the drinker takes 5d6 points of damage.",
+        "item_id": 231,
+        "item_name": "Birth Shield",
+        "item_pic": "https://cdnb.artstation.com/p/assets/images/images/009/670/357/large/vinicius-tokue-potion.jpg?1520263519",
+        "item_rarity": "Uncommon",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Sexual Potion"
+    }, {
+        "item_description": "This specialized kit is similar to a healer's kit, but contains items designed for midwives to help a mother give birth. It provides advantage on Medicine checks specifically related to childbirth",
+        "item_id": 232,
+        "item_name": "Birthing Kit",
+        "item_pic": "",
+        "item_rarity": "Common",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Tools"
+    }, {
+        "item_description": "This kit is comprised of a dozen razors, scalpels, pins, needles, and other metal tools. They are used to create superficial wounds that bleed profusely. In the hands of an expert, they can cause exquisite pain that some find highly arousing. Using a bloodletter's kit gives advantage on Intimidation checks while the tools are being employed on a restrained victim.",
+        "item_id": 233,
+        "item_name": "Bloodletter's Kit",
+        "item_pic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5e3027af-56cd-42c3-a774-946a672b18f7/d9dy8us-7dea0786-c29b-4ac2-8e0e-486803199c17.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVlMzAyN2FmLTU2Y2QtNDJjMy1hNzc0LTk0NmE2NzJiMThmN1wvZDlkeTh1cy03ZGVhMDc4Ni1jMjliLTRhYzItOGUwZS00ODY4MDMxOTljMTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TXqqwJbQFQDkcvSlSomZYVu94SD82IaWIsD_Iyx223g",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Tools"
+    }, {
+        "item_description": "A leather belt with a metal codpiece that fits over the wearer's genitals. It has a lock on the front, which allows it to be removed. This lock must be purchased separately. An acrobatics check allows the wearer to wriggle free from a chastity belt.",
+        "item_id": 234,
+        "item_name": "Chastity Belt",
+        "item_pic": "https://tse1.explicit.bing.net/th?id=OIP.rtzV31fWhA2Xe8uBXwF33wHaHI&pid=Api",
+        "item_rarity": "Uncommon",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Clothing"
+    }, {
+        "item_description": "",
+        "item_id": 235,
+        "item_name": "Clamp",
+        "item_pic": "https://tse1.explicit.bing.net/th?id=OIP.UH3MJ_t0JFq9k5uDl7LLzwHaKf&pid=Api",
+        "item_rarity": "Common",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Trinket"
+    }, {
+        "item_description": "A tight fighting collar made from leather or metal with a metal ring, that fits around the neck of a creature. It is commonly used in conjunction with a leash.",
+        "item_id": 236,
+        "item_name": "Collar",
+        "item_pic": "https://tse1.explicit.bing.net/th?id=OIP.l2EAP__Qo_R2G_xcVwsqMgHaHa&pid=Api",
+        "item_rarity": "Common",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Clothing"
+    }, {
+        "item_description": "One dose of this ointment, rubbed into the genitals reduces sensitivity and sexual stimulation. It increases the amount of time that one can sustain sex without making a check by 10 minutes.",
+        "item_id": 237,
+        "item_name": "Desensitizing Rub",
+        "item_pic": "",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Potion"
+    }, {
+        "item_description": "A dildo is a penis shaped rod used for sexual play, commonly made from wood, glass, or metal. This may be made double headed for twice the cost.",
+        "item_id": 238,
+        "item_name": "Dildo",
+        "item_pic": "",
+        "item_rarity": "Common",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Item"
+    }, {
+        "item_description": "This exotic spiked leather outfit is designed with numerous buckles, spikes, and studs. It grants advantage on Intimidation checks, but causes disadvantage penalty on Persuasion checks.",
+        "item_id": 239,
+        "item_name": "Dominator's Garb",
+        "item_pic": "",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Armor"
+    }, {
+        "item_description": "If you drink health helper, you get advantage Constitution saving throws against disease for an hour.",
+        "item_id": 240,
+        "item_name": "Health Helper",
+        "item_pic": "",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Potion"
+    }, {
+        "item_description": "A tight fighting hood that fits over a Medium creature's head. Most hoods have eye slits and a hole for breathing, which can be closed. Someone wearing a leather hood suffers disadvantage on Perception checks while wearing a hood, and cannot see. A metal hood imposes a -2 penalty on Perception checks, and the wearer cannot see if the eye holes are closed.",
+        "item_id": 241,
+        "item_name": "Hood",
+        "item_pic": "https://tse1.explicit.bing.net/th?id=OIP.pHw2cuaU55dxADSzUPmPVQHaMV&pid=Api",
+        "item_rarity": "Common",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Clothing"
+    }, {
+        "item_description": "A leather leash with a metal clasp, commonly attached to a neck collar of or other restraint worn by a submissive partner.",
+        "item_id": 242,
+        "item_name": "Leash",
+        "item_pic": "https://tse1.mm.bing.net/th?id=OIP.6OwzzBGTQY0VvyGKzlDHcAHaHa&pid=Api",
+        "item_rarity": "Common",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Item"
+    }, {
+        "item_description": "This kit contains a wide array of foundations, eyeliners, paints, brushes, and applicators that are used for adorning the skin, the price listed is for a basic kit, exotic and hard to get substances can drastically increase the price. Indeed, entire industries and trade exists to supply people with makeup. In some cultures, both men and women wear makeup. At the DMs discretion, proper use of a makeup kit can grant advantage to Appearance checks for 2d4 hours after application. This bonus is negated if the character gets caught in inclement weather, combat, or other situations in which it may get smudged or otherwise ruined.",
+        "item_id": 243,
+        "item_name": "Makeup Kit",
+        "item_pic": "http://i.ebayimg.com/images/i/111278147292-0-1/s-l1000.jpg",
+        "item_rarity": "Uncommon",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Tools"
+    }, {
+        "item_description": "Manacles can be made to fit any size creature. Most often, creatures of the appropriate size make them,so a Tiny creature is the one to create bindings for a Tiny creature. Medium and bigger manacles are usually made of iron. Smaller ones are made of harder materials such as mithral or adamantine.\n\nA manacled creature can use the acrobatics check to slip free. Breaking the manacles requires a Strength check DC 26. Manacles have hardness 10 and 10 hit points. Most manacles have locks, an additional cost.",
+        "item_id": 244,
+        "item_name": "Manacles",
+        "item_pic": "https://tse1.mm.bing.net/th?id=OIP.FxxAo9yncGidUbZKLa-EpAHaGQ&pid=Api",
+        "item_rarity": "Uncommon",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Item"
+    }, {
+        "item_description": "A wide, flat wooden paddle used for spanking. It causes no damage but is very painful and erotic when used. If employed as a weapon, the paddle deals 1 point of nonlethal damage.",
+        "item_id": 246,
+        "item_name": "Paddle",
+        "item_pic": "https://tse4.mm.bing.net/th?id=OIP.H5Xki0Ud1ZBtN4hJ-2E2cgAAAA&pid=Api",
+        "item_rarity": "Common",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Item"
+    }, {
+        "item_description": "These are specially designed straps that fit snugly around a male's penis or testicles, from which a weight dangles from a slender chain. The weight eventually gives length to the penis or scrotum. For some cultures, wearing penis weights is a sign that the male has reached adult status. \n\nWeights may be purchased for 1 gp per pound. Heavier and larger weights may be purchased for 1 gp per pound.\n\nWeights that are 2 pounds or more impose disadvantage on Dexterity checks.",
+        "item_id": 247,
+        "item_name": "Penis Weights",
+        "item_pic": "https://tse1.explicit.bing.net/th?id=OIP.JDbGOW6RdHLwHeH_UFc6YAHaHg&pid=Api",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Clothing"
+    }, {
+        "item_description": "A piercing kit contains a wide array of needles, clamps, pads, gauze, alcohol and other implements used to pierce the skin The cost on the item table does not include die price of jewelry, which must be bought separately.",
+        "item_id": 248,
+        "item_name": "Piercing Kit",
+        "item_pic": "https://tse2.mm.bing.net/th?id=OIP.kVWTGY7nRFeXIF3iV6n8mQHaHa&pid=Api",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Tools"
+    }, {
+        "item_description": "A leather or rattan crop normally employed for guiding horses, but commonly used as a symbol of authority. A riding crop is stiff like a paddle but is distinguished by having a small striking surface. A strike from a riding crop deals 1 point of nonlethal damage if used as a weapon.",
+        "item_id": 249,
+        "item_name": "Riding Crop",
+        "item_pic": "http://i.ebayimg.com/images/i/380948252581-0-1/s-l1000.jpg",
+        "item_rarity": "Common",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Item"
+    }, {
+        "item_description": "This kit is similar to a bloodletter's kit, including scalpels, needles, specialized tools, and mixtures that promote scarring and/or coloration of wounds.",
+        "item_id": 250,
+        "item_name": "Scarification Kit",
+        "item_pic": "",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantas",
+        "item_type": "Tools"
+    }, {
+        "item_description": "One dose of this ointment, rubbed into the genitals, increases sensitivity and sexual stimulation. It decreases the amount of time that one can sustain sex without making a check by 10 minutes.",
+        "item_id": 251,
+        "item_name": "Sensitising Oil",
+        "item_pic": "",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Potion"
+    }, {
+        "item_description": "A leather case contains dildos, cocksheaths, leather straps, feathers, and silk scarves. It adds advantage on sexually focused skill checks.",
+        "item_id": 252,
+        "item_name": "Sex Toy Kit",
+        "item_pic": "",
+        "item_rarity": "Uncommon",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Tools"
+    }, {
+        "item_description": " This slippery lubricating oil gives the user advantage on acrobatics checks to escape. One application lasts for 1 hour.",
+        "item_id": 253,
+        "item_name": "Slickery",
+        "item_pic": "",
+        "item_rarity": "Uncommon",
+        "item_source": "Book of Erotic Oil",
+        "item_type": "Item"
+    }, {
+        "item_description": "These nipple shaped chocolates aid in conception. They increase the chance of conception by 10%.",
+        "item_id": 254,
+        "item_name": "Vershnat's Teats",
+        "item_pic": "",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Food"
+    }, {
+        "item_description": "A braided leather length often employed as a weapon or torture device. The sexual version is shorter and thus delivers less force. A whip, like a riding crop, is long with a small striking surface. It is distinguished from the riding crop by its flexible length. Floggers have multiple strands and are used to warm or prepare the skin. They do no damage. \n\nBullwhips usually have only a few or even one length and are longer.\n\nA strike from a bullwhip deals 1d2 points of nonlethal damage if used as a weapon.",
+        "item_id": 255,
+        "item_name": "Whip",
+        "item_pic": "https://www.dhresource.com/0x0s/f2-albu-g5-M00-EE-6D-rBVaJFi-uqmATD6iAAEMagY7XXQ925.jpg/sexy-whips-sex-products-sex-toys-for-couples.jpg",
+        "item_rarity": "Uncommon",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Item"
+    }, {
+        "item_description": "This blue black liquid can be taken straight, but is commonly added to a drink. It has a very mild metallic taste, Wisdom check DC 20 to notice. It is made from exotic crushed minerals that are found in desert regions. It encourages sexual activity, but makes the user very sensitive to light.\n\nInitial Effect: ld4 points of Wisdom damage.\n\nSecondary Effect: The subject becomes susceptible to commands as per the suggestion spell, but only relating to sexual situations and requests for sex.\n\nSide Effects: A creature under the effects of Black Out must make a Constitution save DC15, or become dazzled in bright sunlight or within the radius of a daylight spell. This effect lasts for 24 hours.\n\nOverdose: Black Out can be dangerous if over used. Anyone who takes more than one dose in 24 hours must make a Constitution save DC15, or take ld3 points of Constitution damage.",
+        "item_id": 256,
+        "item_name": "Black Out",
+        "item_pic": "https://i.pinimg.com/originals/36/36/54/363654141da168350d8203ba082082a2.jpg",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Drug"
+    }, {
+        "item_description": "Resembling small crystalline lumps and fine clear powder, crystal powder is burned as incense. It has a pleasant, light smell similar to lemons, Wisdom DC 20 to recognize.\n\nInitial Effect: ld4 points of Wisdom damage.\n\nSecondary Effect: Those under the effect of crystal vapor feel euphoria and a heightened libido. The user suffers a -4 penalty to all Persuasion checks versus seduction attempts. However, they gain a +2 bonus to Sexual Performance checks.\n\nOverdose: If more than one dose is taken in a 24 hour period, the user becomes confused as the confusion spell for an additional ld3 hours.",
+        "item_id": 257,
+        "item_name": "Crystal Vapor",
+        "item_pic": "https://ak6.picdn.net/shutterstock/videos/4248146/thumb/3.jpg",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Drug"
+    }, {
+        "item_description": "This aphrodisiac comes in small golden tablets that are ingested. They are easily obtained, but expensive, and popular with hedonists and orgiastic religions.\n\nInitial Effect: Everything within the user's vision obtains a beautiful, but distracting, golden glow, imposing disadvantage on Investigation checks to search, and Perception checks to listen.\n\nSecondary Effect: The user becomes extremely sexually aroused and will be impelled to engage in sex if possible. They also gain a +2 to Sexual Performance checks for 3 hour.\n\nOverdose: More than one dose per 24 hours means the user's libido is completely suppressed and they slumps into a deep depression. They suffer a -4 penalty to all Deception, Persuasion, and Intimidation checks until they finish a long rest.",
+        "item_id": 258,
+        "item_name": "Golden Haze",
+        "item_pic": "https://tse2.mm.bing.net/th?id=OIP.4gNgCPMBTwjn1-1-9Lm7cAHaFj&pid=Api",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Drug"
+    }, {
+        "item_description": "The root from this plant is chewed to produce a lowered inhibition and increase stamina. It has a foul taste like strong, rotting cabbage. Wisdom check DC 10, to notice if mixed in food.\n\nInitial Effect: The user becomes nauseated for 2dl0 minutes.\n\nSecondary Effect: The user gains a 1d8 Constitution bonus for the purposes of sustaining sex\n\nOverdose: If the user takes more than one dose within a 24 hour period, they must make a Constitution save DC 18, or become permanently sterile.",
+        "item_id": 259,
+        "item_name": "Osquin Root",
+        "item_pic": "https://tse4.mm.bing.net/th?id=OIP.3R-69XDs1ehFdaaoQHHBTQHaE8&pid=Api",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Drug"
+    }, {
+        "item_description": "This reddish liquid is commonly applied to a cloth and then inhaled. It is a powerful stimulant that heightens sexual arousal.\n\nInitial Effect: The user suffers 1d2 points of Intelligence and Wisdom damage.\n\nSecondary Effect: The user gains a +2 bonus to Charisma for 2 hours.\n\nOverdose: If two doses are taken with the space of an hour, the user becomes violent and will begin attacking the nearest person, ally or foe. This effect lasts for one hour. If swallowed, the user needs to make a Constitution save DC13, or suffer 1d6 points of Strength damage.",
+        "item_id": 260,
+        "item_name": "Red Fire",
+        "item_pic": "",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Drug"
+    }, {
+        "item_description": "The common condom is made from sheepskin or some other animal part that is both flexible and tight fitting. An improvised condom is any sort of barrier wrapped around the penis without having been crafted by the appropriate tool set. A custom condom is a superior piece of work, made from thin rubber or some other exotic substance that is much more impermeable than sheepskin.\n\nCondoms reduce the chance of conception from occurring. As barriers that prevent bodily sexual fluids from being transmitted between partners, condoms may grant advantage to resist sexually transmitted disease. Improvised condoms give no bonus on Constitution saves to resist sexually transmitted disease. Common condoms grant advantage on this save and custom condoms grant a +4 bonus on top of advantage.",
+        "item_id": 261,
+        "item_name": "Condom",
+        "item_pic": "https://tse1.mm.bing.net/th?id=OIP.Vsbq2dy6zUcCS0aYyH7qcQHaE6&pid=Api",
+        "item_rarity": "Common",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Item"
+    }, {
+        "item_description": "A diaphragm is a physical barrier placed in the vagina of a female to block sperm from entering the cervix. An improvised diaphragm is any sort of barrier inserted before sex without having been made with ceramic using the mason tool set. A masterwork diaphragm is a superior piece of work, made from thin rubber or some other exotic substance that is custom made for the user. For our purposes, a cervical cap is a form of diaphragm.\n\nDiaphragms provide no bonus on Constitution saves to prevent sexually transmitted diseases.",
+        "item_id": 263,
+        "item_name": "Diaphragms",
+        "item_pic": "",
+        "item_rarity": "Uncommon",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Item"
+    }, {
+        "item_description": "Pessaries are mixtures of various natural substances that act as a spermicidal agent inside a woman's vagina. They are not as effective as barriers, condoms, and diaphragms, when used alone, but are commonly used in conjunction with other birth control as an additional precaution.\n\nCommon pessaries are easily made, requiring Alchemist's Tools and a DC 10. Superior pessaries use more exotic and powerful ingredients and require a DC 20 to craft with the Alchemist's Tools.\n\nIf sex results in pregnancy while the female is using a pessary, make a d% roll, this is the percent chance that the pessary prevents conception from occurring.\n\nPessaries provide no bonus on Constitution saves to prevent sexually transmitted diseases.",
+        "item_id": 264,
+        "item_name": "Pessaries",
+        "item_pic": "",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Item"
+    }, {
+        "item_description": "This ring allows the wearer to touch a creature and determine if they are carrying a disease, as per the detect disease spell. Adventurers who frequent brothels covet these items.",
+        "item_id": 265,
+        "item_name": "Ring of Disease Detection",
+        "item_pic": "https://tse1.mm.bing.net/th?id=OIP.qLugMn-5bbY5VmtMHn3UcwHaHa&pid=Api",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wonderous Item"
+    }, {
+        "item_description": "A ring of shielding is one of two kinds: Protector or protected. They are created at the same time.\n\nProtected The wearer of a protected version of the ring of shielding fulfills the role of the recipient of the shield. They are surrounded by a magical force, providing a bonus to their AC equal to their Dexterity modifier. Additionally, the protected halves any damage done to them, giving the other half to the protector.\n\nProtector The wearer of a protector version of the ring of shielding fulfills the role of the protector. The protector takes the burden from the protected onto themselves. The protector takes half of all damage that the protected takes.\n\nThe rings only work when the two parties are within 30 feet. They automatically stop functioning if the wearers are more than 30 feet apart and likewise automatically resume functioning if the wearers resume the 30 foot proximity.",
+        "item_id": 266,
+        "item_name": "Ring of Shielding",
+        "item_pic": "http://i.ebayimg.com/images/i/381057777412-0-1/s-l1000.jpg",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wonderous Item"
+    }, {
+        "item_description": "A ring of status is one of two kinds: Principal or secondary. A principal ring must be created first and then the secondary ring or rings are created and tied to the Principal ring.\n\nPrincipal Ring The wearer of a principal ring is aware of the wearers of secondary rings joined to it. They are aware of the distance to each ring bearer and any conditions affecting them.\n\nSecondary Ring The wearer of this ring is watched over by the wearer of the principal ring.",
+        "item_id": 267,
+        "item_name": "Status Ring",
+        "item_pic": "http://anextweb.com/wp-content/uploads/2016/05/Gold-ring.jpg",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wonderous Item"
+    }, {
+        "item_description": "This ring throbs gently whenever a lie is said in hearing range of the wearer.",
+        "item_id": 268,
+        "item_name": "Ring of Truth",
+        "item_pic": "https://tse2.mm.bing.net/th?id=OIP.zCT1kpCqQWtL4h13DhEMQQHaHa&pid=Api",
+        "item_rarity": "Legendary",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wonderous Item"
+    }, {
+        "item_description": "This solid iron rod is unadorned and uncomfortably cold to the touch. Once per day, the rod can release a wave of energy that saps the libido and self confidence of everyone within 30 feet of the wielder. Any creatures within range must make a Wisdom save, DC 20, or suffer 1d6 points of Charisma damage. The wielder gains the same amount to their Charisma score for 24 hours. Any creatures that sustain damage also lose any sexual desire for 24 hours, gaining no benefit from sexual feats, spells, or abilities. This effect may be negated by dispel good/evil or remove curse.",
+        "item_id": 269,
+        "item_name": "Rod of Repression",
+        "item_pic": "",
+        "item_rarity": "Legendary",
+        "item_source": "Book of Erotic Evil",
+        "item_type": "Wondrous Item"
+    }, {
+        "item_description": "These boots are made of tight black leather and extend all the way up to the hip. When worn, they grant advantage on Intimidation checks. In addition, any creature that attempts to attack or even speak in a disrespectful way to someone wearing Boots of Authority must make an opposed Charisma saving throw to do so. If the creature succeeds, it does not have to make another opposed Charisma save for 24 hours. This effect ends if the wearer attacks the victim, although she may still verbally berate him.",
+        "item_id": 271,
+        "item_name": "Boots of Authority",
+        "item_pic": "https://tse4.mm.bing.net/th?id=OIP.qzCu0P-BpWa8hBFzZplDnwHaLE&pid=Api",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wondrous Item"
+    }, {
+        "item_description": "This ring shaped object is worn differently by each gender. Males wear it snuggly fitted to the base of their penis. Females wear it pierced through their labia (Piercing Tool Kit DC 10). It grants a +1 bonus on Constitution checks made to sustain sex",
+        "item_id": 272,
+        "item_name": "Circle of Sexual Stamina",
+        "item_pic": "",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wondrous Item"
+    }, {
+        "item_description": "This black leather riding crop has a silver pommel, resembling two bound hands. The wielder gains advantage on Charisma checks. In addition, the wielder may cast dominate person three times per day.",
+        "item_id": 273,
+        "item_name": "Crop of the Mistress",
+        "item_pic": "",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wondrous Item"
+    }, {
+        "item_description": "Long ago, alchemists brewing poisons learned that steeping them in a magic cup enhanced their effectiveness. When used to brew a poison, a cup of cruelty increases the save DC of the poison by 1.",
+        "item_id": 274,
+        "item_name": "Cup of Cruelty",
+        "item_pic": "https://www.abouttimemagazine.co.uk/wp-content/uploads/2016/11/Emerald-Wine-Cup-1.91-Courtesy-Simon-Ray-Ltd-asian-art-london.jpg",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wonderous Item"
+    }, {
+        "item_description": "These realistic and attractive looking breasts are carved from a single piece of exotic wood and have concave bases. Despite the material, false breasts are slightly warm and flesh like to tire touch. When placed on the chest of a male humanoid, monstrous humanoid, or Fey, they bond in place. After 1 minute, the false breasts change until they match the skin tone of the wearer, and both look and feel completely natural. The wearer can then choose the size of the breasts and they remain that size until the false breasts are removed and donned again. The wearer feels sensations as if they were real breasts. It does not bond to the skin of a female, or any creature type other than humanoid, monstrous humanoid, or Fey.",
+        "item_id": 275,
+        "item_name": "False Breasts",
+        "item_pic": "",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wonderful Items"
+    }, {
+        "item_description": "This realistic looking-phallus and testicles are carved from a piece of exotic wood and has a flat base. Despite the material, the false penis is slightly warm and flesh like to the touch. When a female humanoid, monstrous humanoid, or Fey places the false penis over her own genitalia, it bonds with the skin. After 1 minute, the false penis changes until it matches the skin tone of the wearer and functions normally as if she were in fact a male. The wearer can choose the size of the penis. As long as the false penis is worn, the wearer is capable of engaging in sex and impregnating another female. As her own genitals are covered, the wearer cannot get pregnant while wearing the false penis. It does not bond with the skin of a male, or any creature type other than humanoid, monstrous humanoid, or Fey.",
+        "item_id": 276,
+        "item_name": "False Penis",
+        "item_pic": "",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wonderful Items"
+    }, {
+        "item_description": "Raised designs and patterns of swirls ornament this cocksheath. It enables a corporeal creature and an incorporeal creature to interact sexually.",
+        "item_id": 277,
+        "item_name": "Ghost Sheath",
+        "item_pic": "",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wonderful Items"
+    }, {
+        "item_description": "These gray, elbow length gloves are embroidered wide misty swirls of pale gray threads. They enable an unarmed strike to deal damage normally against incorporeal creatures. The gloves can be picked up and moved by an incorporeal creature at any time. A manifesting ghost can use the gloves against corporeal foes. Like a ghost touch weapon, these gloves count as either corporeal or incorporeal at any given time, whichever is more beneficial to the wearer.\n\nThe gloves have noncombat uses, too. A corporeal creature desiring to touch a ghost or a ghost desiring to feel a corporeal creature often uses the gloves as a means of interaction.",
+        "item_id": 278,
+        "item_name": "Gloves of Ghost Touch",
+        "item_pic": "",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wonderous Items"
+    }, {
+        "item_description": "More societies ban this exotic sex manual than permit its use. Among the Seekers, however, reading and using the book garners much prestige. This manual grants the user a +2 bonus on anything related to sex.",
+        "item_id": 279,
+        "item_name": "Gnomish Kama Sutra",
+        "item_pic": "",
+        "item_rarity": "Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wonderous Item"
+    }, {
+        "item_description": "This finely crafted place leather harness is covered with straps, buckles, and rings. A long leash leads from a collar around the neck. It fits tightly around the body and is uncomfortable to wear. When worn, the harness of submissiveness deals 1d8 points of Wisdom damage. The harness of submissiveness may only be removed by the casting of remove curse, or by uttering a command word spoken by someone other than the wearer.",
+        "item_id": 280,
+        "item_name": "Harness of Submissiveness",
+        "item_pic": "https://tse1.explicit.bing.net/th?id=OIP.TYtMi01SyMNe7gt24hAukAHaHa&pid=Api",
+        "item_rarity": "Legendary",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wondrous Item"
+    }, {
+        "item_description": "Undead value this garment's ability to preserve their bodies. The shirt continually exerts a gentle repose upon tire body wearing it.",
+        "item_id": 281,
+        "item_name": "Shirt of Gentle Repose",
+        "item_pic": "https://tse3.mm.bing.net/th?id=OIP.O3r2MS9ymj29F4G8VqEqDAHaJ4&pid=Api",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wondrous Item"
+    }, {
+        "item_description": "This regal-looking +1 breastplate is finely crafted, with small etchings of valiant warriors doing battle with terrible beasts. The wearer of die armor is filled with an overwhelming belief in his own actions, looks, and social grace.\n\nIn truth, die character suffers a -4 penalty on all Charisma related checks. In addition, the character becomes prone to making rash and potentially dangerous acts. In combat situations, any time die character dies to take any delay, ready, or other actions that do not involve moving toward the opponent or attacking, he must make a Wisdom save (DC15). Failure indicates that the character forgoes caution and advances toward die opponent or attacks.",
+        "item_id": 282,
+        "item_name": "Armor of Overconfidence",
+        "item_pic": "https://previews.123rf.com/images/vitaliygaydukov/vitaliygaydukov1706/vitaliygaydukov170600001/79732690-medieval-armor-on-the-body-in-the-style-of-a-lion-with-large-shoulder-pads-on-an-isolated-white-back.jpg",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Armor"
+    }, {
+        "item_description": "This amulet is a simple silver chain with a large ruby that pulses slightly as the wearer becomes aroused. The amulet heightens the sensations and senses of the wearer. Three times per day, the wearer may use hedonist's delight. In addition, the wearer gains advantage to Perception checks while worn.",
+        "item_id": 283,
+        "item_name": "Amulet of the Eternal Sensation",
+        "item_pic": "https://tse4.mm.bing.net/th?id=OIP.2fLHELnMkGMQCengXl1wYQHaHa&pid=Api",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wondrous Item"
+    }, {
+        "item_description": "One of these celestial dryad seeds can be consumed to create an effect identical to the invigorate spell.",
+        "item_id": 284,
+        "item_name": "Acorns of Heaven",
+        "item_pic": "https://tse3.mm.bing.net/th?id=OIP.BXEYhD6LVWOR0Q0S7qhR0gHaFz&pid=Api",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wondrous Item"
+    }, {
+        "item_description": "This staff is made of rowan wood with runes made of silver embedded into the wood. It allows the use of the following spells. Healing sphere (1 charge) Succor (3 charges) Mass vision of exquisite pleasure (3 charges)\n\nThe staff regains 1d4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.",
+        "item_id": 285,
+        "item_name": "Staff of Holy Pleasure",
+        "item_pic": "",
+        "item_rarity": "Very Rare",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wondrous Item"
+    }, {
+        "item_description": "Made of clear crystal, this staff catches and reflects the light like a prism. Mantle of love (1 charge) Resist temptation (5 charge)\n\nThe staff regains 1d4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.",
+        "item_id": 286,
+        "item_name": "Staff of Purity",
+        "item_pic": "",
+        "item_rarity": "Rare ",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wondrous Item"
+    }, {
+        "item_description": "Truly only of full utility to those who have the perversion domain, a staff of the sexually perverse varies greatly in appearance. Some look like misshapen, engorged penises. Others look like a withered branch. They are always shaped like something twisted or unnatural. Cursed orgasm (1 charge) Impotency (2 charges) Fiendish seed (10 charges) Reverse Gender (5 charges)\n\nThe staff regains 1d8 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.",
+        "item_id": 287,
+        "item_name": "Staff of the Sexually Perverse",
+        "item_pic": "",
+        "item_rarity": "Legendary ",
+        "item_source": "Book of Erotic Fantasy",
+        "item_type": "Wondrous Item"
+    }
+]
