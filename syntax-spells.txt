@@ -1,0 +1,92 @@
+  /*	-WHAT IS THIS?-
+	The script featured here is an explanation of how to make your own spell import file dndTome.
+	-KEEP IN MIND-
+    - You must follow this structure exactly for the import to work
+    - The file type MUST be json , IE. something.json 
+    - A template to copy can be found at bottom
+    */
+
+/*	-INFORMATION-
+	Subject:	Spell
+	Effect:		This is the syntax for adding a new spell
+	version:	1.0
+    If you are looking to just add a single spell the UI in application can help aswell
+*/
+
+
+[
+    {
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */ 
+        "spell_name": "",
+        /*
+        * Rules: Comma seperated list ,First Letter Capitalised of each class("Sorcerer,Wizard")
+        * Datatype: String
+        */ 
+        "spell_classes": "",
+        /*
+        * Rules: 
+        * Datatype: String
+        */ 
+        "spell_sources": "",
+        /*
+        * Rules: only number
+        * Datatype: Integer
+        */ 
+        "spell_level": 1,
+        /*
+        * Rules: First Letter Capitalised - Pleasse use full school name
+        * Datatype: String
+        */ 
+        "spell_school": "",
+        /*
+        * Rules: Use full name, ie. (1 Action , 1 Bonus Action, etc)
+        * Datatype: String
+        */ 
+        "spell_time": "",
+        /*
+        * Rules: First range and then , area ie. (60 ft, 40 ft Cone )
+        * Datatype: String
+        */ 
+        "spell_range": "",
+        /*
+        * Rules: Capitilized
+        * Datatype: String
+        */ 
+        "spell_components": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */ 
+        "spell_duration": "",
+        /*
+        * Rules: Either 1(True) Or 0 (Null)
+        * Datatype: Boolean(tinyInteger)
+        */ 
+        "spell_ritual": 0,
+        /*
+        * Rules: First Letter Capitalised - Description of the spell
+        * Datatype: String
+        */ 
+        "spell_text": ""
+    }
+]
+
+/*	-TEMPLATE TO COPY- */
+[
+    {
+    "spell_name": "",
+    "spell_classes": "",
+    "spell_sources": "",
+    "spell_level": 1,
+    "spell_school": "",
+    "spell_time": "",
+    "spell_range": "",
+    "spell_components": "",
+    "spell_duration": "",
+    "spell_ritual": 0,
+    "spell_text": ""
+    }
+]

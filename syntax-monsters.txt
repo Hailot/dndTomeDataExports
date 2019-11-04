@@ -1,0 +1,192 @@
+  /*	-WHAT IS THIS?-
+	The script featured here is an explanation of how to make your own monster import file dndTome.
+	-KEEP IN MIND-
+    - You must follow this structure exactly for the import to work
+    - The file type MUST be json , IE. something.json 
+    - A template to copy can be found at bottom
+    */
+
+/*	-INFORMATION-
+	Subject:	Monster
+	Effect:		This is the syntax for adding a new monster
+	version:	1.0
+    If you are looking to just add a single monster the UI in application can help aswell
+*/
+[
+    {
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */ 
+        "monster_name": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */ 
+        "monster_size": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_type": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_subtype": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_cr": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_alignment": "",
+        /*
+        * Rules: Only numbers
+        * Datatype: Integer
+        */
+        "monster_armorClass": 1,
+        /*
+        * Rules: Only numbers
+        * Datatype: Integer
+        */
+        "monster_hitPoints": 1,
+        /*
+        * Rules: Only numbers
+        * Datatype: Integer
+        */
+        "monster_strength": 1,
+        /*
+        * Rules: Only numbers
+        * Datatype: Integer
+        */
+        "monster_dexterity": 1,
+        /*
+        * Rules: Only numbers
+        * Datatype: Integer
+        */
+        "monster_constitution": 1,
+        /*
+        * Rules: Only numbers
+        * Datatype: Integer
+        */
+        "monster_intelligence": 1,
+       /*
+        * Rules: Only numbers
+        * Datatype: Integer
+        */
+        "monster_wisdom": 1,
+        /*
+        * Rules: Only numbers
+        * Datatype: Integer
+        */
+        "monster_charisma": 1,
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_dmgVulnerabilities": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_dmgResistance": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_dmgImmunities": "",
+        /*
+        * Rules: First Letter Capitalised ("Charmed, Frightened")
+        * Datatype: String
+        */
+        "monster_conImmunities": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_senses": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_lang": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_source": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_pic": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_savingThrows": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_ablt": "",
+        /*
+        * Rules: First Letter Capitalised ("Athletics: 9, Intimidation: 5,")
+        * Datatype: String
+        */
+        "monster_skills": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_sAblt": "",
+        /*
+        * Rules: First Letter Capitalised
+        * Datatype: String
+        */
+        "monster_lAbtl": "",
+        /*
+        * Rules: First Letter Capitalised ("Walk 40 ft, Fly 30 ft")
+        * Datatype: String
+        */
+        "monster_speed": ""
+    }
+]
+
+/*  -TEMPLATE TO COPY- */
+[
+    {
+        "monster_name": "",
+        "monster_size": "",
+        "monster_type": "",
+        "monster_subtype": "",
+        "monster_cr": "",
+        "monster_alignment": "",
+        "monster_armorClass": 1,
+        "monster_hitPoints": 1,
+        "monster_strength": 1,
+        "monster_dexterity": 1,
+        "monster_constitution": 1,
+        "monster_intelligence": 1,
+        "monster_wisdom": 1,
+        "monster_charisma": 1,
+        "monster_dmgVulnerabilities": "",
+        "monster_dmgResistance": "",
+        "monster_dmgImmunities": "",
+        "monster_conImmunities": "",
+        "monster_senses": "",
+        "monster_lang": "",
+        "monster_source": "",
+        "monster_pic": "",
+        "monster_savingThrows": "",
+        "monster_ablt": "",
+        "monster_skills": "",
+        "monster_sAblt": "",
+        "monster_lAbtl": "",
+        "monster_speed": ""
+    }
+]
