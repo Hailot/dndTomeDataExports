@@ -1,744 +1,3170 @@
-[{
-        "item_description": "Abacus [2 gp]",
-        "item_name": "Abacus",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Acid (vial) [25 gp]",
-        "item_name": "Acid, vials of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Alchemist's fire (flask) [50 gp]",
-        "item_name": "Alchemist's fire, flasks of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Arrows (20) [1 gp]",
-        "item_name": "Arrows",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Blowgun needles (50) [1 gp]",
-        "item_name": "Blowgun needles",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Crossbow bolts (20) [1 gp]",
-        "item_name": "Crossbow bolts",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Sling bullets (20) [4 cp]",
-        "item_name": "Sling bullets",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Antitoxin (vial) [50 gp]",
-        "item_name": "Antitoxin, vials of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Crystal [10 gp]",
-        "item_name": "Crystal arcane focus",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Orb [20 gp]",
-        "item_name": "Orb arcane focus",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Rod [10 gp]",
-        "item_name": "Rod arcane focus",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Staff [5 gp]",
-        "item_name": "Staff arcane focus",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Wand [10 gp]",
-        "item_name": "Wand arcane focus",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Backpack [2 gp]",
-        "item_name": "Backpack",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Ball bearings (bag of 1,000) [1 gp]",
-        "item_name": "Bag of 1000 ball bearings",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Barrel [2 gp]",
-        "item_name": "Barrel",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Basket [4 sp]",
-        "item_name": "Basket",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Bedroll [1 gp]",
-        "item_name": "Bedroll",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Bell [1 gp]",
-        "item_name": "Bell",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Bit and bridle [2 gp]",
-        "item_name": "Bit and bridle",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Blanket [5 sp]",
-        "item_name": "Blanket",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Block and tackle [1 gp]",
-        "item_name": "Block and tackle",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Book [25 gp]",
-        "item_name": "Book",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Bottle, glass [2 gp]",
-        "item_name": "Glass bottle",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Bucket [5 sp]",
-        "item_name": "Bucket",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Caltrops [1 gp]",
-        "item_name": "Caltrops",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Candle [1 cp]",
-        "item_name": "Candle",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Case, crossbow bolt [1 gp]",
-        "item_name": "Crossbow bolt case",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Case, map or scroll [1 gp]",
-        "item_name": "Map or scroll case",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Chain (10 feet) [5 gp]",
-        "item_name": "Chain, feet of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Chalk (1 piece) [1 cp]",
-        "item_name": "Chalk, pieces of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Chest [5 gp]",
-        "item_name": "Chest",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Climber's kit [25 gp]",
-        "item_name": "Climber's kit",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Common [5 sp]",
-        "item_name": "Common clothes",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Costume [5 gp]",
-        "item_name": "Costume clothes",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Fine [15 gp]",
-        "item_name": "Fine clothes",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Traveler's [2 gp]",
-        "item_name": "Traveler's clothes",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Component pouch [25 gp]",
-        "item_name": "Component pouch",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Crowbar [2 gp]",
-        "item_name": "Crowbar",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Sprig of mistletoe [1 gp]",
-        "item_name": "Sprig of mistletoe druidic focus",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Totem [1 gp]",
-        "item_name": "Totem druidic focus",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Wooden staff [5 gp]",
-        "item_name": "Wooden staff druidic focus",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Yew wand  [10 gp]",
-        "item_name": "Yew wand druidic focus",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Fishing tackle [1 gp]",
-        "item_name": "Fishing tackle",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Flask or tankard [2 cp]",
-        "item_name": "Flask or tankard",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Grappling hook [2 gp]",
-        "item_name": "Grappling hook",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Hammer [1 gp]",
-        "item_name": "Hammer",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Hammer, sledge [2 gp]",
-        "item_name": "Sledge hammer",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Healer's kit [5 gp]",
-        "item_name": "Healer's kit",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Amulet [5 gp]",
-        "item_name": "Amulet holy symbol",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Emblem [5 gp]",
-        "item_name": "Emblem holy symbol",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Reliquary [5 gp]",
-        "item_name": "Reliquary holy symbol",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Holy water (flask) [25 gp]",
-        "item_name": "Holy water, flasks of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Hourglass [25 gp]",
-        "item_name": "Hourglass",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Hunting trap [5 gp]",
-        "item_name": "Hunting trap",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Ink (1 ounce bottle) [10 gp]",
-        "item_name": "Ink, 1 ounce bottle of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Ink pen [2 cp]",
-        "item_name": "Ink pen",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Jug or pitcher [2 cp]",
-        "item_name": "Jug or pitcher",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Small Knife [1 sp]",
-        "item_name": "Small Knife",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Ladder (10-foot) [1 sp]",
-        "item_name": "10-foot ladder",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Lamp [5 sp]",
-        "item_name": "Lamp",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Lantern, bullseye [10 gp]",
-        "item_name": "Bullseye lantern",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Lantern, hooded [5 gp]",
-        "item_name": "Hooded lantern",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Lock [10 gp]",
-        "item_name": "Lock",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Magnifying glass [100 gp]",
-        "item_name": "Magnifying glass",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Manacles [2 gp]",
-        "item_name": "Manacles",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Mess kit [2 sp]",
-        "item_name": "Mess kit",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Mirror, steel [5 gp]",
-        "item_name": "Steel mirror",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Oil (flask) [1 sp]",
-        "item_name": "Oil, flasks of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Paper (one sheet) [2 sp]",
-        "item_name": "Paper, sheets of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Parchment (one sheet) [1 sp]",
-        "item_name": "Parchment, sheets of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Perfume (vial) [5 gp]",
-        "item_name": "Perfume, vials of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Pick, miner's [2 gp]",
-        "item_name": "Miner's pick",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Piton [5 cp]",
-        "item_name": "Piton",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Poison, basic (vial) [100 gp]",
-        "item_name": "Basic poison, vials of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Pole (10-foot) [5 cp]",
-        "item_name": "10-foot pole",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Pot, iron [2 gp]",
-        "item_name": "Iron pot",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Potion of healing [50 gp]",
-        "item_name": "Potion of healing",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Pouch [5 sp]",
-        "item_name": "Pou﻿ch",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Quiver [1 gp]",
-        "item_name": "Quiver",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Ram, portable [4 gp]",
-        "item_name": "Portable ram",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Rations (1 day) [5 sp]",
-        "item_name": "Rations, days of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Robes [1 gp]",
-        "item_name": "Robes",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Rope, hempen (50 feet) [1 gp]",
-        "item_name": "Hempen rope, feet of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Rope, silk (50 feet) [10 gp]",
-        "item_name": "Silk rope, feet of",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Sack [1 cp]",
-        "item_name": "Sack",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Exotic [60 gp]",
-        "item_name": "Exotic saddle",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Military [20 gp]",
-        "item_name": "Military saddle",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Pack [5 gp]",
-        "item_name": "Pack saddle",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Riding [10 gp]",
-        "item_name": "Riding saddle",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Saddlebags [4 gp]",
-        "item_name": "Saddlebags",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Scale, merchant's [5 gp]",
-        "item_name": "Merchant's scale",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Sealing wax [5 cp]",
-        "item_name": "Sealing wax",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Shovel [2 gp]",
-        "item_name": "Shovel",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Signal whistle [5 cp]",
-        "item_name": "Signal whistle",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Signet ring [5 gp]",
-        "item_name": "Signet ring",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Soap [2 cp]",
-        "item_name": "Soap",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Spellbook [50 gp]",
-        "item_name": "Spellbook",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Spikes, iron (10) [1 gp]",
-        "item_name": "Iron spike",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Spyglass [1000 gp]",
-        "item_name": "Spyglass",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Tent, two-person [2 gp]",
-        "item_name": "Two-person tent",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Tinderbox [5 sp]",
-        "item_name": "Tinderbox",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Torch [1 cp]",
-        "item_name": "Torch",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Vial [1 gp]",
-        "item_name": "Vial",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Waterskin [2 sp]",
-        "item_name": "Waterskin",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
-    }, {
-        "item_description": "Whetstone [1 cp]",
-        "item_name": "Whetstone",
-        "item_pic": "",
-        "item_rarity": "common",
-        "item_source": "SRD",
-        "item_type": "Adventuring Gear"
+[
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "A standard tool used to make calculations.",
+      "gear_name": "Abacus",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "",
+      "gear_description": "As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.",
+      "gear_name": "Vials of acid",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.",
+      "gear_name": "Flasks of alchemist's fire",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "Arrows",
+      "gear_name": "Arrows",
+      "gear_weight": "0.05 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "Blowgun needles are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+      "gear_name": "Blowgun Needles",
+      "gear_weight": "0.02 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "Crossbow bolts are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+      "gear_name": "Crossbow bolts",
+      "gear_weight": "1.5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "4 cp",
+      "gear_properties": "",
+      "gear_description": "Sling bullets",
+      "gear_name": "Sling bullets",
+      "gear_weight": "0.075 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.",
+      "gear_name": "Vials of antitoxin",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, as described in the Spellcasting section.",
+      "gear_name": "Crystal arcane focus",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "20 gp",
+      "gear_properties": "",
+      "gear_description": "An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, as described in the Spellcasting section.",
+      "gear_name": "Orb arcane focus",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, as described in the Spellcasting section.",
+      "gear_name": "Rod arcane focus",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, as described in the Spellcasting section.",
+      "gear_name": "Staff arcane focus",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, as described in the Spellcasting section.",
+      "gear_name": "Wand arcane focus",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "",
+      "gear_name": "Backpack",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "Bag of 1000 ball bearings",
+      "gear_name": "Bag of 1000 ball bearings",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "A barrel can hold 40 gallons of liquid, or 4 cubic feet of solid material.",
+      "gear_name": "Barrel",
+      "gear_weight": "70 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "4 sp",
+      "gear_properties": "",
+      "gear_description": "A basket can hold 2 cubic feet/40 pounds of gear.",
+      "gear_name": "Basket",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "You never know where you’re going to sleep, and a bedroll helps you get better sleep in a hayloft or on the cold ground. A bedroll consists of bedding and a blanket thin enough to be rolled up and tied. In an emergency, it can double as a stretcher.",
+      "gear_name": "Bedroll",
+      "gear_weight": "7 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "A standard bell that rings, typically used for signaling.",
+      "gear_name": "Bell",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "Standard equipment used to direct a mount.",
+      "gear_name": "Bit and Bridle",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 sp",
+      "gear_properties": "",
+      "gear_description": "A thick, quilted, blanket made to keep you warm in cold weather.",
+      "gear_name": "Blanket",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.",
+      "gear_name": "Block and Tackle",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "150 gp",
+      "gear_properties": "",
+      "gear_description": "As an action, a character can light this bomb and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must succeed on a DC 12 Dexterity saving throw or take 3d6 fire damage.",
+      "gear_name": "Bomb",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "",
+      "gear_description": "A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook.",
+      "gear_name": "Book",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "A pair of boots - included as part of most sets of clothing.",
+      "gear_name": "Boots",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "A block of incense, typically found in a priest's pack.",
+      "gear_name": "Block of Incense",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "A bottle can hold 1 1/2 pints of liquid.",
+      "gear_name": "Glass Bottle",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 cp",
+      "gear_properties": "",
+      "gear_description": "A bucket can hold 3 gallons of liquid, or 1/2 cubic foot of solid material.",
+      "gear_name": "Bucket",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature's walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn't need to make the save.",
+      "gear_name": "A Bag of Caltrops",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 cp",
+      "gear_properties": "",
+      "gear_description": "For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.",
+      "gear_name": "Candle",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "A canoe can be purchased in Port Nyanzaru for 50 gp. It holds up to six Medium creatures and has a maximum speed of 2 mph. It is otherwise identical to a rowboat (see chapter 5 of the Dungeon Master’s Guide).\nThe sale of canoes in Port Nyanzaru is controlled by the merchant prince Ekene-Afa.",
+      "gear_name": "Canoe",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "This wooden case can hold up to twenty crossbow bolts.",
+      "gear_name": "Crossbow bolt Case",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.",
+      "gear_name": "Map or scroll Case",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "A censer, typically found in a priest's pack.",
+      "gear_name": "Censer",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.",
+      "gear_name": "Map or scroll Case",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.",
+      "gear_name": "10 Feet of Chain",
+      "gear_weight": "10 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 cp",
+      "gear_properties": "",
+      "gear_description": "A piece of chalk used for writing and marking on various surfaces.",
+      "gear_name": "Pieces of Chalk",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "A chest can hold 12 cubic feet/ 300 pounds of gear.",
+      "gear_name": "Chest",
+      "gear_weight": "25 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "",
+      "gear_description": "Climber's kit",
+      "gear_name": "Climber's kit",
+      "gear_weight": "12 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 sp",
+      "gear_properties": "",
+      "gear_description": "This set of clothes could consist of a loose shirt and baggy breeches, or a loose shirt and skirt or overdress. Cloth wrappings are used for shoes.",
+      "gear_name": "Common clothes",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "This set of clothes is fashioned after a particular costume, typically meant for entertaining.",
+      "gear_name": "Costume clothes",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "15 gp",
+      "gear_properties": "",
+      "gear_description": "This set of clothes is designed specifically to be expensive and to show it, including fancy, tailored clothes in whatever fashion happens to be the current style in the courts of the nobles. Precious metals and gems could be worked into the clothing.",
+      "gear_name": "Fine clothes",
+      "gear_weight": "6 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "This set of clothes could consist of boots, a wool skirt or breeches, a sturdy belt, a shirt (perhaps with a vest or jacket), and an ample cloak with a hood.",
+      "gear_name": "Traveler's clothes",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "",
+      "gear_description": "A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).",
+      "gear_name": "Component pouch",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.",
+      "gear_name": "Crowbar",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "A druid can use a Sprig of Mistletoe (or holly) as a spellcasting focus, as described in the Spellcasting section.",
+      "gear_name": "Sprig of mistletoe druidic focus",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "A druid can use a Sprig of Mistletoe (or holly) as a spellcasting focus, as described in the Spellcasting section.",
+      "gear_name": "Totem druidic focus",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "A druid can use a Sprig of Mistletoe (or holly) as a spellcasting focus, as described in the Spellcasting section.",
+      "gear_name": "Wooden staff druidic focus",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "A druid can use a Sprig of Mistletoe (or holly) as a spellcasting focus, as described in the Spellcasting section.",
+      "gear_name": "Yew wand druidic focus",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "As an action, a creature can light a stick of dynamite and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must make a DC 12 Dexterity saving throw, taking 3d6 bludgeoning damage on a failed save, or half as much damage on a successful one.\nA character can bind sticks of dynamite together so they explode at the same time. Each additional stick increases the damage by 1d6 (to a maximum of 10d6) and the burst radius by 5 feet (to a maximum of 20 feet).\nDynamite can be rigged with a longer fuse to explode after a set amount of time, usually 1 to 6 rounds. Roll initiative for the dynamite. After the set number of rounds goes by, the dynamite explodes on that initiative.",
+      "gear_name": "Dynamite",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.",
+      "gear_name": "Fishing Tackle",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 cp",
+      "gear_properties": "",
+      "gear_description": "A flask or tankard can hold 1 pint of liquid.",
+      "gear_name": "Flask or Tankard",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 cp",
+      "gear_properties": "",
+      "gear_description": "Standard feed typically consumed by a mount per day.",
+      "gear_name": "Feed",
+      "gear_weight": "10 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "When tied to the end of a rope, a grappling hook can secure the rope to a battlement, window ledge, tree limb, or other protrusion.",
+      "gear_name": "Grappling hook",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.",
+      "gear_name": "Granade Launcher",
+      "gear_weight": "7 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.\nEach creature within 20 feet of an exploding fragmentation grenade must make a DC 15 Dexterity saving throw, taking 5d6 piercing damage on a failed save, or half as much damage on a successful one.",
+      "gear_name": "Fragmentation Granade",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.\nOne round after a smoke grenade lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.",
+      "gear_name": "Smoke Granade",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "250 gp",
+      "gear_properties": "",
+      "gear_description": "Gunpowder is chiefly used to propel a bullet out of the barrel of a pistol or rifle, or it is formed into a bomb. Gunpowder is sold in small wooden kegs and in water-resistant powder horns.\nSetting fire to a container full of gunpowder can cause it to explode, dealing fire damage to creatures within 10 feet of it (3d6 for a powder horn, 7d6 for a keg). A successful DC 12 Dexterity saving throw halves the damage. Setting fire to an ounce of gunpowder causes it to flare for 1 round, shedding bright light in a 30-foot radius and dim light for an additional 30 feet.",
+      "gear_name": "Keg of Gunpowder",
+      "gear_weight": "20 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "35 gp",
+      "gear_properties": "",
+      "gear_description": "Gunpowder is chiefly used to propel a bullet out of the barrel of a pistol or rifle, or it is formed into a bomb. Gunpowder is sold in small wooden kegs and in water-resistant powder horns.\nSetting fire to a container full of gunpowder can cause it to explode, dealing fire damage to creatures within 10 feet of it (3d6 for a powder horn, 7d6 for a keg). A successful DC 12 Dexterity saving throw halves the damage. Setting fire to an ounce of gunpowder causes it to flare for 1 round, shedding bright light in a 30-foot radius and dim light for an additional 30 feet.",
+      "gear_name": "Powder Horn of Gunpowder",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "This one-handed hammer with an iron head is useful for pounding pitons into a wall.",
+      "gear_name": "Hammer",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "This two-handed, iron-headed hammer is good for smashing open treasure chests.",
+      "gear_name": "Sledge hammer",
+      "gear_weight": "10 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "Healer's kit",
+      "gear_name": "Healer's kit",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "A holy symbol is a representation of a god or pantheon. A cleric or paladin can use a holy symbol as a spellcasting focus, as described in the Spellcasting section. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.",
+      "gear_name": "Amulet holy symbol",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "A holy symbol is a representation of a god or pantheon. A cleric or paladin can use a holy symbol as a spellcasting focus, as described in the Spellcasting section. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.",
+      "gear_name": "Emblem holy symbol",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "A holy symbol is a representation of a god or pantheon. A cleric or paladin can use a holy symbol as a spellcasting focus, as described in the Spellcasting section. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.",
+      "gear_name": "Reliquary holy symbol",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "",
+      "gear_description": "As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.\nA cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.",
+      "gear_name": "Flasks of holy water",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "",
+      "gear_description": "A standard hourglass used to measure the passage of time.",
+      "gear_name": "Hourglass",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.",
+      "gear_name": "Hunting Trap",
+      "gear_weight": "25 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "Ink is typically used with an ink pen to write.",
+      "gear_name": "1 ounce Bottle of Ink",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 cp",
+      "gear_properties": "",
+      "gear_description": "An ink pen is a wooden stick with a special tip on the end. The tip draws ink in when dipped in a vial and leaves an ink trail when drawn across a surface.",
+      "gear_name": "Ink Pen",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 sp",
+      "gear_properties": "",
+      "gear_description": "Insect repellent can be purchased in Port Nyanzaru in two forms: blocks of incense or a greasy salve. The merchant prince Kwayothé controls the sale of both. Neither kind of repellent protects against giant insects or the vile swarms of insects described in appendix A of the Monster Manual.\nA block of incense sells for 1 sp. When lit, it burns for 8 hours and repels normal insects within a 20-foot-radius centered on it.",
+      "gear_name": "Insect Repellent-Incense",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "Insect repellent can be purchased in Port Nyanzaru in two forms: blocks of incense or a greasy salve. The merchant prince Kwayothé controls the sale of both. Neither kind of repellent protects against giant insects or the vile swarms of insects described in appendix A of the Monster Manual.\nA gourd or vial of salve, which sells for 1 gp, contains 20 applications of odorless grease. One application protects its wearer against normal insects for 24 hours. The salve is waterproof so it doesn’t wash off in rain.",
+      "gear_name": "Insect Repellent-Salve",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 cp",
+      "gear_properties": "",
+      "gear_description": "A jug or pitcher can hold 1 gallon of liquid.",
+      "gear_name": "Jug or Pitcher",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 sp",
+      "gear_properties": "",
+      "gear_description": "A small knife, typically found in a scholar's pack.",
+      "gear_name": "Small Knife",
+      "gear_weight": "0.25 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 sp",
+      "gear_properties": "",
+      "gear_description": "This item is a straight, simple wooden ladder.",
+      "gear_name": "10-foot Ladder",
+      "gear_weight": "25 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 sp",
+      "gear_properties": "",
+      "gear_description": "A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.",
+      "gear_name": "Lamp",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.",
+      "gear_name": "Bullseye Lantern",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.",
+      "gear_name": "Hooded Lantern",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "A small bag of sand, typically found in a scholar's pack.",
+      "gear_name": "Little Bag of Sand",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.",
+      "gear_name": "Lock",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "100 gp",
+      "gear_properties": "",
+      "gear_description": "This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.",
+      "gear_name": "Magnifying Glass",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.",
+      "gear_name": "Manacles",
+      "gear_weight": "6 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 sp",
+      "gear_properties": "",
+      "gear_description": "Mess kit",
+      "gear_name": "Mess kit",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "A steel mirror is handy when you want to look around corners, signal friends with reflected sunlight, keep an eye on a medusa, make sure that you look good enough to present yourself to the queen, or examine wounds that you’ve received on hard-to-see parts of your body.",
+      "gear_name": "Steel Mirror",
+      "gear_weight": "0.5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 sp",
+      "gear_properties": "",
+      "gear_description": "Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.",
+      "gear_name": "Flasks of Oil",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 sp",
+      "gear_properties": "",
+      "gear_description": "A sheet of standard paper is made from cloth fibers.",
+      "gear_name": "Sheets of Paper",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 sp",
+      "gear_properties": "",
+      "gear_description": "A sheet of parchment is a piece of goat hide or sheepskin that has been prepared for writing on.",
+      "gear_name": "Sheets of Parchment",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "A fragrant commodity typically used by the wealthy.",
+      "gear_name": "Vials of Perfume",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "A miner's pick is designed to concentrate the force of its blow on a small area.",
+      "gear_name": "Miner's Pick",
+      "gear_weight": "10 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 cp",
+      "gear_properties": "",
+      "gear_description": "When a wall doesn’t offer handholds and footholds, you can make your own. A piton is a steel spike with an eye through which you can loop a rope.",
+      "gear_name": "Piton",
+      "gear_weight": "0.25 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 cp",
+      "gear_properties": "",
+      "gear_description": "When you suspect a trap, you can put the end of your 10-foot pole through that hole in the wall instead of reaching in with your hand.",
+      "gear_name": "10-foot Pole",
+      "gear_weight": "7 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "An iron pot can hold 1 gallon of liquid.",
+      "gear_name": "Iron Pot",
+      "gear_weight": "10 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "Potion of healing",
+      "gear_name": "Potion of healing",
+      "gear_weight": "0.5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 sp",
+      "gear_properties": "",
+      "gear_description": "A cloth or leather pouch can hold 1/5 cubic foot/ 6 pounds of gear - or up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch.",
+      "gear_name": "Pouch",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "A quiver can hold up to 20 arrows.",
+      "gear_name": "Quiver",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "A rain catcher is a simple contraption consisting of a 5-foot-square leather tarp and a wooden frame with legs. When the tarp is stretched across the wooden frame, it forms a basin that can catch 2 gallons of drinking water per inch of rainfall and hold up to 8 gallons. The tarp and wooden frame fold up for easy transport.  A rain catcher costs 1 gp and weighs 5 pounds.\nMerchant prince Ekene-Afa controls the sale of rain catchers in Port Nyanzaru.",
+      "gear_name": "Rain Catcher",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "4 gp",
+      "gear_properties": "",
+      "gear_description": "You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.",
+      "gear_name": "Portable Ram",
+      "gear_weight": "35 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 sp",
+      "gear_properties": "",
+      "gear_description": "Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.",
+      "gear_name": "Days of Rations",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "A standard set of robes.",
+      "gear_name": "Robes",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "Rope, has 2 hit points and can be burst with a DC 17 Strength check.",
+      "gear_name": "50 Feet of Hempen Rope",
+      "gear_weight": "10 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "Rope, has 2 hit points and can be burst with a DC 17 Strength check.",
+      "gear_name": "50 Feet of Silk Rope",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 cp",
+      "gear_properties": "",
+      "gear_description": "A sack can hold 1 cubic foot/ 30 pounds of gear.",
+      "gear_name": "Sack",
+      "gear_weight": "0.5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "60 gp",
+      "gear_properties": "",
+      "gear_description": "An exotic saddle is required for riding any aquatic or flying mount.",
+      "gear_name": "Exotic Saddle",
+      "gear_weight": "40 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "20 gp",
+      "gear_properties": "",
+      "gear_description": "A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted.",
+      "gear_name": "Military Saddle",
+      "gear_weight": "30 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "A standard saddle for a pack mount.",
+      "gear_name": "Pack Saddle",
+      "gear_weight": "15 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "A standard saddle for a riding mount.",
+      "gear_name": "Riding Saddle",
+      "gear_weight": "25 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "4 gp",
+      "gear_properties": "",
+      "gear_description": "Standard saddlebags that can be attached to a mount's saddle.",
+      "gear_name": "Saddlebags",
+      "gear_weight": "8 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.",
+      "gear_name": "Merchant's Scale",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 cp",
+      "gear_properties": "",
+      "gear_description": "When you press a signet ring into warm sealing wax, you leave an identifying mark.",
+      "gear_name": "Sealing wax",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "A standard shovel used for digging.",
+      "gear_name": "Shovel",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 cp",
+      "gear_properties": "",
+      "gear_description": "A small whistle used for signaling.",
+      "gear_name": "Signal Whistle",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "Each signet ring has a distinctive design carved into it. When you press this ring into warm sealing wax, you leave an identifying mark.",
+      "gear_name": "Signet Ring",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 cp",
+      "gear_properties": "",
+      "gear_description": "A commodity used for bathing.",
+      "gear_name": "Soap",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.",
+      "gear_name": "Spellbook",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 sp",
+      "gear_properties": "",
+      "gear_description": "Standard iron spikes typically used with a hammer.",
+      "gear_name": "Iron spike",
+      "gear_weight": "0.5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1000 gp",
+      "gear_properties": "",
+      "gear_description": "Objects viewed through a spyglass are magnified to twice their size.",
+      "gear_name": "Spyglass",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Stakes made out of wood, typically found in a monster hunter's pack.",
+      "gear_name": "Wooden Stake",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "A 10-foot length of string, typically found in a burglar's pack.",
+      "gear_name": "String",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "A tangler grenade is an alchemical, nonmagical item with an ovoid resin shell that shatters on impact. An as action, a creature can throw a tangler grenade at a point up to 60 feet away. Each creature within 10 feet of a shattered tangler grenade must succeed on a DC 15 Dexterity saving throw or be restrained by sticky white webs. As an action, a creature can try to free itself or another creature within its reach from the webs, doing so with a successful DC 20 Strength (Athletics) check. A gallon of alcohol dissolves the webs produced by a single tangler grenade. Otherwise, the webs dissolve on their own after 1 hour, freeing any creatures restrained by them.",
+      "gear_name": "Tangler Granade",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Tej is an amber-colored, fermented drink made from honey. It’s more common and popular in Chult than beer or ale. A mug of tej costs 4 cp in Port Nyanzaru or 6 cp in Fort Beluarian. A 1-gallon cask costs 2 sp in the city or 3 sp at the fort.\nSale of tej is controlled by the merchant prince Kwayothé.",
+      "gear_name": "Tej",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "A simple and portable canvas shelter, a tent sleeps two.",
+      "gear_name": "Two-person Tent",
+      "gear_weight": "20 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "5 sp",
+      "gear_properties": "",
+      "gear_description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch -- or anything else with abundant, exposed fuel -- takes an action. Lighting any other fire takes 1 minute.",
+      "gear_name": "Tinderbox",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 cp",
+      "gear_properties": "",
+      "gear_description": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.",
+      "gear_name": "Torch",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Religious clothing, typically found in a priest's pack.",
+      "gear_name": "Vestments",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "A vial can hold 4 ounces of liquid.",
+      "gear_name": "Vial",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "2 sp",
+      "gear_properties": "",
+      "gear_description": "A waterskin can hold 4 pints of liquid.",
+      "gear_name": "Waterskin",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "1 cp",
+      "gear_properties": "",
+      "gear_description": "A standard whetstone used to sharpen blades.",
+      "gear_name": "Whetstone",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "Range: Melee,",
+      "gear_description": "Unarmed strike",
+      "gear_name": "Unarmed strike",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "1D bludgeoning",
+      "gear_type": "Natural Weapon"
+    },
+    {
+      "gear_cost": "1 sp",
+      "gear_properties": "Light",
+      "gear_description": "Proficiency with a club allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Club",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D4 bludgeoning",
+      "gear_type": "Simple Melee Weapon"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "Finesse, Light, Range Thrown (20/60)",
+      "gear_description": "Proficiency with a dagger allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Dagger",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D4 piercing",
+      "gear_type": "Simple Melee Weapon"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "Two-Handed",
+      "gear_description": "Proficiency with a greatclub allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Greatclub",
+      "gear_weight": "10 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D8 bludgeoning",
+      "gear_type": "Simple Melee Weapon"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "Light, Range Thrown (20/60)",
+      "gear_description": "Proficiency with a handaxe allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Handaxe",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D6 slashing",
+      "gear_type": "Simple Melee Weapon"
+    },
+    {
+      "gear_cost": "5 sp",
+      "gear_properties": "Range Thrown (30/120)",
+      "gear_description": "Proficiency with a javelin allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Javelin",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D6 piercing",
+      "gear_type": "Simple Melee Weapon"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "Light, Range Thrown (20/60)",
+      "gear_description": "Proficiency with a light hammer allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Light hammer",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D4 bludgeoning",
+      "gear_type": "Simple Melee Weapon"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "Proficiency with a mace allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Mace",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D6 bludgeoning",
+      "gear_type": "Simple Melee Weapon"
+    },
+    {
+      "gear_cost": "2 sp",
+      "gear_properties": "Versatile (1d8)",
+      "gear_description": "Quarterstaff",
+      "gear_name": "Quarterstaff",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D6 bludgeoning",
+      "gear_type": "Simple Melee Weapon"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "Light",
+      "gear_description": "Proficiency with a sickle allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Sickle",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D4 slashing",
+      "gear_type": "Simple Melee Weapon"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "Range Thrown (20/60), Versatile (1d8)",
+      "gear_description": "Proficiency with a spear allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Spear",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D6 piercing",
+      "gear_type": "Simple Melee Weapon"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "Ammunition, Loading, Range (80/320), Two-Handed",
+      "gear_description": "Proficiency with a light crossbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Light crossbow",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D8 piercing",
+      "gear_type": "Simple Ranged Weapon"
+    },
+    {
+      "gear_cost": "5 cp",
+      "gear_properties": "Finesse, Range Thrown (20/60)",
+      "gear_description": "Proficiency with a dart allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Dart",
+      "gear_weight": "0.25 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D4 piercing",
+      "gear_type": "Simple Ranged Weapon"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "Ammunition, Range (80/320), Two-Handed",
+      "gear_description": "Proficiency with a shortbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Shortbow",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D6 piercing",
+      "gear_type": "Simple Ranged Weapon"
+    },
+    {
+      "gear_cost": "1 sp",
+      "gear_properties": "Ammunition, Range (30/120)",
+      "gear_description": "Proficiency with a sling allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Sling",
+      "gear_weight": "0.001 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D4 bludgeoning",
+      "gear_type": "Simple Ranged Weapon"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "Versatile (1d10)",
+      "gear_description": "Proficiency with a battleaxe allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Battleaxe",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D8 slashing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "Ammunition, Loading, Range (25/100)",
+      "gear_description": "Proficiency with a blowgun allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Blowgun",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "1D piercing",
+      "gear_type": "Martial Ranged Weapon"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "Range (60/120)",
+      "gear_description": "The boomerang is a ranged weapon, and any creature proficient with the javelin is also proficient with this weapon.\nOn a miss, a boomerang returns to the thrower's hand.",
+      "gear_name": "Boomerang",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "1D4 bludgeoning",
+      "gear_type": "Martial Ranged Weapon"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "Proficiency with a flail allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Flail",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D8 bludgeoning",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "20 gp",
+      "gear_properties": "Heavy, Reach, Two-Handed",
+      "gear_description": "Proficiency with a glaive allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Glaive",
+      "gear_weight": "6 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D10 slashing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "30 gp",
+      "gear_properties": "Heavy, Two-Handed",
+      "gear_description": "Proficiency with a greataxe allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Greataxe",
+      "gear_weight": "7 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D12 slashing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "Heavy, Two-Handed",
+      "gear_description": "Proficiency with a greatsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Greatsword",
+      "gear_weight": "6 lbs",
+      "gear_pic": "",
+      "gear_damage": "2D6 slashing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "20 gp",
+      "gear_properties": "Heavy, Reach, Two-Handed",
+      "gear_description": "Proficiency with a halberd allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Halberd",
+      "gear_weight": "6 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D10 slashing",
+      "gear_type": "Martial Weapon"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "Reach, Special",
+      "gear_description": "Proficiency with a lance allows you to add your proficiency bonus to the attack roll for any attack you make with it.\nYou have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.",
+      "gear_name": "Lance",
+      "gear_weight": "6 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D12 piercing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "15 gp",
+      "gear_properties": "Versatile (1d10)",
+      "gear_description": "Proficiency with a longsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Longsword",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D8 slashing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "Heavy, Two-Handed",
+      "gear_description": "Proficiency with a maul allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Maul",
+      "gear_weight": "10 lbs",
+      "gear_pic": "",
+      "gear_damage": "2D6 bludgeoning",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "15 gp",
+      "gear_properties": "",
+      "gear_description": "Proficiency with a morningstar allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Morningstar",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D8 piercing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "500 gp",
+      "gear_properties": "Ammunition (Firearms), Range (40/120), Loading, Two-Handed",
+      "gear_description": "It’s up to you to decide whether a character has proficiency with a firearm. Characters in most D&D worlds wouldn’t have such proficiency. During their downtime, characters can use the training rules in the Player’s Handbook to acquire proficiency, assuming that they have enough ammunition to keep the weapons working while mastering their use.",
+      "gear_name": "Musket",
+      "gear_weight": "10 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D12 piercing",
+      "gear_type": "Firearms Ranged Weapon"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "Heavy, Reach, Two-Handed",
+      "gear_description": "Proficiency with a pike allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Pike",
+      "gear_weight": "18 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D10 piercing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "Finesse",
+      "gear_description": "Proficiency with a rapier allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Rapier",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D8 piercing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "Finesse, Light",
+      "gear_description": "Proficiency with a scimitar allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Scimitar",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D6 slashing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "100 gp",
+      "gear_properties": "Special, Two-Handed",
+      "gear_description": "The double-bladed scimitar is the signature weapon of Valenar elves. A haft of fine wood supports a long, curving blade on either end. Forged with techniques honed over centuries, these blades are strong, sharp, and remarkably light. Each scimitar is a masterpiece, and as a result the double-bladed scimitar is an expensive weapon (100 gp) — few though ever have the opportunity to purchase one. A Valenar blade in the hands of a non-elf is generally assumed to have been stolen or looted from a fallen foe, and a Valenar elf might feel entitled to demand its return or challenge the bearer to prove they’re worthy to wield it.\nSpecial. If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals 1d4 slashing damage on a hit, instead of 2d4.",
+      "gear_name": "Double-Bladed Scimitar",
+      "gear_weight": "6 lbs",
+      "gear_pic": "",
+      "gear_damage": "2D4 slashing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "Finesse, Light",
+      "gear_description": "Proficiency with a shortsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Shortsword",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D6 piercing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "Range Thrown (20/60), Versatile (1d8)",
+      "gear_description": "Proficiency with a trident allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Trident",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D6 piercing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "Proficiency with a war pick allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "War pick",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D8 piercing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "15 gp",
+      "gear_properties": "Versatile (1d10)",
+      "gear_description": "Proficiency with a warhammer allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Warhammer",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D8 bludgeoning",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "Finesse, Reach",
+      "gear_description": "Proficiency with a whip allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Whip",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D4 slashing",
+      "gear_type": "Martial Melee Weapon"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "Range Thrown (10/30)",
+      "gear_description": "A yklwa (pronounced YICK-ul-wah) is a simple melee weapon that is the traditional weapon of Chultan warriors. A yklwa consists of a 3-foot wooden shaft with a steel or stone blade up to 18 inches long. It costs 1 gp, and it deals 1d8 piercing damage on a hit. Although it has the thrown weapon property, the yklwa is not well balanced for throwing (range 10/30 ft.).",
+      "gear_name": "Yklwa",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D8 piercing",
+      "gear_type": "Simple Melee Weapon"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "Ammunition, Range (30/120), Light, Loading",
+      "gear_description": "Proficiency with a hand crossbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Hand crossbow",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D6 piercing",
+      "gear_type": "Martial Ranged Weapon"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "Ammunition, Heavy, Loading, Range (100/400), Two-Handed",
+      "gear_description": "Proficiency with a heavy crossbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Heavy crossbow",
+      "gear_weight": "18 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D10 piercing",
+      "gear_type": "Martial Ranged Weapon"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "Ammunition, Heavy, Range (150/600), Two-Handed",
+      "gear_description": "Proficiency with a longbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.",
+      "gear_name": "Longbow",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D8 piercing",
+      "gear_type": "Martial Ranged Weapon"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "Special, Range Thrown (5/15)",
+      "gear_description": "Proficiency with a net allows you to add your proficiency bonus to the attack roll for any attack you make with it.\nA Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.\n When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.",
+      "gear_name": "Net",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "0 bludgeoning",
+      "gear_type": "Martial Weapon"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "Range: Melee, 20\/60 ft,",
+      "gear_description": "Improvised weapon",
+      "gear_name": "Improvised weapon",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "1D4 bludgeoning",
+      "gear_type": "Improvised Weapon"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "Range: 20 ft,",
+      "gear_description": "Alchemist's Fire",
+      "gear_name": "Alchemist's Fire",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D4 fire",
+      "gear_type": "Improvised Weapon"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "Range: 20 ft,",
+      "gear_description": "Vial of Acid",
+      "gear_name": "Vial of Acid",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "2D6 acid",
+      "gear_type": "Improvised Weapon"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "Range: 20 ft,",
+      "gear_description": "Holy Water",
+      "gear_name": "Holy Water",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "2D6 radiant",
+      "gear_type": "Improvised Weapon"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "Range: Melee,",
+      "gear_description": "Burning torch",
+      "gear_name": "Burning torch",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "1D fire",
+      "gear_type": "Improvised Weapon"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.",
+      "gear_name": "Alchemist's supplies",
+      "gear_weight": "8 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "20 gp",
+      "gear_properties": "",
+      "gear_description": "Brewer's supplies",
+      "gear_name": "Brewer's supplies",
+      "gear_weight": "9 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "Calligrapher's supplies",
+      "gear_name": "Calligrapher's supplies",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "8 gp",
+      "gear_properties": "",
+      "gear_description": "Carpenter's tools",
+      "gear_name": "Carpenter's tools",
+      "gear_weight": "6 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "15 gp",
+      "gear_properties": "",
+      "gear_description": "Cartographer's tools",
+      "gear_name": "Cartographer's tools",
+      "gear_weight": "6 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "Cobbler's tools",
+      "gear_name": "Cobbler's tools",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "Cook's utensils",
+      "gear_name": "Cook's utensils",
+      "gear_weight": "8 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "30 gp",
+      "gear_properties": "",
+      "gear_description": "Glassblower's tools",
+      "gear_name": "Glassblower's tools",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "",
+      "gear_description": "Jeweler's tools",
+      "gear_name": "Jeweler's tools",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "Leatherworker's tools",
+      "gear_name": "Leatherworker's tools",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "Mason's tools",
+      "gear_name": "Mason's tools",
+      "gear_weight": "8 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "Painter's supplies",
+      "gear_name": "Painter's supplies",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "Potter's tools",
+      "gear_name": "Potter's tools",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "20 gp",
+      "gear_properties": "",
+      "gear_description": "Smith's tools",
+      "gear_name": "Smith's tools",
+      "gear_weight": "8 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "Tinker's tools",
+      "gear_name": "Tinker's tools",
+      "gear_weight": "10 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "Weaver's tools",
+      "gear_name": "Weaver's tools",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "Woodcarver's tools",
+      "gear_name": "Woodcarver's tools",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "",
+      "gear_description": "Disguise kit",
+      "gear_name": "Disguise kit",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "15 gp",
+      "gear_properties": "",
+      "gear_description": "Forgery kit",
+      "gear_name": "Forgery kit",
+      "gear_weight": "5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "1 sp",
+      "gear_properties": "",
+      "gear_description": "Dice set",
+      "gear_name": "Dice set",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "Dragonchess set",
+      "gear_name": "Dragonchess set",
+      "gear_weight": "0.5 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "5 sp",
+      "gear_properties": "",
+      "gear_description": "Playing card set",
+      "gear_name": "Playing card set",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "Three-Dragon Ante set",
+      "gear_name": "Three-Dragon Ante set",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "",
+      "gear_description": "Herbalism kit",
+      "gear_name": "Herbalism kit",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "30 gp",
+      "gear_properties": "",
+      "gear_description": "Bagpipes",
+      "gear_name": "Bagpipes",
+      "gear_weight": "6 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "6 gp",
+      "gear_properties": "",
+      "gear_description": "Drum",
+      "gear_name": "Drum",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "",
+      "gear_description": "Dulcimer",
+      "gear_name": "Dulcimer",
+      "gear_weight": "10 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "Flute",
+      "gear_name": "Flute",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "3 gp",
+      "gear_properties": "",
+      "gear_description": "Horn",
+      "gear_name": "Horn",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "35 gp",
+      "gear_properties": "",
+      "gear_description": "Lute",
+      "gear_name": "Lute",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "30 gp",
+      "gear_properties": "",
+      "gear_description": "Lyre",
+      "gear_name": "Lyre",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "12 gp",
+      "gear_properties": "",
+      "gear_description": "Pan flute",
+      "gear_name": "Pan flute",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "2 gp",
+      "gear_properties": "",
+      "gear_description": "Shawm",
+      "gear_name": "Shawm",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "30 gp",
+      "gear_properties": "",
+      "gear_description": "Viol",
+      "gear_name": "Viol",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "",
+      "gear_description": "Navigator's tools",
+      "gear_name": "Navigator's tools",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "Poisoner's kit",
+      "gear_name": "Poisoner's kit",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "25 gp",
+      "gear_properties": "",
+      "gear_description": "Thieves' tools",
+      "gear_name": "Thieves' tools",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Tool"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "Arrows are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
+      "gear_name": "Arrows",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Bolts",
+      "gear_name": "Bolts",
+      "gear_weight": "0.075 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "The ammunition of a firearm is destroyed upon use. Renaissance and modern firearms use bullets.",
+      "gear_name": "Bullets",
+      "gear_weight": "0.075 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Darts",
+      "gear_name": "Darts",
+      "gear_weight": "0.25 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Flasks (1 pint)",
+      "gear_name": "Flasks (1 pint)",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Javelins",
+      "gear_name": "Javelins",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Light Hammers",
+      "gear_name": "Light Hammers",
+      "gear_weight": "2 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Needles",
+      "gear_name": "Needles",
+      "gear_weight": "0.02 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Spears",
+      "gear_name": "Spears",
+      "gear_weight": "3 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Tridents",
+      "gear_name": "Tridents",
+      "gear_weight": "4 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Vials (4 ounces)",
+      "gear_name": "Vials (4 ounces)",
+      "gear_weight": "0.25 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Flasks alchemist's fire",
+      "gear_name": "Flasks alchemist's fire",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Vials of Acid",
+      "gear_name": "Vials of Acid",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "Flasks holy water",
+      "gear_name": "Flasks holy water",
+      "gear_weight": "1 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Ammo"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "AC: 10",
+      "gear_name": "Unarmored",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Armor"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "AC: 13",
+      "gear_name": "Mage armor",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Armor"
+    },
+    {
+      "gear_cost": "5 gp",
+      "gear_properties": "AC: 11, Disadvantage on Stealth",
+      "gear_description": "Padded armor consists of quilted layers of cloth and batting.",
+      "gear_name": "Padded",
+      "gear_weight": "8 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Light Armor"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "AC: 11",
+      "gear_description": "The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.",
+      "gear_name": "Leather",
+      "gear_weight": "10 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Light Armor"
+    },
+    {
+      "gear_cost": "45 gp",
+      "gear_properties": "AC: 12",
+      "gear_description": "Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.",
+      "gear_name": "Studded Leather",
+      "gear_weight": "13 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Light Armor"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "AC: 12",
+      "gear_description": "This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.",
+      "gear_name": "Hide",
+      "gear_weight": "12 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Medium Armor"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "AC: 13",
+      "gear_description": "Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.",
+      "gear_name": "Chain Shirt",
+      "gear_weight": "20 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Medium Armor"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "AC: 14, Disadvantage on Stealth",
+      "gear_description": "This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.",
+      "gear_name": "Scale Mail",
+      "gear_weight": "45 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Medium Armor"
+    },
+    {
+      "gear_cost": "400 gp",
+      "gear_properties": "AC: 14",
+      "gear_description": "This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.",
+      "gear_name": "Breastplate",
+      "gear_weight": "20 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Medium Armor"
+    },
+    {
+      "gear_cost": "750 gp",
+      "gear_properties": "AC: 15, Disadvantage on Stealth",
+      "gear_description": "Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.",
+      "gear_name": "Half Plate",
+      "gear_weight": "40 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Medium Armor"
+    },
+    {
+      "gear_cost": "30 gp",
+      "gear_properties": "AC: 14, Disadvantage on Stealth",
+      "gear_description": "This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.",
+      "gear_name": "Ring Mail",
+      "gear_weight": "40 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Heavy Armor"
+    },
+    {
+      "gear_cost": "75 gp",
+      "gear_properties": "AC: 16, Str Requirement: 13, Disadvantage on Stealth",
+      "gear_description": "Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.",
+      "gear_name": "Chain Mail",
+      "gear_weight": "55 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Heavy Armor"
+    },
+    {
+      "gear_cost": "75 gp",
+      "gear_properties": "AC: 14, Disadvantage on Stealth",
+      "gear_description": "Spiked armor is a rare type of medium armor made by dwarves. It consists of a leather coat and leggings covered with spikes that are usually made of metal.",
+      "gear_name": "Spiked Armor",
+      "gear_weight": "45 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Medium Armor"
+    },
+    {
+      "gear_cost": "200 gp",
+      "gear_properties": "AC: 17, Str Requirement: 15, Disadvantage on Stealth",
+      "gear_description": "This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.",
+      "gear_name": "Splint",
+      "gear_weight": "60 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Heavy Armor"
+    },
+    {
+      "gear_cost": "1500 gp",
+      "gear_properties": "AC: 18, Str Requirement: 15, Disadvantage on Stealth",
+      "gear_description": "Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.",
+      "gear_name": "Plate",
+      "gear_weight": "65 lbs",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Heavy Armor"
+    },
+    {
+      "gear_cost": "16 gp",
+      "gear_properties": "",
+      "gear_description": "Backpack, with:\nBag of 1000 ball bearings\nString, feet of\nBell\nCandles\nCrowbar\nHammer\nPitons\nHooded lantern\nOil, flasks of\nRations, days of\nTinderbox\nWaterskin\nHempen rope, feet of",
+      "gear_name": "Burglar's pack ",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Pack"
+    },
+    {
+      "gear_cost": "39 gp",
+      "gear_properties": "",
+      "gear_description": "Chest, with:\nMap or scroll case\nFine clothes\nInk, 1 ounce bottle of\nInk pen\nLamp\nOil, flasks of\nPaper, sheets of\nPerfume, vial of\nSealing Wax\nSoap",
+      "gear_name": "Diplomat's pack ",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Pack"
+    },
+    {
+      "gear_cost": "12 gp",
+      "gear_properties": "",
+      "gear_description": "Backpack, with:\nCrowbar\nHammer\nPitons\nTorches\nTinderbox\nRations, days of\nWaterskin\nHempen rope, feet of",
+      "gear_name": "Dungeoneer's pack ",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Pack"
+    },
+    {
+      "gear_cost": "40 gp",
+      "gear_properties": "",
+      "gear_description": "Backpack, with:\nBedroll\nCostumes\nCandles\nRations, days of\nWaterskin\nDisguise kit",
+      "gear_name": "Entertainer's pack ",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Pack"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "Backpack, with:\nBedroll\nMess kit\nTinderbox\nTorches\nRations, days of\nWaterskin\nHempen rope, feet of",
+      "gear_name": "Explorer's pack ",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Pack"
+    },
+    {
+      "gear_cost": "19 gp",
+      "gear_properties": "",
+      "gear_description": "Backpack, with:\nBlanket\nCandles\nTinderbox\nAlms box\nIncense, blocks of\nCenser\nVestments\nRations, days of\nWaterskin",
+      "gear_name": "Priest's pack ",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Pack"
+    },
+    {
+      "gear_cost": "40 gp",
+      "gear_properties": "",
+      "gear_description": "Backpack, with:\nBook of lore\nInk, 1 ounce bottle of\nInk pen\nParchment, sheets of\nLittle bag of sand\nSmall knife",
+      "gear_name": "Scholar's pack ",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Pack"
+    },
+    {
+      "gear_cost": "500 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent dark green gemstone worth 500 gold pieces.",
+      "gear_name": "Alexandrite",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "A small box for alms, typically found in a priest's pack.",
+      "gear_name": "Alms Box",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gear"
+    },
+    {
+      "gear_cost": "100 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent watery gold to rich gold gemstone worth 100 gold pieces.",
+      "gear_name": "Amber",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "100 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent deep purple gemstone worth 100 gold pieces.",
+      "gear_name": "Amethyst",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "500 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent pale blue-green gemstone worth 500 gold pieces.",
+      "gear_name": "Aquamarine",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque mottled deep blue gemstone worth 10 gold pieces.",
+      "gear_name": "Azurite",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent striped brown, blue, white, or red gemstone worth 10 gold pieces.",
+      "gear_name": "Banded Agate",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "Ammunition (Firearms), Range (120/360), Reload, Two-Handed",
+      "gear_description": "It’s up to you to decide whether a character has proficiency with a firearm. Characters in most D&D worlds wouldn’t have such proficiency. During their downtime, characters can use the training rules in the Player’s Handbook to acquire proficiency, assuming that they have enough ammunition to keep the weapons working while mastering their use.",
+      "gear_name": "Antimatter Rifle",
+      "gear_weight": "10 lbs",
+      "gear_pic": "",
+      "gear_damage": "6D8 necrotic",
+      "gear_type": "Firearms Ranged Weapon"
+    },
+    {
+      "gear_cost": "150 gp",
+      "gear_properties": "",
+      "gear_description": "A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 6 (1d12) poison damage and is poisoned for 24 hours. On a successful save, the creature takes half damage and isn't poisoned.\nIngested. A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing advantage on the saving throw or dealing only half damage on a failed save.",
+      "gear_name": "Assassin's Blood",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "500 gp",
+      "gear_properties": "",
+      "gear_description": "A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take 10 (3d6) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 3 (1d6) poison damage. After three successful saves, the poison ends.\nInhaled. These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.",
+      "gear_name": "Burnt Othur Fumes",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "200 gp",
+      "gear_properties": "",
+      "gear_description": "This poison must be harvested from a dead or incapacitated crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\nContact. Contact poison can be smeared on an object and remains potent until it is touched or washed off. A creature that touches contact poison with exposed skin suffers its effects.",
+      "gear_name": "Crawler Mucus",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "",
+      "gear_properties": "",
+      "gear_description": "",
+      "gear_name": "Dragon's Blood",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "1 gp",
+      "gear_properties": "",
+      "gear_description": "",
+      "gear_name": "Dreamlily",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "200 gp",
+      "gear_properties": "",
+      "gear_description": "This poison is typically made only by the drow, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also unconscious while poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.\nInjury. Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.",
+      "gear_name": "Drow Poison",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "300 gp",
+      "gear_properties": "",
+      "gear_description": "A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.\nInhaled. These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.",
+      "gear_name": "Essence of Ehter",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "250 gp",
+      "gear_properties": "",
+      "gear_description": "A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is blinded.\nInhaled. These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.",
+      "gear_name": "Malice",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "1500 gp",
+      "gear_properties": "",
+      "gear_description": "A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one.\nIngested. A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing advantage on the saving throw or dealing only half damage on a failed save.",
+      "gear_name": "Midnight Tears",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "400 gp",
+      "gear_properties": "",
+      "gear_description": "A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage.\nContact. Contact poison can be smeared on an object and remains potent until it is touched or washed off. A creature that touches contact poison with exposed skin suffers its effects.",
+      "gear_name": "Oil of Taggit",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "250 gp",
+      "gear_properties": "",
+      "gear_description": "A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 3 (1d6) poison damage and become poisoned. The poisoned creature must repeat the saving throw every 24 hours, taking 3 (1d6) poison damage on a failed save. Until this poison ends, the damage the poison deals can't be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally.\nIngested. A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing advantage on the saving throw or dealing only half damage on a failed save.",
+      "gear_name": "Pale Tincture",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "100 gp",
+      "gear_properties": "",
+      "gear_description": "You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.",
+      "gear_name": "Basic Poison",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "2000 gp",
+      "gear_properties": "",
+      "gear_description": "This poison must be harvested from a dead or incapacitated purple worm. A creature subjected to this poison must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.\nInjury. Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.",
+      "gear_name": "Purple Worm Poison",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "200 gp",
+      "gear_properties": "",
+      "gear_description": "This poison must be harvested from a dead or incapacitated giant poisonous snake. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.\nInjury. Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.",
+      "gear_name": "Serpent Venom",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "600 gp",
+      "gear_properties": "",
+      "gear_description": "A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is incapacitated.\nIngested. A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing advantage on the saving throw or dealing only half damage on a failed save.",
+      "gear_name": "Torpor",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "150 gp",
+      "gear_properties": "",
+      "gear_description": "A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can't knowingly speak a lie, as if under the effect of a zone of truth spell.\nIngested. A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing advantage on the saving throw or dealing only half damage on a failed save.",
+      "gear_name": "Truth Serum",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "1200 gp",
+      "gear_properties": "",
+      "gear_description": "This poison must be harvested from a dead or incapacitated wyvern. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.\nInjury. Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.",
+      "gear_name": "Wyvern Poison",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Poison"
+    },
+    {
+      "gear_cost": "1000 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent dark green with black mottling and golden flecks gemstone worth 1,000 gold pieces.",
+      "gear_name": "Black Opal",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "500 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque pure black gemstone worth 500 gold pieces.",
+      "gear_name": "Black Perl",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "5000 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent lustrous black gemstone with glowing highlights worth 5,000 gold pieces.",
+      "gear_name": "Black Sapphire",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque dark gray gemstone with red flecks worth 50 gold pieces.",
+      "gear_name": "Bloodstone",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent pale blue gemstone worth 10 gold pieces.",
+      "gear_name": "Blue Quartz",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "1000 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent blue-white to medium blue gemstone worth 1,000 gold pieces.",
+      "gear_name": "Blue Sapphire",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "500 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent deep blue gemstone worth 500 gold pieces.",
+      "gear_name": "Blue Spinel",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque orange to red-brown gemstone worth 50 gold pieces.",
+      "gear_name": "Carnelian",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "100 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent yellow-green to pale green gemstone worth 100 gold pieces.",
+      "gear_name": "Chrysoberyl",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent green gemstone worth 50 gold pieces.",
+      "gear_name": "Chrysoprase",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent pale yellow-brown gemstone worth 50 gold pieces.",
+      "gear_name": "Citrine",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "100 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque crimson gemstone worth 100 gold pieces.",
+      "gear_name": "Coral",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "5000 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent blue-white, canary, pink, brown, or blue gemstone worth 5,000 gold pieces.",
+      "gear_name": "Diamond",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "1000 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent deep bright green gemstone worth 1,000 gold pieces.",
+      "gear_name": "Emeralrd",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent gemstone with circles of gray, white, brown, blue, or green worth 10 gold pieces.",
+      "gear_name": "Eye Agate",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "1000 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent fiery red Gemstone worth 1,000 gold pieces.",
+      "gear_name": "Fire Opal",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "100 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent red, brown-green, or violet gemstone worth 100 gold pieces.",
+      "gear_name": "Garnet",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque gray-black gemstone worth 10 gold pieces.",
+      "gear_name": "Hematite",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "5000 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent fiery orange gem worth 5,000 gold pieces.",
+      "gear_name": "Jacinth",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "100 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent light green, deep green, or white gemstone worth 100 gold pieces.",
+      "gear_name": "Jade",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque blue, black, or brown gemstone worth 50 gold pieces.",
+      "gear_name": "Jasper",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "100 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque deep black gemstone worth 100 gold pieces.",
+      "gear_name": "Jet",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque light and dark blue gemstone with yellow flecks worth 10 gold pieces.",
+      "gear_name": "Lapis Lazuli",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque striated light and dark green gemstone worth 10 gold pieces.",
+      "gear_name": "Malachite",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent white gemstone with a pale blue glow worth 50 gold pieces.",
+      "gear_name": "Moonstone",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent gemstone with pink or yellow-white with mossy gray or green markings worth 10 gold pieces.",
+      "gear_name": "Moss Agate",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque black gemstone worth 10 gold pieces.",
+      "gear_name": "Obsidian",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque gemstone with bands of black and white, or pure black or white worth 50 gold pieces.",
+      "gear_name": "Onyx",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "1000 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent pale blue with green and golden mottling gemstone worth 1,000 gold pieces.",
+      "gear_name": "Opal",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "100 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque lustrous white, yellow, or pink gemstone worth 100 gold pieces.",
+      "gear_name": "Pearl",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "500 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent rich olive green gemstone worth 500 gold pieces.",
+      "gear_name": "Peridot",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent white, smoky gray, or yellow gemstone worth 50 gold pieces.",
+      "gear_name": "Quartz",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque light pink gemstone worth 10 gold pieces.",
+      "gear_name": "Rhodochrosite",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "5000 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent clear red to deep crimson gemstone worth 5,000 gold pieces.",
+      "gear_name": "Ruby",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "50 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque gemstone with bands of red and white worth 50 gold pieces.",
+      "gear_name": "Sardonyx",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "100 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent gemstone of red, red-brown, or deep green worth 100 gold pieces.",
+      "gear_name": "Spinel",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "500 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent rosy Gemstone with a white star-shaped center worth 50 gold pieces.",
+      "gear_name": "Star Rose Quartz",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "1000 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent ruby gemstone with a white star-shaped center worth 1,000 gold pieces.",
+      "gear_name": "Star Ruby",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "1000 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent blue sapphire gemstone with a white star-shaped center worth 1,000 gold pieces. ",
+      "gear_name": "Star Saphire",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "A translucent brown gemstone with a golden center worth 10 gold pieces.",
+      "gear_name": "Tiger Eye",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "500 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent golden yellow gemstone worth 500 gold pieces.",
+      "gear_name": "Topaz",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "100 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent pale green, blue, brown, or red gemstone worth 100 gold pieces.",
+      "gear_name": "Tourmaline",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "An opaque light blue-green gemstone worth 10 gold pieces.",
+      "gear_name": "Turquoise",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "1000 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent fiery yellow or yellow-green gemstone worth 1,000 gold pieces.",
+      "gear_name": "Yellow Sapphire",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
+    },
+    {
+      "gear_cost": "10 gp",
+      "gear_properties": "",
+      "gear_description": "A transparent pale blue-green gemstone worth 10 gold pieces.",
+      "gear_name": "Zircon",
+      "gear_weight": "",
+      "gear_pic": "",
+      "gear_damage": "",
+      "gear_type": "Gemstone"
     }
-]
+  ]
