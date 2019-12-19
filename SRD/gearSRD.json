@@ -2250,24 +2250,6 @@
       "gear_type": "Ammo"
     },
     {
-      "gear_cost": "",
-      "gear_properties": "AC: 10",
-      "gear_name": "Unarmored",
-      "gear_weight": "",
-      "gear_pic": "",
-      "gear_damage": "",
-      "gear_type": "Armor"
-    },
-    {
-      "gear_cost": "",
-      "gear_properties": "AC: 13",
-      "gear_name": "Mage armor",
-      "gear_weight": "",
-      "gear_pic": "",
-      "gear_damage": "",
-      "gear_type": "Armor"
-    },
-    {
       "gear_cost": "5 gp",
       "gear_properties": "AC: 11, Disadvantage on Stealth",
       "gear_description": "Padded armor consists of quilted layers of cloth and batting.",
