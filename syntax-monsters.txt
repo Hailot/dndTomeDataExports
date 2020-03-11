@@ -18,175 +18,175 @@
         * Rules: First Letter Capitalised
         * Datatype: String
         */ 
-        "monster_name": "",
+        "name": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */ 
-        "monster_size": "",
+        "size": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_type": "",
+        "type": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_subtype": "",
+        "subtype": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_cr": "",
+        "cr": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_alignment": "",
+        "alignment": "",
         /*
         * Rules: Only numbers
         * Datatype: Integer
         */
-        "monster_armorClass": 1,
+        "armorClass": 1,
         /*
         * Rules: Only numbers
         * Datatype: Integer
         */
-        "monster_hitPoints": 1,
+        "hitPoints": 1,
         /*
         * Rules: Only numbers
         * Datatype: Integer
         */
-        "monster_strength": 1,
+        "strength": 1,
         /*
         * Rules: Only numbers
         * Datatype: Integer
         */
-        "monster_dexterity": 1,
+        "dexterity": 1,
         /*
         * Rules: Only numbers
         * Datatype: Integer
         */
-        "monster_constitution": 1,
+        "constitution": 1,
         /*
         * Rules: Only numbers
         * Datatype: Integer
         */
-        "monster_intelligence": 1,
+        "intelligence": 1,
        /*
         * Rules: Only numbers
         * Datatype: Integer
         */
-        "monster_wisdom": 1,
+        "wisdom": 1,
         /*
         * Rules: Only numbers
         * Datatype: Integer
         */
-        "monster_charisma": 1,
+        "charisma": 1,
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_dmgVulnerabilities": "",
+        "dmgVulnerabilities": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_dmgResistance": "",
+        "dmgResistance": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_dmgImmunities": "",
+        "dmgImmunities": "",
         /*
         * Rules: First Letter Capitalised ("Charmed, Frightened")
         * Datatype: String
         */
-        "monster_conImmunities": "",
+        "conImmunities": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_senses": "",
+        "senses": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_lang": "",
+        "lang": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_source": "",
+        "source": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_pic": "",
+        "pic": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_savingThrows": "",
+        "savingThrows": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_ablt": "",
+        "ablt": "",
         /*
         * Rules: First Letter Capitalised ("Athletics: 9, Intimidation: 5,")
         * Datatype: String
         */
-        "monster_skills": "",
+        "skills": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_sAblt": "",
+        "sAblt": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */
-        "monster_lAbtl": "",
+        "lAbtl": "",
         /*
         * Rules: First Letter Capitalised ("Walk 40 ft, Fly 30 ft")
         * Datatype: String
         */
-        "monster_speed": ""
+        "speed": ""
     }
 ]
 
 /*  -TEMPLATE TO COPY- */
 [
     {
-        "monster_name": "",
-        "monster_size": "",
-        "monster_type": "",
-        "monster_subtype": "",
-        "monster_cr": "",
-        "monster_alignment": "",
-        "monster_armorClass": 1,
-        "monster_hitPoints": 1,
-        "monster_strength": 1,
-        "monster_dexterity": 1,
-        "monster_constitution": 1,
-        "monster_intelligence": 1,
-        "monster_wisdom": 1,
-        "monster_charisma": 1,
-        "monster_dmgVulnerabilities": "",
-        "monster_dmgResistance": "",
-        "monster_dmgImmunities": "",
-        "monster_conImmunities": "",
-        "monster_senses": "",
-        "monster_lang": "",
-        "monster_source": "",
-        "monster_pic": "",
-        "monster_savingThrows": "",
-        "monster_ablt": "",
-        "monster_skills": "",
-        "monster_sAblt": "",
-        "monster_lAbtl": "",
-        "monster_speed": ""
+        "name": "",
+        "size": "",
+        "type": "",
+        "subtype": "",
+        "cr": "",
+        "alignment": "",
+        "armorClass": 1,
+        "hitPoints": 1,
+        "strength": 1,
+        "dexterity": 1,
+        "constitution": 1,
+        "intelligence": 1,
+        "wisdom": 1,
+        "charisma": 1,
+        "dmgVulnerabilities": "",
+        "dmgResistance": "",
+        "dmgImmunities": "",
+        "conImmunities": "",
+        "senses": "",
+        "lang": "",
+        "source": "",
+        "pic": "",
+        "savingThrows": "",
+        "ablt": "",
+        "skills": "",
+        "sAblt": "",
+        "lAbtl": "",
+        "speed": ""
     }
 ]

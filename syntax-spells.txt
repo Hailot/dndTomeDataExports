@@ -20,73 +20,73 @@
         * Rules: First Letter Capitalised
         * Datatype: String
         */ 
-        "spell_name": "",
+        "name": "",
         /*
         * Rules: Comma seperated list ,First Letter Capitalised of each class("Sorcerer,Wizard")
         * Datatype: String
         */ 
-        "spell_classes": "",
+        "classes": "",
         /*
         * Rules: 
         * Datatype: String
         */ 
-        "spell_sources": "",
+        "sources": "",
         /*
         * Rules: only number
         * Datatype: Integer
         */ 
-        "spell_level": 1,
+        "level": 1,
         /*
         * Rules: First Letter Capitalised - Pleasse use full school name
         * Datatype: String
         */ 
-        "spell_school": "",
+        "school": "",
         /*
         * Rules: Use full name, ie. (1 Action , 1 Bonus Action, etc)
         * Datatype: String
         */ 
-        "spell_time": "",
+        "time": "",
         /*
         * Rules: First range and then , area ie. (60 ft, 40 ft Cone )
         * Datatype: String
         */ 
-        "spell_range": "",
+        "range": "",
         /*
         * Rules: Capitilized
         * Datatype: String
         */ 
-        "spell_components": "",
+        "components": "",
         /*
         * Rules: First Letter Capitalised
         * Datatype: String
         */ 
-        "spell_duration": "",
+        "duration": "",
         /*
         * Rules: Either 1(True) Or 0 (Null)
         * Datatype: Boolean(tinyInteger)
         */ 
-        "spell_ritual": 0,
+        "ritual": 0,
         /*
         * Rules: First Letter Capitalised - Description of the spell
         * Datatype: String
         */ 
-        "spell_text": ""
+        "text": ""
     }
 ]
 
 /*	-TEMPLATE TO COPY- */
 [
     {
-    "spell_name": "",
-    "spell_classes": "",
-    "spell_sources": "",
-    "spell_level": 1,
-    "spell_school": "",
-    "spell_time": "",
-    "spell_range": "",
-    "spell_components": "",
-    "spell_duration": "",
-    "spell_ritual": 0,
-    "spell_text": ""
+    "name": "",
+    "classes": "",
+    "sources": "",
+    "level": 1,
+    "school": "",
+    "time": "",
+    "range": "",
+    "components": "",
+    "duration": "",
+    "ritual": 0,
+    "text": ""
     }
 ]

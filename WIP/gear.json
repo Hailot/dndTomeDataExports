@@ -1,2109 +1,2109 @@
 [{
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Abacus",
-        "gear_name": "Abacus",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "25 gp",
-        "gear_damage": "",
-        "gear_description": "Acid, vials of",
-        "gear_name": "Acid, vials of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "50 gp",
-        "gear_damage": "",
-        "gear_description": "Alchemist's fire, flasks of",
-        "gear_name": "Alchemist's fire, flasks of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Arrows",
-        "gear_name": "Arrows",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "0.05"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Blowgun needles",
-        "gear_name": "Blowgun needles",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "0.02"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Crossbow bolts",
-        "gear_name": "Crossbow bolts",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "0.075"
-    }, {
-        "gear_cost": "4 cp",
-        "gear_damage": "",
-        "gear_description": "Sling bullets",
-        "gear_name": "Sling bullets",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "0.075"
-    }, {
-        "gear_cost": "50 gp",
-        "gear_damage": "",
-        "gear_description": "Antitoxin, vials of",
-        "gear_name": "Antitoxin, vials of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Crystal arcane focus",
-        "gear_name": "Crystal arcane focus",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "20 gp",
-        "gear_damage": "",
-        "gear_description": "Orb arcane focus",
-        "gear_name": "Orb arcane focus",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Rod arcane focus",
-        "gear_name": "Rod arcane focus",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Staff arcane focus",
-        "gear_name": "Staff arcane focus",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "4"
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Wand arcane focus",
-        "gear_name": "Wand arcane focus",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Backpack",
-        "gear_name": "Backpack",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Bag of 1000 ball bearings",
-        "gear_name": "Bag of 1000 ball bearings",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Barrel",
-        "gear_name": "Barrel",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "70"
-    }, {
-        "gear_cost": "4 sp",
-        "gear_damage": "",
-        "gear_description": "Basket",
-        "gear_name": "Basket",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Bedroll",
-        "gear_name": "Bedroll",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "7"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Bell",
-        "gear_name": "Bell",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Bit and bridle",
-        "gear_name": "Bit and bridle",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "5 sp",
-        "gear_damage": "",
-        "gear_description": "Blanket",
-        "gear_name": "Blanket",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Block and tackle",
-        "gear_name": "Block and tackle",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "25 gp",
-        "gear_damage": "",
-        "gear_description": "Book",
-        "gear_name": "Book",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Glass bottle",
-        "gear_name": "Glass bottle",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "5 sp",
-        "gear_damage": "",
-        "gear_description": "Bucket",
-        "gear_name": "Bucket",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Caltrops",
-        "gear_name": "Caltrops",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "0.1"
-    }, {
-        "gear_cost": "1 cp",
-        "gear_damage": "",
-        "gear_description": "Candle",
-        "gear_name": "Candle",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Crossbow bolt case",
-        "gear_name": "Crossbow bolt case",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Map or scroll case",
-        "gear_name": "Map or scroll case",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Chain, feet of",
-        "gear_name": "Chain, feet of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "1 cp",
-        "gear_damage": "",
-        "gear_description": "Chalk, pieces of",
-        "gear_name": "Chalk, pieces of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Chest",
-        "gear_name": "Chest",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "25"
-    }, {
-        "gear_cost": "25 gp",
-        "gear_damage": "",
-        "gear_description": "Climber's kit",
-        "gear_name": "Climber's kit",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "12"
-    }, {
-        "gear_cost": "5 sp",
-        "gear_damage": "",
-        "gear_description": "Common clothes",
-        "gear_name": "Common clothes",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Costume clothes",
-        "gear_name": "Costume clothes",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "4"
-    }, {
-        "gear_cost": "15 gp",
-        "gear_damage": "",
-        "gear_description": "Fine clothes",
-        "gear_name": "Fine clothes",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "6"
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Traveler's clothes",
-        "gear_name": "Traveler's clothes",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "4"
-    }, {
-        "gear_cost": "25 gp",
-        "gear_damage": "",
-        "gear_description": "Component pouch",
-        "gear_name": "Component pouch",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Crowbar",
-        "gear_name": "Crowbar",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Sprig of mistletoe druidic focus",
-        "gear_name": "Sprig of mistletoe druidic focus",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Totem druidic focus",
-        "gear_name": "Totem druidic focus",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Wooden staff druidic focus",
-        "gear_name": "Wooden staff druidic focus",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "4"
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Yew wand druidic focus",
-        "gear_name": "Yew wand druidic focus",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Fishing tackle",
-        "gear_name": "Fishing tackle",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "4"
-    }, {
-        "gear_cost": "2 cp",
-        "gear_damage": "",
-        "gear_description": "Flask or tankard",
-        "gear_name": "Flask or tankard",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Grappling hook",
-        "gear_name": "Grappling hook",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "4"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Hammer",
-        "gear_name": "Hammer",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Sledge hammer",
-        "gear_name": "Sledge hammer",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "10"
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Healer's kit",
-        "gear_name": "Healer's kit",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Amulet holy symbol",
-        "gear_name": "Amulet holy symbol",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Emblem holy symbol",
-        "gear_name": "Emblem holy symbol",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Reliquary holy symbol",
-        "gear_name": "Reliquary holy symbol",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "25 gp",
-        "gear_damage": "",
-        "gear_description": "Holy water, flasks of",
-        "gear_name": "Holy water, flasks of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "25 gp",
-        "gear_damage": "",
-        "gear_description": "Hourglass",
-        "gear_name": "Hourglass",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Hunting trap",
-        "gear_name": "Hunting trap",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "25"
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Ink, 1 ounce bottle of",
-        "gear_name": "Ink, 1 ounce bottle of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "2 cp",
-        "gear_damage": "",
-        "gear_description": "Ink pen",
-        "gear_name": "Ink pen",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "2 cp",
-        "gear_damage": "",
-        "gear_description": "Jug or pitcher",
-        "gear_name": "Jug or pitcher",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "4"
-    }, {
-        "gear_cost": "1 sp",
-        "gear_damage": "",
-        "gear_description": "Small Knife",
-        "gear_name": "Small Knife",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "0.25"
-    }, {
-        "gear_cost": "1 sp",
-        "gear_damage": "",
-        "gear_description": "10-foot ladder",
-        "gear_name": "10-foot ladder",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "25"
-    }, {
-        "gear_cost": "5 sp",
-        "gear_damage": "",
-        "gear_description": "Lamp",
-        "gear_name": "Lamp",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Bullseye lantern",
-        "gear_name": "Bullseye lantern",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Hooded lantern",
-        "gear_name": "Hooded lantern",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Lock",
-        "gear_name": "Lock",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "100 gp",
-        "gear_damage": "",
-        "gear_description": "Magnifying glass",
-        "gear_name": "Magnifying glass",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Manacles",
-        "gear_name": "Manacles",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "6"
-    }, {
-        "gear_cost": "2 sp",
-        "gear_damage": "",
-        "gear_description": "Mess kit",
-        "gear_name": "Mess kit",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Steel mirror",
-        "gear_name": "Steel mirror",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "0.5"
-    }, {
-        "gear_cost": "1 sp",
-        "gear_damage": "",
-        "gear_description": "Oil, flasks of",
-        "gear_name": "Oil, flasks of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "2 sp",
-        "gear_damage": "",
-        "gear_description": "Paper, sheets of",
-        "gear_name": "Paper, sheets of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "1 sp",
-        "gear_damage": "",
-        "gear_description": "Parchment, sheets of",
-        "gear_name": "Parchment, sheets of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Perfume, vials of",
-        "gear_name": "Perfume, vials of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Miner's pick",
-        "gear_name": "Miner's pick",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "10"
-    }, {
-        "gear_cost": "5 cp",
-        "gear_damage": "",
-        "gear_description": "Piton",
-        "gear_name": "Piton",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "0.25"
-    }, {
-        "gear_cost": "100 gp",
-        "gear_damage": "",
-        "gear_description": "Basic poison, vials of",
-        "gear_name": "Basic poison, vials of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "5 cp",
-        "gear_damage": "",
-        "gear_description": "10-foot pole",
-        "gear_name": "10-foot pole",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "7"
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Iron pot",
-        "gear_name": "Iron pot",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "10"
-    }, {
-        "gear_cost": "50 gp",
-        "gear_damage": "",
-        "gear_description": "Potion of healing",
-        "gear_name": "Potion of healing",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "0.5"
-    }, {
-        "gear_cost": "5 sp",
-        "gear_damage": "",
-        "gear_description": "Pou﻿ch",
-        "gear_name": "Pou﻿ch",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Quiver",
-        "gear_name": "Quiver",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "4 gp",
-        "gear_damage": "",
-        "gear_description": "Portable ram",
-        "gear_name": "Portable ram",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "35"
-    }, {
-        "gear_cost": "5 sp",
-        "gear_damage": "",
-        "gear_description": "Rations, days of",
-        "gear_name": "Rations, days of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Robes",
-        "gear_name": "Robes",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "4"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Hempen rope, feet of",
-        "gear_name": "Hempen rope, feet of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "0.2"
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Silk rope, feet of",
-        "gear_name": "Silk rope, feet of",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "0.1"
-    }, {
-        "gear_cost": "1 cp",
-        "gear_damage": "",
-        "gear_description": "Sack",
-        "gear_name": "Sack",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "0.5"
-    }, {
-        "gear_cost": "60 gp",
-        "gear_damage": "",
-        "gear_description": "Exotic saddle",
-        "gear_name": "Exotic saddle",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "40"
-    }, {
-        "gear_cost": "20 gp",
-        "gear_damage": "",
-        "gear_description": "Military saddle",
-        "gear_name": "Military saddle",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "30"
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Pack saddle",
-        "gear_name": "Pack saddle",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "15"
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Riding saddle",
-        "gear_name": "Riding saddle",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "25"
-    }, {
-        "gear_cost": "4 gp",
-        "gear_damage": "",
-        "gear_description": "Saddlebags",
-        "gear_name": "Saddlebags",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "8"
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Merchant's scale",
-        "gear_name": "Merchant's scale",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "5 cp",
-        "gear_damage": "",
-        "gear_description": "Sealing wax",
-        "gear_name": "Sealing wax",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Shovel",
-        "gear_name": "Shovel",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "5 cp",
-        "gear_damage": "",
-        "gear_description": "Signal whistle",
-        "gear_name": "Signal whistle",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Signet ring",
-        "gear_name": "Signet ring",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "2 cp",
-        "gear_damage": "",
-        "gear_description": "Soap",
-        "gear_name": "Soap",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "50 gp",
-        "gear_damage": "",
-        "gear_description": "Spellbook",
-        "gear_name": "Spellbook",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Iron spike",
-        "gear_name": "Iron spike",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "0.5"
-    }, {
-        "gear_cost": "1000 gp",
-        "gear_damage": "",
-        "gear_description": "Spyglass",
-        "gear_name": "Spyglass",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Two-person tent",
-        "gear_name": "Two-person tent",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "20"
-    }, {
-        "gear_cost": "5 sp",
-        "gear_damage": "",
-        "gear_description": "Tinderbox",
-        "gear_name": "Tinderbox",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "1 cp",
-        "gear_damage": "",
-        "gear_description": "Torch",
-        "gear_name": "Torch",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Vial",
-        "gear_name": "Vial",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "2 sp",
-        "gear_damage": "",
-        "gear_description": "Waterskin",
-        "gear_name": "Waterskin",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "1 cp",
-        "gear_damage": "",
-        "gear_description": "Whetstone",
-        "gear_name": "Whetstone",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Gear",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D bludgeoning",
-        "gear_description": "Unarmed strike",
-        "gear_name": "Unarmed strike",
-        "gear_pic": "",
-        "gear_properties": "Type: Natural \nRange: Melee,\n",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D4 bludgeoning",
-        "gear_description": "Club",
-        "gear_name": "Club",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: Melee,\nLight",
-        "gear_type": "Weapon",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D4 piercing",
-        "gear_description": "Dagger",
-        "gear_name": "Dagger",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: Melee, 20/60 ft,\nFinesse, light, thrown",
-        "gear_type": "Weapon",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D8 bludgeoning",
-        "gear_description": "Greatclub",
-        "gear_name": "Greatclub",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: Melee,\nTwo-handed",
-        "gear_type": "Weapon",
-        "gear_weight": "10"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D6 slashing",
-        "gear_description": "Handaxe",
-        "gear_name": "Handaxe",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: Melee, 20/60 ft,\nLight, thrown",
-        "gear_type": "Weapon",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D6 piercing",
-        "gear_description": "Javelin",
-        "gear_name": "Javelin",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: Melee, 30/120 ft,\nThrown",
-        "gear_type": "Weapon",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D4 bludgeoning",
-        "gear_description": "Light hammer",
-        "gear_name": "Light hammer",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: Melee, 20/60 ft,\nLight, thrown",
-        "gear_type": "Weapon",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D6 bludgeoning",
-        "gear_description": "Mace",
-        "gear_name": "Mace",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: Melee,\n",
-        "gear_type": "Weapon",
-        "gear_weight": "4"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D6 bludgeoning",
-        "gear_description": "Quarterstaff",
-        "gear_name": "Quarterstaff",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: Melee,\nVersatile (1d8)",
-        "gear_type": "Weapon",
-        "gear_weight": "4"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D4 slashing",
-        "gear_description": "Sickle",
-        "gear_name": "Sickle",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: Melee,\nLight",
-        "gear_type": "Weapon",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D6 piercing",
-        "gear_description": "Spear",
-        "gear_name": "Spear",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: Melee, 20/60 ft,\nThrown, versatile (1d8)",
-        "gear_type": "Weapon",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D8 piercing",
-        "gear_description": "Light crossbow",
-        "gear_name": "Light crossbow",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: 80/320 ft,\nAmmunition, loading, two-handed\nAmmo: bolt",
-        "gear_type": "Weapon",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D4 piercing",
-        "gear_description": "Dart",
-        "gear_name": "Dart",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: 20/60 ft,\nFinesse, thrown",
-        "gear_type": "Weapon",
-        "gear_weight": "0.25"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D6 piercing",
-        "gear_description": "Shortbow",
-        "gear_name": "Shortbow",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: 80/320 ft,\nAmmunition, two-handed\nAmmo: arrow",
-        "gear_type": "Weapon",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D4 bludgeoning",
-        "gear_description": "Sling",
-        "gear_name": "Sling",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: 30/120 ft,\nAmmunition\nAmmo: bullet",
-        "gear_type": "Weapon",
-        "gear_weight": "0.001"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D8 slashing",
-        "gear_description": "Battleaxe",
-        "gear_name": "Battleaxe",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nVersatile (1d10)",
-        "gear_type": "Weapon",
-        "gear_weight": "4"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D8 bludgeoning",
-        "gear_description": "Flail",
-        "gear_name": "Flail",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\n",
-        "gear_type": "Weapon",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D10 slashing",
-        "gear_description": "Glaive",
-        "gear_name": "Glaive",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nHeavy, reach, two-handed",
-        "gear_type": "Weapon",
-        "gear_weight": "6"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D12 slashing",
-        "gear_description": "Greataxe",
-        "gear_name": "Greataxe",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nHeavy, two-handed",
-        "gear_type": "Weapon",
-        "gear_weight": "7"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "2D6 slashing",
-        "gear_description": "Greatsword",
-        "gear_name": "Greatsword",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nHeavy, two-handed",
-        "gear_type": "Weapon",
-        "gear_weight": "6"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D10 slashing",
-        "gear_description": "Halberd",
-        "gear_name": "Halberd",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nHeavy, reach, two-handed",
-        "gear_type": "Weapon",
-        "gear_weight": "6"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D12 piercing",
-        "gear_description": "Lance",
-        "gear_name": "Lance",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nReach, disadvantage to attack within 5 ft, two-handed when not mounted",
-        "gear_type": "Weapon",
-        "gear_weight": "6"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D8 slashing",
-        "gear_description": "Longsword",
-        "gear_name": "Longsword",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nVersatile (1d10)",
-        "gear_type": "Weapon",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "2D6 bludgeoning",
-        "gear_description": "Maul",
-        "gear_name": "Maul",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nHeavy, two-handed",
-        "gear_type": "Weapon",
-        "gear_weight": "10"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D8 piercing",
-        "gear_description": "Morningstar",
-        "gear_name": "Morningstar",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\n",
-        "gear_type": "Weapon",
-        "gear_weight": "4"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D10 piercing",
-        "gear_description": "Pike",
-        "gear_name": "Pike",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nHeavy, reach, two-handed",
-        "gear_type": "Weapon",
-        "gear_weight": "18"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D8 piercing",
-        "gear_description": "Rapier",
-        "gear_name": "Rapier",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nFinesse",
-        "gear_type": "Weapon",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D6 slashing",
-        "gear_description": "Scimitar",
-        "gear_name": "Scimitar",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nFinesse, light",
-        "gear_type": "Weapon",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D6 piercing",
-        "gear_description": "Shortsword",
-        "gear_name": "Shortsword",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nFinesse, light",
-        "gear_type": "Weapon",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D6 piercing",
-        "gear_description": "Trident",
-        "gear_name": "Trident",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee, 20/60 ft,\nThrown, versatile (1d8)",
-        "gear_type": "Weapon",
-        "gear_weight": "4"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D8 piercing",
-        "gear_description": "War pick",
-        "gear_name": "War pick",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\n",
-        "gear_type": "Weapon",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D8 bludgeoning",
-        "gear_description": "Warhammer",
-        "gear_name": "Warhammer",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nVersatile (1d10)",
-        "gear_type": "Weapon",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D4 slashing",
-        "gear_description": "Whip",
-        "gear_name": "Whip",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: Melee,\nFinesse, reach",
-        "gear_type": "Weapon",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D piercing",
-        "gear_description": "Blowgun",
-        "gear_name": "Blowgun",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: 25/100 ft,\nAmmunition, loading\nAmmo: needle",
-        "gear_type": "Weapon",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D6 piercing",
-        "gear_description": "Hand crossbow",
-        "gear_name": "Hand crossbow",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: 30/120 ft,\nAmmunition, light, loading\nAmmo: bolt",
-        "gear_type": "Weapon",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D10 piercing",
-        "gear_description": "Heavy crossbow",
-        "gear_name": "Heavy crossbow",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: 100/400 ft,\nAmmunition, heavy, loading, two-handed\nAmmo: bolt",
-        "gear_type": "Weapon",
-        "gear_weight": "18"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D8 piercing",
-        "gear_description": "Longbow",
-        "gear_name": "Longbow",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: 150/600 ft,\nAmmunition, heavy, two-handed\nAmmo: arrow",
-        "gear_type": "Weapon",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "―D Restrained",
-        "gear_description": "Net",
-        "gear_name": "Net",
-        "gear_pic": "",
-        "gear_properties": "Type: Martial \nRange: 5/15 ft,\nThrown, only 1 attack, up to large creature hit is restrained (PHB 148)",
-        "gear_type": "Weapon",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D4 bludgeoning",
-        "gear_description": "Improvised weapon",
-        "gear_name": "Improvised weapon",
-        "gear_pic": "",
-        "gear_properties": "Type: Improvised Weapons \nRange: Melee, 20/60 ft,\nDamage die, type, range, etc. are at the DM's discretion",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D4 fire",
-        "gear_description": "Alchemist's Fire",
-        "gear_name": "Alchemist's Fire",
-        "gear_pic": "",
-        "gear_properties": "Type: Improvised Weapons \nRange: 20 ft,\nTarget +1d4 damage at the start of each of its turn; Can end it as an action with a DC 10 Dex check\nAmmo: alchemist fire",
-        "gear_type": "Weapon",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "2D6 acid",
-        "gear_description": "Vial of Acid",
-        "gear_name": "Vial of Acid",
-        "gear_pic": "",
-        "gear_properties": "Type: Improvised Weapons \nRange: 20 ft,\n\nAmmo: vials of acid",
-        "gear_type": "Weapon",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "2D6 radiant",
-        "gear_description": "Holy Water",
-        "gear_name": "Holy Water",
-        "gear_pic": "",
-        "gear_properties": "Type: Improvised Weapons \nRange: 20 ft,\nOnly does damage against fiends and undead; Comes in flasks\nAmmo: holy water",
-        "gear_type": "Weapon",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D fire",
-        "gear_description": "Torch, Burning",
-        "gear_name": "Torch, Burning",
-        "gear_pic": "",
-        "gear_properties": "Type: Improvised Weapons \nRange: Melee,\nOnly does damage while burning",
-        "gear_type": "Weapon",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "D ",
-        "gear_description": "Spell attack",
-        "gear_name": "Spell attack",
-        "gear_pic": "",
-        "gear_properties": "Type: Spell \nRange: ,\n",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "CD6 acid",
-        "gear_description": "Acid Splash",
-        "gear_name": "Acid Splash",
-        "gear_pic": "",
-        "gear_properties": "Type: Cantrip \nRange: 60 ft,\nDex save, success - no damage; 1 or 2 creatures within 5 ft of each other (PHB 211)",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "CD8 necrotic",
-        "gear_description": "Chill Touch",
-        "gear_name": "Chill Touch",
-        "gear_pic": "",
-        "gear_properties": "Type: Cantrip \nRange: 120 ft,\nTarget can't regain HP; Undead dis. on attacks vs. me until my next turn (PHB 221)",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "C×1D10 force",
-        "gear_description": "Eldritch Blast",
-        "gear_name": "Eldritch Blast",
-        "gear_pic": "",
-        "gear_properties": "Type: Cantrip \nRange: 120 ft,\nEach d10 is a separate beam requiring separate rolls (PHB 237)",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "CD10 fire",
-        "gear_description": "Fire Bolt",
-        "gear_name": "Fire Bolt",
-        "gear_pic": "",
-        "gear_properties": "Type: Cantrip \nRange: 120 ft,\nUnattended flammable objects ignite (PHB 241)",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "CD12 poison",
-        "gear_description": "Poison Spray",
-        "gear_name": "Poison Spray",
-        "gear_pic": "",
-        "gear_properties": "Type: Cantrip \nRange: 10 ft,\nCon save, success - no damage; 1 creature (PHB 266)",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "CD8 fire",
-        "gear_description": "Produce Flame",
-        "gear_name": "Produce Flame",
-        "gear_pic": "",
-        "gear_properties": "Type: Cantrip \nRange: 30 ft,\n10-ft radius bright light and 10-ft radius dim light until thrown (PHB 269)",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "CD8 cold",
-        "gear_description": "Ray of Frost",
-        "gear_name": "Ray of Frost",
-        "gear_pic": "",
-        "gear_properties": "Type: Cantrip \nRange: 60 ft,\nTarget -10 ft speed until start of my next turn (PHB 271)",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "CD8 radiant",
-        "gear_description": "Sacred Flame",
-        "gear_name": "Sacred Flame",
-        "gear_pic": "",
-        "gear_properties": "Type: Cantrip \nRange: 60 ft,\nDex save, no bonus from cover, success - no damage; 1 creature (PHB 272)",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "1D8 bludgeoning",
-        "gear_description": "Shillelagh",
-        "gear_name": "Shillelagh",
-        "gear_pic": "",
-        "gear_properties": "Type: Simple \nRange: Melee,\nImbued club or quarterstaff; Counts as a magical weapon (PHB 275)",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "CD8 lightning",
-        "gear_description": "Shocking Grasp",
-        "gear_name": "Shocking Grasp",
-        "gear_pic": "",
-        "gear_properties": "Type: Cantrip \nRange: Melee,\nAdvantage if target is wearing metal armor, target cannot take reactions until its next turn (PHB 275)",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "CD4 psychic",
-        "gear_description": "Vicious Mockery",
-        "gear_name": "Vicious Mockery",
-        "gear_pic": "",
-        "gear_properties": "Type: Cantrip \nRange: 60 ft,\nWis save, success - no damage, fail - also disadv. on next attack roll in next turn; 1 creature (PHB 285)",
-        "gear_type": "Weapon",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "50 gp",
-        "gear_damage": "",
-        "gear_description": "Alchemist's supplies",
-        "gear_name": "Alchemist's supplies",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "8"
-    }, {
-        "gear_cost": "20 gp",
-        "gear_damage": "",
-        "gear_description": "Brewer's supplies",
-        "gear_name": "Brewer's supplies",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "9"
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Calligrapher's supplies",
-        "gear_name": "Calligrapher's supplies",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "8 gp",
-        "gear_damage": "",
-        "gear_description": "Carpenter's tools",
-        "gear_name": "Carpenter's tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "6"
-    }, {
-        "gear_cost": "15 gp",
-        "gear_damage": "",
-        "gear_description": "Cartographer's tools",
-        "gear_name": "Cartographer's tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "6"
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Cobbler's tools",
-        "gear_name": "Cobbler's tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Cook's utensils",
-        "gear_name": "Cook's utensils",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "8"
-    }, {
-        "gear_cost": "30 gp",
-        "gear_damage": "",
-        "gear_description": "Glassblower's tools",
-        "gear_name": "Glassblower's tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "25 gp",
-        "gear_damage": "",
-        "gear_description": "Jeweler's tools",
-        "gear_name": "Jeweler's tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Leatherworker's tools",
-        "gear_name": "Leatherworker's tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Mason's tools",
-        "gear_name": "Mason's tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "8"
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Painter's supplies",
-        "gear_name": "Painter's supplies",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Potter's tools",
-        "gear_name": "Potter's tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "20 gp",
-        "gear_damage": "",
-        "gear_description": "Smith's tools",
-        "gear_name": "Smith's tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "8"
-    }, {
-        "gear_cost": "50 gp",
-        "gear_damage": "",
-        "gear_description": "Tinker's tools",
-        "gear_name": "Tinker's tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "10"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Weaver's tools",
-        "gear_name": "Weaver's tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Woodcarver's tools",
-        "gear_name": "Woodcarver's tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "25 gp",
-        "gear_damage": "",
-        "gear_description": "Disguise kit",
-        "gear_name": "Disguise kit",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "15 gp",
-        "gear_damage": "",
-        "gear_description": "Forgery kit",
-        "gear_name": "Forgery kit",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "5"
-    }, {
-        "gear_cost": "1 sp",
-        "gear_damage": "",
-        "gear_description": "Dice set",
-        "gear_name": "Dice set",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Dragonchess set",
-        "gear_name": "Dragonchess set",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "0.5"
-    }, {
-        "gear_cost": "5 sp",
-        "gear_damage": "",
-        "gear_description": "Playing card set",
-        "gear_name": "Playing card set",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "1 gp",
-        "gear_damage": "",
-        "gear_description": "Three-Dragon Ante set",
-        "gear_name": "Three-Dragon Ante set",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "5 gp",
-        "gear_damage": "",
-        "gear_description": "Herbalism kit",
-        "gear_name": "Herbalism kit",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "30 gp",
-        "gear_damage": "",
-        "gear_description": "Bagpipes",
-        "gear_name": "Bagpipes",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "6"
-    }, {
-        "gear_cost": "6 gp",
-        "gear_damage": "",
-        "gear_description": "Drum",
-        "gear_name": "Drum",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "3"
-    }, {
-        "gear_cost": "25 gp",
-        "gear_damage": "",
-        "gear_description": "Dulcimer",
-        "gear_name": "Dulcimer",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "10"
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Flute",
-        "gear_name": "Flute",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "3 gp",
-        "gear_damage": "",
-        "gear_description": "Horn",
-        "gear_name": "Horn",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "35 gp",
-        "gear_damage": "",
-        "gear_description": "Lute",
-        "gear_name": "Lute",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "30 gp",
-        "gear_damage": "",
-        "gear_description": "Lyre",
-        "gear_name": "Lyre",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "12 gp",
-        "gear_damage": "",
-        "gear_description": "Pan flute",
-        "gear_name": "Pan flute",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "2 gp",
-        "gear_damage": "",
-        "gear_description": "Shawm",
-        "gear_name": "Shawm",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "30 gp",
-        "gear_damage": "",
-        "gear_description": "Viol",
-        "gear_name": "Viol",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "25 gp",
-        "gear_damage": "",
-        "gear_description": "Navigator's tools",
-        "gear_name": "Navigator's tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "50 gp",
-        "gear_damage": "",
-        "gear_description": "Poisoner's kit",
-        "gear_name": "Poisoner's kit",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "2"
-    }, {
-        "gear_cost": "25 gp",
-        "gear_damage": "",
-        "gear_description": "Thieves' tools",
-        "gear_name": "Thieves' tools",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Tool",
-        "gear_weight": "1"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Arrows",
-        "gear_name": "Arrows",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 0.05
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Bolts",
-        "gear_name": "Bolts",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 0.075
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Bullets",
-        "gear_name": "Bullets",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 0.075
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Daggers",
-        "gear_name": "Daggers",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 1
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Darts",
-        "gear_name": "Darts",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 0.25
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Flasks (1 pint)",
-        "gear_name": "Flasks (1 pint)",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 1
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Handaxes",
-        "gear_name": "Handaxes",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 2
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Javelins",
-        "gear_name": "Javelins",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 2
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Light Hammers",
-        "gear_name": "Light Hammers",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 2
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Needles",
-        "gear_name": "Needles",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 0.02
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Spears",
-        "gear_name": "Spears",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 3
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Tridents",
-        "gear_name": "Tridents",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 4
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Vials (4 ounces)",
-        "gear_name": "Vials (4 ounces)",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 0.25
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Alchemist's Fire, flasks",
-        "gear_name": "Alchemist's Fire, flasks",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 1
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Vials of Acid",
-        "gear_name": "Vials of Acid",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 1
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Holy Water, flasks",
-        "gear_name": "Holy Water, flasks",
-        "gear_pic": "",
-        "gear_properties": "",
-        "gear_type": "Ammo",
-        "gear_weight": 1
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_name": "Unarmored",
-        "gear_pic": "",
-        "gear_properties": "AC: 10",
-        "gear_type": "Armor",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_name": "Mage armor",
-        "gear_pic": "",
-        "gear_properties": "AC: 13",
-        "gear_type": "Armor",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Padded armor",
-        "gear_name": "Padded",
-        "gear_pic": "",
-        "gear_properties": "AC: 11 \nStr Requirement: 0\nDisadvantage on Stealth",
-        "gear_type": "Armor",
-        "gear_weight": "8"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Leather armor",
-        "gear_name": "Leather",
-        "gear_pic": "",
-        "gear_properties": "AC: 11",
-        "gear_type": "Armor",
-        "gear_weight": "10"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Studded leather armor",
-        "gear_name": "Studded Leather",
-        "gear_pic": "",
-        "gear_properties": "AC: 12",
-        "gear_type": "Armor",
-        "gear_weight": "13"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Hide armor",
-        "gear_name": "Hide",
-        "gear_pic": "",
-        "gear_properties": "AC: 12",
-        "gear_type": "Armor",
-        "gear_weight": "12"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_name": "Chain shirt",
-        "gear_pic": "",
-        "gear_properties": "AC: 13",
-        "gear_type": "Armor",
-        "gear_weight": "20"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_name": "Scale mail",
-        "gear_pic": "",
-        "gear_properties": "AC: 14\nDisadvantage on Stealth",
-        "gear_type": "Armor",
-        "gear_weight": "45"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_name": "Breastplate",
-        "gear_pic": "",
-        "gear_properties": "AC: 14",
-        "gear_type": "Armor",
-        "gear_weight": "20"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_name": "Half plate",
-        "gear_pic": "",
-        "gear_properties": "AC: 15\nDisadvantage on Stealth",
-        "gear_type": "Armor",
-        "gear_weight": "40"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_name": "Ring mail",
-        "gear_pic": "",
-        "gear_properties": "AC: 14\nDisadvantage on Stealth",
-        "gear_type": "Armor",
-        "gear_weight": "40"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_name": "Chain mail",
-        "gear_pic": "",
-        "gear_properties": "AC: 16 \nStr Requirement: 13\nDisadvantage on Stealth",
-        "gear_type": "Armor",
-        "gear_weight": "55"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Splint armor",
-        "gear_name": "Splint",
-        "gear_pic": "",
-        "gear_properties": "AC: 17 \nStr Requirement: 15\nDisadvantage on Stealth",
-        "gear_type": "Armor",
-        "gear_weight": "60"
-    }, {
-        "gear_cost": "",
-        "gear_damage": "",
-        "gear_description": "Plate armor",
-        "gear_name": "Plate",
-        "gear_pic": "",
-        "gear_properties": "AC: 18 \nStr Requirement: 15\nDisadvantage on Stealth",
-        "gear_type": "Armor",
-        "gear_weight": "65"
-    }, {
-        "gear_cost": "16 gp",
-        "gear_damage": "",
-        "gear_description": "Burglar's pack ",
-        "gear_name": "Burglar's pack ",
-        "gear_pic": "",
-        "gear_properties": "Backpack, with:\nBag of 1000 ball bearings\nString, feet of\nBell\nCandles\nCrowbar\nHammer\nPitons\nHooded lantern\nOil, flasks of\nRations, days of\nTinderbox\nWaterskin\nHempen rope, feet of\n",
-        "gear_type": "Pack",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "39 gp",
-        "gear_damage": "",
-        "gear_description": "Diplomat's pack ",
-        "gear_name": "Diplomat's pack ",
-        "gear_pic": "",
-        "gear_properties": "Chest, with:\nMap or scroll case\nFine clothes\nInk, 1 ounce bottle of\nInk pen\nLamp\nOil, flasks of\nPaper, sheets of\nPerfume, vial of\nSealing Wax\nSoap\n",
-        "gear_type": "Pack",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "12 gp",
-        "gear_damage": "",
-        "gear_description": "Dungeoneer's pack ",
-        "gear_name": "Dungeoneer's pack ",
-        "gear_pic": "",
-        "gear_properties": "Backpack, with:\nCrowbar\nHammer\nPitons\nTorches\nTinderbox\nRations, days of\nWaterskin\nHempen rope, feet of\n",
-        "gear_type": "Pack",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "40 gp",
-        "gear_damage": "",
-        "gear_description": "Entertainer's pack ",
-        "gear_name": "Entertainer's pack ",
-        "gear_pic": "",
-        "gear_properties": "Backpack, with:\nBedroll\nCostumes\nCandles\nRations, days of\nWaterskin\nDisguise kit\n",
-        "gear_type": "Pack",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "10 gp",
-        "gear_damage": "",
-        "gear_description": "Explorer's pack ",
-        "gear_name": "Explorer's pack ",
-        "gear_pic": "",
-        "gear_properties": "Backpack, with:\nBedroll\nMess kit\nTinderbox\nTorches\nRations, days of\nWaterskin\nHempen rope, feet of\n",
-        "gear_type": "Pack",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "19 gp",
-        "gear_damage": "",
-        "gear_description": "Priest's pack ",
-        "gear_name": "Priest's pack ",
-        "gear_pic": "",
-        "gear_properties": "Backpack, with:\nBlanket\nCandles\nTinderbox\nAlms box\nIncense, blocks of\nCenser\nVestments\nRations, days of\nWaterskin\n",
-        "gear_type": "Pack",
-        "gear_weight": ""
-    }, {
-        "gear_cost": "40 gp",
-        "gear_damage": "",
-        "gear_description": "Scholar's pack ",
-        "gear_name": "Scholar's pack ",
-        "gear_pic": "",
-        "gear_properties": "Backpack, with:\nBook of lore\nInk, 1 ounce bottle of\nInk pen\nParchment, sheets of\nLittle bag of sand\nSmall knife\n",
-        "gear_type": "Pack",
-        "gear_weight": ""
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Abacus",
+        "name": "Abacus",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "2"
+    }, {
+        "cost": "25 gp",
+        "damage": "",
+        "description": "Acid, vials of",
+        "name": "Acid, vials of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "50 gp",
+        "damage": "",
+        "description": "Alchemist's fire, flasks of",
+        "name": "Alchemist's fire, flasks of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Arrows",
+        "name": "Arrows",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "0.05"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Blowgun needles",
+        "name": "Blowgun needles",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "0.02"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Crossbow bolts",
+        "name": "Crossbow bolts",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "0.075"
+    }, {
+        "cost": "4 cp",
+        "damage": "",
+        "description": "Sling bullets",
+        "name": "Sling bullets",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "0.075"
+    }, {
+        "cost": "50 gp",
+        "damage": "",
+        "description": "Antitoxin, vials of",
+        "name": "Antitoxin, vials of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Crystal arcane focus",
+        "name": "Crystal arcane focus",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "20 gp",
+        "damage": "",
+        "description": "Orb arcane focus",
+        "name": "Orb arcane focus",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "3"
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Rod arcane focus",
+        "name": "Rod arcane focus",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "2"
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Staff arcane focus",
+        "name": "Staff arcane focus",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "4"
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Wand arcane focus",
+        "name": "Wand arcane focus",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Backpack",
+        "name": "Backpack",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "5"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Bag of 1000 ball bearings",
+        "name": "Bag of 1000 ball bearings",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "2"
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Barrel",
+        "name": "Barrel",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "70"
+    }, {
+        "cost": "4 sp",
+        "damage": "",
+        "description": "Basket",
+        "name": "Basket",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "2"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Bedroll",
+        "name": "Bedroll",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "7"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Bell",
+        "name": "Bell",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Bit and bridle",
+        "name": "Bit and bridle",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "5 sp",
+        "damage": "",
+        "description": "Blanket",
+        "name": "Blanket",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "3"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Block and tackle",
+        "name": "Block and tackle",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "5"
+    }, {
+        "cost": "25 gp",
+        "damage": "",
+        "description": "Book",
+        "name": "Book",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "5"
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Glass bottle",
+        "name": "Glass bottle",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "2"
+    }, {
+        "cost": "5 sp",
+        "damage": "",
+        "description": "Bucket",
+        "name": "Bucket",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "2"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Caltrops",
+        "name": "Caltrops",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "0.1"
+    }, {
+        "cost": "1 cp",
+        "damage": "",
+        "description": "Candle",
+        "name": "Candle",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Crossbow bolt case",
+        "name": "Crossbow bolt case",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Map or scroll case",
+        "name": "Map or scroll case",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Chain, feet of",
+        "name": "Chain, feet of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "1 cp",
+        "damage": "",
+        "description": "Chalk, pieces of",
+        "name": "Chalk, pieces of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Chest",
+        "name": "Chest",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "25"
+    }, {
+        "cost": "25 gp",
+        "damage": "",
+        "description": "Climber's kit",
+        "name": "Climber's kit",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "12"
+    }, {
+        "cost": "5 sp",
+        "damage": "",
+        "description": "Common clothes",
+        "name": "Common clothes",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "3"
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Costume clothes",
+        "name": "Costume clothes",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "4"
+    }, {
+        "cost": "15 gp",
+        "damage": "",
+        "description": "Fine clothes",
+        "name": "Fine clothes",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "6"
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Traveler's clothes",
+        "name": "Traveler's clothes",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "4"
+    }, {
+        "cost": "25 gp",
+        "damage": "",
+        "description": "Component pouch",
+        "name": "Component pouch",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "2"
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Crowbar",
+        "name": "Crowbar",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "5"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Sprig of mistletoe druidic focus",
+        "name": "Sprig of mistletoe druidic focus",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Totem druidic focus",
+        "name": "Totem druidic focus",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Wooden staff druidic focus",
+        "name": "Wooden staff druidic focus",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "4"
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Yew wand druidic focus",
+        "name": "Yew wand druidic focus",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Fishing tackle",
+        "name": "Fishing tackle",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "4"
+    }, {
+        "cost": "2 cp",
+        "damage": "",
+        "description": "Flask or tankard",
+        "name": "Flask or tankard",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Grappling hook",
+        "name": "Grappling hook",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "4"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Hammer",
+        "name": "Hammer",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "3"
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Sledge hammer",
+        "name": "Sledge hammer",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "10"
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Healer's kit",
+        "name": "Healer's kit",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "3"
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Amulet holy symbol",
+        "name": "Amulet holy symbol",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Emblem holy symbol",
+        "name": "Emblem holy symbol",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Reliquary holy symbol",
+        "name": "Reliquary holy symbol",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "2"
+    }, {
+        "cost": "25 gp",
+        "damage": "",
+        "description": "Holy water, flasks of",
+        "name": "Holy water, flasks of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "25 gp",
+        "damage": "",
+        "description": "Hourglass",
+        "name": "Hourglass",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Hunting trap",
+        "name": "Hunting trap",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "25"
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Ink, 1 ounce bottle of",
+        "name": "Ink, 1 ounce bottle of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "2 cp",
+        "damage": "",
+        "description": "Ink pen",
+        "name": "Ink pen",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "2 cp",
+        "damage": "",
+        "description": "Jug or pitcher",
+        "name": "Jug or pitcher",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "4"
+    }, {
+        "cost": "1 sp",
+        "damage": "",
+        "description": "Small Knife",
+        "name": "Small Knife",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "0.25"
+    }, {
+        "cost": "1 sp",
+        "damage": "",
+        "description": "10-foot ladder",
+        "name": "10-foot ladder",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "25"
+    }, {
+        "cost": "5 sp",
+        "damage": "",
+        "description": "Lamp",
+        "name": "Lamp",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Bullseye lantern",
+        "name": "Bullseye lantern",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "2"
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Hooded lantern",
+        "name": "Hooded lantern",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "2"
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Lock",
+        "name": "Lock",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "100 gp",
+        "damage": "",
+        "description": "Magnifying glass",
+        "name": "Magnifying glass",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Manacles",
+        "name": "Manacles",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "6"
+    }, {
+        "cost": "2 sp",
+        "damage": "",
+        "description": "Mess kit",
+        "name": "Mess kit",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Steel mirror",
+        "name": "Steel mirror",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "0.5"
+    }, {
+        "cost": "1 sp",
+        "damage": "",
+        "description": "Oil, flasks of",
+        "name": "Oil, flasks of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "2 sp",
+        "damage": "",
+        "description": "Paper, sheets of",
+        "name": "Paper, sheets of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "1 sp",
+        "damage": "",
+        "description": "Parchment, sheets of",
+        "name": "Parchment, sheets of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Perfume, vials of",
+        "name": "Perfume, vials of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Miner's pick",
+        "name": "Miner's pick",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "10"
+    }, {
+        "cost": "5 cp",
+        "damage": "",
+        "description": "Piton",
+        "name": "Piton",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "0.25"
+    }, {
+        "cost": "100 gp",
+        "damage": "",
+        "description": "Basic poison, vials of",
+        "name": "Basic poison, vials of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "5 cp",
+        "damage": "",
+        "description": "10-foot pole",
+        "name": "10-foot pole",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "7"
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Iron pot",
+        "name": "Iron pot",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "10"
+    }, {
+        "cost": "50 gp",
+        "damage": "",
+        "description": "Potion of healing",
+        "name": "Potion of healing",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "0.5"
+    }, {
+        "cost": "5 sp",
+        "damage": "",
+        "description": "Pou﻿ch",
+        "name": "Pou﻿ch",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Quiver",
+        "name": "Quiver",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "4 gp",
+        "damage": "",
+        "description": "Portable ram",
+        "name": "Portable ram",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "35"
+    }, {
+        "cost": "5 sp",
+        "damage": "",
+        "description": "Rations, days of",
+        "name": "Rations, days of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "2"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Robes",
+        "name": "Robes",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "4"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Hempen rope, feet of",
+        "name": "Hempen rope, feet of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "0.2"
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Silk rope, feet of",
+        "name": "Silk rope, feet of",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "0.1"
+    }, {
+        "cost": "1 cp",
+        "damage": "",
+        "description": "Sack",
+        "name": "Sack",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "0.5"
+    }, {
+        "cost": "60 gp",
+        "damage": "",
+        "description": "Exotic saddle",
+        "name": "Exotic saddle",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "40"
+    }, {
+        "cost": "20 gp",
+        "damage": "",
+        "description": "Military saddle",
+        "name": "Military saddle",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "30"
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Pack saddle",
+        "name": "Pack saddle",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "15"
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Riding saddle",
+        "name": "Riding saddle",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "25"
+    }, {
+        "cost": "4 gp",
+        "damage": "",
+        "description": "Saddlebags",
+        "name": "Saddlebags",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "8"
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Merchant's scale",
+        "name": "Merchant's scale",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "3"
+    }, {
+        "cost": "5 cp",
+        "damage": "",
+        "description": "Sealing wax",
+        "name": "Sealing wax",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Shovel",
+        "name": "Shovel",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "5"
+    }, {
+        "cost": "5 cp",
+        "damage": "",
+        "description": "Signal whistle",
+        "name": "Signal whistle",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Signet ring",
+        "name": "Signet ring",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "2 cp",
+        "damage": "",
+        "description": "Soap",
+        "name": "Soap",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "50 gp",
+        "damage": "",
+        "description": "Spellbook",
+        "name": "Spellbook",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "3"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Iron spike",
+        "name": "Iron spike",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "0.5"
+    }, {
+        "cost": "1000 gp",
+        "damage": "",
+        "description": "Spyglass",
+        "name": "Spyglass",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Two-person tent",
+        "name": "Two-person tent",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "20"
+    }, {
+        "cost": "5 sp",
+        "damage": "",
+        "description": "Tinderbox",
+        "name": "Tinderbox",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "1 cp",
+        "damage": "",
+        "description": "Torch",
+        "name": "Torch",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Vial",
+        "name": "Vial",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": ""
+    }, {
+        "cost": "2 sp",
+        "damage": "",
+        "description": "Waterskin",
+        "name": "Waterskin",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "5"
+    }, {
+        "cost": "1 cp",
+        "damage": "",
+        "description": "Whetstone",
+        "name": "Whetstone",
+        "pic": "",
+        "properties": "",
+        "type": "Gear",
+        "weight": "1"
+    }, {
+        "cost": "",
+        "damage": "1D bludgeoning",
+        "description": "Unarmed strike",
+        "name": "Unarmed strike",
+        "pic": "",
+        "properties": "Type: Natural \nRange: Melee,\n",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "1D4 bludgeoning",
+        "description": "Club",
+        "name": "Club",
+        "pic": "",
+        "properties": "Type: Simple \nRange: Melee,\nLight",
+        "type": "Weapon",
+        "weight": "2"
+    }, {
+        "cost": "",
+        "damage": "1D4 piercing",
+        "description": "Dagger",
+        "name": "Dagger",
+        "pic": "",
+        "properties": "Type: Simple \nRange: Melee, 20/60 ft,\nFinesse, light, thrown",
+        "type": "Weapon",
+        "weight": "1"
+    }, {
+        "cost": "",
+        "damage": "1D8 bludgeoning",
+        "description": "Greatclub",
+        "name": "Greatclub",
+        "pic": "",
+        "properties": "Type: Simple \nRange: Melee,\nTwo-handed",
+        "type": "Weapon",
+        "weight": "10"
+    }, {
+        "cost": "",
+        "damage": "1D6 slashing",
+        "description": "Handaxe",
+        "name": "Handaxe",
+        "pic": "",
+        "properties": "Type: Simple \nRange: Melee, 20/60 ft,\nLight, thrown",
+        "type": "Weapon",
+        "weight": "2"
+    }, {
+        "cost": "",
+        "damage": "1D6 piercing",
+        "description": "Javelin",
+        "name": "Javelin",
+        "pic": "",
+        "properties": "Type: Simple \nRange: Melee, 30/120 ft,\nThrown",
+        "type": "Weapon",
+        "weight": "2"
+    }, {
+        "cost": "",
+        "damage": "1D4 bludgeoning",
+        "description": "Light hammer",
+        "name": "Light hammer",
+        "pic": "",
+        "properties": "Type: Simple \nRange: Melee, 20/60 ft,\nLight, thrown",
+        "type": "Weapon",
+        "weight": "2"
+    }, {
+        "cost": "",
+        "damage": "1D6 bludgeoning",
+        "description": "Mace",
+        "name": "Mace",
+        "pic": "",
+        "properties": "Type: Simple \nRange: Melee,\n",
+        "type": "Weapon",
+        "weight": "4"
+    }, {
+        "cost": "",
+        "damage": "1D6 bludgeoning",
+        "description": "Quarterstaff",
+        "name": "Quarterstaff",
+        "pic": "",
+        "properties": "Type: Simple \nRange: Melee,\nVersatile (1d8)",
+        "type": "Weapon",
+        "weight": "4"
+    }, {
+        "cost": "",
+        "damage": "1D4 slashing",
+        "description": "Sickle",
+        "name": "Sickle",
+        "pic": "",
+        "properties": "Type: Simple \nRange: Melee,\nLight",
+        "type": "Weapon",
+        "weight": "2"
+    }, {
+        "cost": "",
+        "damage": "1D6 piercing",
+        "description": "Spear",
+        "name": "Spear",
+        "pic": "",
+        "properties": "Type: Simple \nRange: Melee, 20/60 ft,\nThrown, versatile (1d8)",
+        "type": "Weapon",
+        "weight": "3"
+    }, {
+        "cost": "",
+        "damage": "1D8 piercing",
+        "description": "Light crossbow",
+        "name": "Light crossbow",
+        "pic": "",
+        "properties": "Type: Simple \nRange: 80/320 ft,\nAmmunition, loading, two-handed\nAmmo: bolt",
+        "type": "Weapon",
+        "weight": "5"
+    }, {
+        "cost": "",
+        "damage": "1D4 piercing",
+        "description": "Dart",
+        "name": "Dart",
+        "pic": "",
+        "properties": "Type: Simple \nRange: 20/60 ft,\nFinesse, thrown",
+        "type": "Weapon",
+        "weight": "0.25"
+    }, {
+        "cost": "",
+        "damage": "1D6 piercing",
+        "description": "Shortbow",
+        "name": "Shortbow",
+        "pic": "",
+        "properties": "Type: Simple \nRange: 80/320 ft,\nAmmunition, two-handed\nAmmo: arrow",
+        "type": "Weapon",
+        "weight": "2"
+    }, {
+        "cost": "",
+        "damage": "1D4 bludgeoning",
+        "description": "Sling",
+        "name": "Sling",
+        "pic": "",
+        "properties": "Type: Simple \nRange: 30/120 ft,\nAmmunition\nAmmo: bullet",
+        "type": "Weapon",
+        "weight": "0.001"
+    }, {
+        "cost": "",
+        "damage": "1D8 slashing",
+        "description": "Battleaxe",
+        "name": "Battleaxe",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nVersatile (1d10)",
+        "type": "Weapon",
+        "weight": "4"
+    }, {
+        "cost": "",
+        "damage": "1D8 bludgeoning",
+        "description": "Flail",
+        "name": "Flail",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\n",
+        "type": "Weapon",
+        "weight": "2"
+    }, {
+        "cost": "",
+        "damage": "1D10 slashing",
+        "description": "Glaive",
+        "name": "Glaive",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nHeavy, reach, two-handed",
+        "type": "Weapon",
+        "weight": "6"
+    }, {
+        "cost": "",
+        "damage": "1D12 slashing",
+        "description": "Greataxe",
+        "name": "Greataxe",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nHeavy, two-handed",
+        "type": "Weapon",
+        "weight": "7"
+    }, {
+        "cost": "",
+        "damage": "2D6 slashing",
+        "description": "Greatsword",
+        "name": "Greatsword",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nHeavy, two-handed",
+        "type": "Weapon",
+        "weight": "6"
+    }, {
+        "cost": "",
+        "damage": "1D10 slashing",
+        "description": "Halberd",
+        "name": "Halberd",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nHeavy, reach, two-handed",
+        "type": "Weapon",
+        "weight": "6"
+    }, {
+        "cost": "",
+        "damage": "1D12 piercing",
+        "description": "Lance",
+        "name": "Lance",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nReach, disadvantage to attack within 5 ft, two-handed when not mounted",
+        "type": "Weapon",
+        "weight": "6"
+    }, {
+        "cost": "",
+        "damage": "1D8 slashing",
+        "description": "Longsword",
+        "name": "Longsword",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nVersatile (1d10)",
+        "type": "Weapon",
+        "weight": "3"
+    }, {
+        "cost": "",
+        "damage": "2D6 bludgeoning",
+        "description": "Maul",
+        "name": "Maul",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nHeavy, two-handed",
+        "type": "Weapon",
+        "weight": "10"
+    }, {
+        "cost": "",
+        "damage": "1D8 piercing",
+        "description": "Morningstar",
+        "name": "Morningstar",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\n",
+        "type": "Weapon",
+        "weight": "4"
+    }, {
+        "cost": "",
+        "damage": "1D10 piercing",
+        "description": "Pike",
+        "name": "Pike",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nHeavy, reach, two-handed",
+        "type": "Weapon",
+        "weight": "18"
+    }, {
+        "cost": "",
+        "damage": "1D8 piercing",
+        "description": "Rapier",
+        "name": "Rapier",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nFinesse",
+        "type": "Weapon",
+        "weight": "2"
+    }, {
+        "cost": "",
+        "damage": "1D6 slashing",
+        "description": "Scimitar",
+        "name": "Scimitar",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nFinesse, light",
+        "type": "Weapon",
+        "weight": "3"
+    }, {
+        "cost": "",
+        "damage": "1D6 piercing",
+        "description": "Shortsword",
+        "name": "Shortsword",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nFinesse, light",
+        "type": "Weapon",
+        "weight": "2"
+    }, {
+        "cost": "",
+        "damage": "1D6 piercing",
+        "description": "Trident",
+        "name": "Trident",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee, 20/60 ft,\nThrown, versatile (1d8)",
+        "type": "Weapon",
+        "weight": "4"
+    }, {
+        "cost": "",
+        "damage": "1D8 piercing",
+        "description": "War pick",
+        "name": "War pick",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\n",
+        "type": "Weapon",
+        "weight": "2"
+    }, {
+        "cost": "",
+        "damage": "1D8 bludgeoning",
+        "description": "Warhammer",
+        "name": "Warhammer",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nVersatile (1d10)",
+        "type": "Weapon",
+        "weight": "2"
+    }, {
+        "cost": "",
+        "damage": "1D4 slashing",
+        "description": "Whip",
+        "name": "Whip",
+        "pic": "",
+        "properties": "Type: Martial \nRange: Melee,\nFinesse, reach",
+        "type": "Weapon",
+        "weight": "3"
+    }, {
+        "cost": "",
+        "damage": "1D piercing",
+        "description": "Blowgun",
+        "name": "Blowgun",
+        "pic": "",
+        "properties": "Type: Martial \nRange: 25/100 ft,\nAmmunition, loading\nAmmo: needle",
+        "type": "Weapon",
+        "weight": "1"
+    }, {
+        "cost": "",
+        "damage": "1D6 piercing",
+        "description": "Hand crossbow",
+        "name": "Hand crossbow",
+        "pic": "",
+        "properties": "Type: Martial \nRange: 30/120 ft,\nAmmunition, light, loading\nAmmo: bolt",
+        "type": "Weapon",
+        "weight": "3"
+    }, {
+        "cost": "",
+        "damage": "1D10 piercing",
+        "description": "Heavy crossbow",
+        "name": "Heavy crossbow",
+        "pic": "",
+        "properties": "Type: Martial \nRange: 100/400 ft,\nAmmunition, heavy, loading, two-handed\nAmmo: bolt",
+        "type": "Weapon",
+        "weight": "18"
+    }, {
+        "cost": "",
+        "damage": "1D8 piercing",
+        "description": "Longbow",
+        "name": "Longbow",
+        "pic": "",
+        "properties": "Type: Martial \nRange: 150/600 ft,\nAmmunition, heavy, two-handed\nAmmo: arrow",
+        "type": "Weapon",
+        "weight": "2"
+    }, {
+        "cost": "",
+        "damage": "―D Restrained",
+        "description": "Net",
+        "name": "Net",
+        "pic": "",
+        "properties": "Type: Martial \nRange: 5/15 ft,\nThrown, only 1 attack, up to large creature hit is restrained (PHB 148)",
+        "type": "Weapon",
+        "weight": "3"
+    }, {
+        "cost": "",
+        "damage": "1D4 bludgeoning",
+        "description": "Improvised weapon",
+        "name": "Improvised weapon",
+        "pic": "",
+        "properties": "Type: Improvised Weapons \nRange: Melee, 20/60 ft,\nDamage die, type, range, etc. are at the DM's discretion",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "1D4 fire",
+        "description": "Alchemist's Fire",
+        "name": "Alchemist's Fire",
+        "pic": "",
+        "properties": "Type: Improvised Weapons \nRange: 20 ft,\nTarget +1d4 damage at the start of each of its turn; Can end it as an action with a DC 10 Dex check\nAmmo: alchemist fire",
+        "type": "Weapon",
+        "weight": "1"
+    }, {
+        "cost": "",
+        "damage": "2D6 acid",
+        "description": "Vial of Acid",
+        "name": "Vial of Acid",
+        "pic": "",
+        "properties": "Type: Improvised Weapons \nRange: 20 ft,\n\nAmmo: vials of acid",
+        "type": "Weapon",
+        "weight": "1"
+    }, {
+        "cost": "",
+        "damage": "2D6 radiant",
+        "description": "Holy Water",
+        "name": "Holy Water",
+        "pic": "",
+        "properties": "Type: Improvised Weapons \nRange: 20 ft,\nOnly does damage against fiends and undead; Comes in flasks\nAmmo: holy water",
+        "type": "Weapon",
+        "weight": "1"
+    }, {
+        "cost": "",
+        "damage": "1D fire",
+        "description": "Torch, Burning",
+        "name": "Torch, Burning",
+        "pic": "",
+        "properties": "Type: Improvised Weapons \nRange: Melee,\nOnly does damage while burning",
+        "type": "Weapon",
+        "weight": "1"
+    }, {
+        "cost": "",
+        "damage": "D ",
+        "description": "Spell attack",
+        "name": "Spell attack",
+        "pic": "",
+        "properties": "Type: Spell \nRange: ,\n",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "CD6 acid",
+        "description": "Acid Splash",
+        "name": "Acid Splash",
+        "pic": "",
+        "properties": "Type: Cantrip \nRange: 60 ft,\nDex save, success - no damage; 1 or 2 creatures within 5 ft of each other (PHB 211)",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "CD8 necrotic",
+        "description": "Chill Touch",
+        "name": "Chill Touch",
+        "pic": "",
+        "properties": "Type: Cantrip \nRange: 120 ft,\nTarget can't regain HP; Undead dis. on attacks vs. me until my next turn (PHB 221)",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "C×1D10 force",
+        "description": "Eldritch Blast",
+        "name": "Eldritch Blast",
+        "pic": "",
+        "properties": "Type: Cantrip \nRange: 120 ft,\nEach d10 is a separate beam requiring separate rolls (PHB 237)",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "CD10 fire",
+        "description": "Fire Bolt",
+        "name": "Fire Bolt",
+        "pic": "",
+        "properties": "Type: Cantrip \nRange: 120 ft,\nUnattended flammable objects ignite (PHB 241)",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "CD12 poison",
+        "description": "Poison Spray",
+        "name": "Poison Spray",
+        "pic": "",
+        "properties": "Type: Cantrip \nRange: 10 ft,\nCon save, success - no damage; 1 creature (PHB 266)",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "CD8 fire",
+        "description": "Produce Flame",
+        "name": "Produce Flame",
+        "pic": "",
+        "properties": "Type: Cantrip \nRange: 30 ft,\n10-ft radius bright light and 10-ft radius dim light until thrown (PHB 269)",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "CD8 cold",
+        "description": "Ray of Frost",
+        "name": "Ray of Frost",
+        "pic": "",
+        "properties": "Type: Cantrip \nRange: 60 ft,\nTarget -10 ft speed until start of my next turn (PHB 271)",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "CD8 radiant",
+        "description": "Sacred Flame",
+        "name": "Sacred Flame",
+        "pic": "",
+        "properties": "Type: Cantrip \nRange: 60 ft,\nDex save, no bonus from cover, success - no damage; 1 creature (PHB 272)",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "1D8 bludgeoning",
+        "description": "Shillelagh",
+        "name": "Shillelagh",
+        "pic": "",
+        "properties": "Type: Simple \nRange: Melee,\nImbued club or quarterstaff; Counts as a magical weapon (PHB 275)",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "CD8 lightning",
+        "description": "Shocking Grasp",
+        "name": "Shocking Grasp",
+        "pic": "",
+        "properties": "Type: Cantrip \nRange: Melee,\nAdvantage if target is wearing metal armor, target cannot take reactions until its next turn (PHB 275)",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "CD4 psychic",
+        "description": "Vicious Mockery",
+        "name": "Vicious Mockery",
+        "pic": "",
+        "properties": "Type: Cantrip \nRange: 60 ft,\nWis save, success - no damage, fail - also disadv. on next attack roll in next turn; 1 creature (PHB 285)",
+        "type": "Weapon",
+        "weight": ""
+    }, {
+        "cost": "50 gp",
+        "damage": "",
+        "description": "Alchemist's supplies",
+        "name": "Alchemist's supplies",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "8"
+    }, {
+        "cost": "20 gp",
+        "damage": "",
+        "description": "Brewer's supplies",
+        "name": "Brewer's supplies",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "9"
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Calligrapher's supplies",
+        "name": "Calligrapher's supplies",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "5"
+    }, {
+        "cost": "8 gp",
+        "damage": "",
+        "description": "Carpenter's tools",
+        "name": "Carpenter's tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "6"
+    }, {
+        "cost": "15 gp",
+        "damage": "",
+        "description": "Cartographer's tools",
+        "name": "Cartographer's tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "6"
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Cobbler's tools",
+        "name": "Cobbler's tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "5"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Cook's utensils",
+        "name": "Cook's utensils",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "8"
+    }, {
+        "cost": "30 gp",
+        "damage": "",
+        "description": "Glassblower's tools",
+        "name": "Glassblower's tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "5"
+    }, {
+        "cost": "25 gp",
+        "damage": "",
+        "description": "Jeweler's tools",
+        "name": "Jeweler's tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "2"
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Leatherworker's tools",
+        "name": "Leatherworker's tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "5"
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Mason's tools",
+        "name": "Mason's tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "8"
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Painter's supplies",
+        "name": "Painter's supplies",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "5"
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Potter's tools",
+        "name": "Potter's tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "3"
+    }, {
+        "cost": "20 gp",
+        "damage": "",
+        "description": "Smith's tools",
+        "name": "Smith's tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "8"
+    }, {
+        "cost": "50 gp",
+        "damage": "",
+        "description": "Tinker's tools",
+        "name": "Tinker's tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "10"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Weaver's tools",
+        "name": "Weaver's tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "5"
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Woodcarver's tools",
+        "name": "Woodcarver's tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "5"
+    }, {
+        "cost": "25 gp",
+        "damage": "",
+        "description": "Disguise kit",
+        "name": "Disguise kit",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "3"
+    }, {
+        "cost": "15 gp",
+        "damage": "",
+        "description": "Forgery kit",
+        "name": "Forgery kit",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "5"
+    }, {
+        "cost": "1 sp",
+        "damage": "",
+        "description": "Dice set",
+        "name": "Dice set",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": ""
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Dragonchess set",
+        "name": "Dragonchess set",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "0.5"
+    }, {
+        "cost": "5 sp",
+        "damage": "",
+        "description": "Playing card set",
+        "name": "Playing card set",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": ""
+    }, {
+        "cost": "1 gp",
+        "damage": "",
+        "description": "Three-Dragon Ante set",
+        "name": "Three-Dragon Ante set",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": ""
+    }, {
+        "cost": "5 gp",
+        "damage": "",
+        "description": "Herbalism kit",
+        "name": "Herbalism kit",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "3"
+    }, {
+        "cost": "30 gp",
+        "damage": "",
+        "description": "Bagpipes",
+        "name": "Bagpipes",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "6"
+    }, {
+        "cost": "6 gp",
+        "damage": "",
+        "description": "Drum",
+        "name": "Drum",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "3"
+    }, {
+        "cost": "25 gp",
+        "damage": "",
+        "description": "Dulcimer",
+        "name": "Dulcimer",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "10"
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Flute",
+        "name": "Flute",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "1"
+    }, {
+        "cost": "3 gp",
+        "damage": "",
+        "description": "Horn",
+        "name": "Horn",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "2"
+    }, {
+        "cost": "35 gp",
+        "damage": "",
+        "description": "Lute",
+        "name": "Lute",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "2"
+    }, {
+        "cost": "30 gp",
+        "damage": "",
+        "description": "Lyre",
+        "name": "Lyre",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "2"
+    }, {
+        "cost": "12 gp",
+        "damage": "",
+        "description": "Pan flute",
+        "name": "Pan flute",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "2"
+    }, {
+        "cost": "2 gp",
+        "damage": "",
+        "description": "Shawm",
+        "name": "Shawm",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "1"
+    }, {
+        "cost": "30 gp",
+        "damage": "",
+        "description": "Viol",
+        "name": "Viol",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "1"
+    }, {
+        "cost": "25 gp",
+        "damage": "",
+        "description": "Navigator's tools",
+        "name": "Navigator's tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "2"
+    }, {
+        "cost": "50 gp",
+        "damage": "",
+        "description": "Poisoner's kit",
+        "name": "Poisoner's kit",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "2"
+    }, {
+        "cost": "25 gp",
+        "damage": "",
+        "description": "Thieves' tools",
+        "name": "Thieves' tools",
+        "pic": "",
+        "properties": "",
+        "type": "Tool",
+        "weight": "1"
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Arrows",
+        "name": "Arrows",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 0.05
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Bolts",
+        "name": "Bolts",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 0.075
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Bullets",
+        "name": "Bullets",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 0.075
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Daggers",
+        "name": "Daggers",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 1
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Darts",
+        "name": "Darts",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 0.25
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Flasks (1 pint)",
+        "name": "Flasks (1 pint)",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 1
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Handaxes",
+        "name": "Handaxes",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 2
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Javelins",
+        "name": "Javelins",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 2
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Light Hammers",
+        "name": "Light Hammers",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 2
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Needles",
+        "name": "Needles",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 0.02
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Spears",
+        "name": "Spears",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 3
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Tridents",
+        "name": "Tridents",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 4
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Vials (4 ounces)",
+        "name": "Vials (4 ounces)",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 0.25
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Alchemist's Fire, flasks",
+        "name": "Alchemist's Fire, flasks",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 1
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Vials of Acid",
+        "name": "Vials of Acid",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 1
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Holy Water, flasks",
+        "name": "Holy Water, flasks",
+        "pic": "",
+        "properties": "",
+        "type": "Ammo",
+        "weight": 1
+    }, {
+        "cost": "",
+        "damage": "",
+        "name": "Unarmored",
+        "pic": "",
+        "properties": "AC: 10",
+        "type": "Armor",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "",
+        "name": "Mage armor",
+        "pic": "",
+        "properties": "AC: 13",
+        "type": "Armor",
+        "weight": ""
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Padded armor",
+        "name": "Padded",
+        "pic": "",
+        "properties": "AC: 11 \nStr Requirement: 0\nDisadvantage on Stealth",
+        "type": "Armor",
+        "weight": "8"
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Leather armor",
+        "name": "Leather",
+        "pic": "",
+        "properties": "AC: 11",
+        "type": "Armor",
+        "weight": "10"
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Studded leather armor",
+        "name": "Studded Leather",
+        "pic": "",
+        "properties": "AC: 12",
+        "type": "Armor",
+        "weight": "13"
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Hide armor",
+        "name": "Hide",
+        "pic": "",
+        "properties": "AC: 12",
+        "type": "Armor",
+        "weight": "12"
+    }, {
+        "cost": "",
+        "damage": "",
+        "name": "Chain shirt",
+        "pic": "",
+        "properties": "AC: 13",
+        "type": "Armor",
+        "weight": "20"
+    }, {
+        "cost": "",
+        "damage": "",
+        "name": "Scale mail",
+        "pic": "",
+        "properties": "AC: 14\nDisadvantage on Stealth",
+        "type": "Armor",
+        "weight": "45"
+    }, {
+        "cost": "",
+        "damage": "",
+        "name": "Breastplate",
+        "pic": "",
+        "properties": "AC: 14",
+        "type": "Armor",
+        "weight": "20"
+    }, {
+        "cost": "",
+        "damage": "",
+        "name": "Half plate",
+        "pic": "",
+        "properties": "AC: 15\nDisadvantage on Stealth",
+        "type": "Armor",
+        "weight": "40"
+    }, {
+        "cost": "",
+        "damage": "",
+        "name": "Ring mail",
+        "pic": "",
+        "properties": "AC: 14\nDisadvantage on Stealth",
+        "type": "Armor",
+        "weight": "40"
+    }, {
+        "cost": "",
+        "damage": "",
+        "name": "Chain mail",
+        "pic": "",
+        "properties": "AC: 16 \nStr Requirement: 13\nDisadvantage on Stealth",
+        "type": "Armor",
+        "weight": "55"
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Splint armor",
+        "name": "Splint",
+        "pic": "",
+        "properties": "AC: 17 \nStr Requirement: 15\nDisadvantage on Stealth",
+        "type": "Armor",
+        "weight": "60"
+    }, {
+        "cost": "",
+        "damage": "",
+        "description": "Plate armor",
+        "name": "Plate",
+        "pic": "",
+        "properties": "AC: 18 \nStr Requirement: 15\nDisadvantage on Stealth",
+        "type": "Armor",
+        "weight": "65"
+    }, {
+        "cost": "16 gp",
+        "damage": "",
+        "description": "Burglar's pack ",
+        "name": "Burglar's pack ",
+        "pic": "",
+        "properties": "Backpack, with:\nBag of 1000 ball bearings\nString, feet of\nBell\nCandles\nCrowbar\nHammer\nPitons\nHooded lantern\nOil, flasks of\nRations, days of\nTinderbox\nWaterskin\nHempen rope, feet of\n",
+        "type": "Pack",
+        "weight": ""
+    }, {
+        "cost": "39 gp",
+        "damage": "",
+        "description": "Diplomat's pack ",
+        "name": "Diplomat's pack ",
+        "pic": "",
+        "properties": "Chest, with:\nMap or scroll case\nFine clothes\nInk, 1 ounce bottle of\nInk pen\nLamp\nOil, flasks of\nPaper, sheets of\nPerfume, vial of\nSealing Wax\nSoap\n",
+        "type": "Pack",
+        "weight": ""
+    }, {
+        "cost": "12 gp",
+        "damage": "",
+        "description": "Dungeoneer's pack ",
+        "name": "Dungeoneer's pack ",
+        "pic": "",
+        "properties": "Backpack, with:\nCrowbar\nHammer\nPitons\nTorches\nTinderbox\nRations, days of\nWaterskin\nHempen rope, feet of\n",
+        "type": "Pack",
+        "weight": ""
+    }, {
+        "cost": "40 gp",
+        "damage": "",
+        "description": "Entertainer's pack ",
+        "name": "Entertainer's pack ",
+        "pic": "",
+        "properties": "Backpack, with:\nBedroll\nCostumes\nCandles\nRations, days of\nWaterskin\nDisguise kit\n",
+        "type": "Pack",
+        "weight": ""
+    }, {
+        "cost": "10 gp",
+        "damage": "",
+        "description": "Explorer's pack ",
+        "name": "Explorer's pack ",
+        "pic": "",
+        "properties": "Backpack, with:\nBedroll\nMess kit\nTinderbox\nTorches\nRations, days of\nWaterskin\nHempen rope, feet of\n",
+        "type": "Pack",
+        "weight": ""
+    }, {
+        "cost": "19 gp",
+        "damage": "",
+        "description": "Priest's pack ",
+        "name": "Priest's pack ",
+        "pic": "",
+        "properties": "Backpack, with:\nBlanket\nCandles\nTinderbox\nAlms box\nIncense, blocks of\nCenser\nVestments\nRations, days of\nWaterskin\n",
+        "type": "Pack",
+        "weight": ""
+    }, {
+        "cost": "40 gp",
+        "damage": "",
+        "description": "Scholar's pack ",
+        "name": "Scholar's pack ",
+        "pic": "",
+        "properties": "Backpack, with:\nBook of lore\nInk, 1 ounce bottle of\nInk pen\nParchment, sheets of\nLittle bag of sand\nSmall knife\n",
+        "type": "Pack",
+        "weight": ""
     }
 ]
