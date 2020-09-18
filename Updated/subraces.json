@@ -1,0 +1,87 @@
+[{
+        "name": "Hill Dwarf",
+        "type": "Dwarf",
+        "abilityScores": "Wis+1",
+        "traits": [{
+                "name": "Dwarven Toughness",
+                "text": "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.",
+                "level": 1
+            }
+        ],
+        "sources": "X,150,E,15",
+        "filename": "DnDTome_subraces.json",
+        "id": 6
+    }, {
+        "name": "Mountain Dwarf",
+        "type": "Dwarf",
+        "abilityScores": "Str+2",
+        "traits": [{
+                "name": "Dwarven Armor Training",
+                "text": "You have proficiency with light and medium armor.",
+                "level": 1
+            }
+        ],
+        "sources": "X,150,E,15",
+        "filename": "DnDTome_subraces.json",
+        "id": 7
+    }, {
+        "name": "Eladrin",
+        "type": "Elf",
+        "abilityScores": "Int+1",
+        "traits": [{
+                "name": "Elf Weapon Training",
+                "text": "You have proficiency with the longsword, shortsword, shortbow, and longbow.",
+                "level": 1
+            }, {
+                "name": "Fey Step",
+                "level": 1,
+                "text": "You can cast the misty step spell once using this trait. You regain the ability to do so when you finish a short or long rest."
+            }
+        ],
+        "sources": "X,150,E,15",
+        "filename": "DnDTome_subraces.json",
+        "id": 8
+    }, {
+        "name": "High Elf",
+        "type": "Elf",
+        "abilityScores": "Int+1",
+        "traits": [{
+                "name": "Elf Weapon Training",
+                "text": "You have proficiency with the longsword, shortsword, shortbow, and longbow.",
+                "level": 1
+            }, {
+                "name": "Cantrip",
+                "level": 1,
+                "text": "You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it."
+            }, {
+                "name": "Extra Language",
+                "level": 1,
+                "text": "You can speak, read, and write one extra language of your choice."
+            }
+        ],
+        "sources": "X,150,E,15",
+        "filename": "DnDTome_subraces.json",
+        "id": 9
+    }, {
+        "name": "Wood Elf",
+        "type": "Elf",
+        "abilityScores": "Wis+1",
+        "traits": [{
+                "name": "Elf Weapon Training",
+                "text": "You have proficiency with the longsword, shortsword, shortbow, and longbow.",
+                "level": 1
+            }, {
+                "name": "Fleet of Foot",
+                "level": 1,
+                "text": "Your base walking speed increases to 35 feet."
+            }, {
+                "name": "Mask of the Wild",
+                "level": 1,
+                "text": "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+            }
+        ],
+        "sources": "X,150,E,15",
+        "filename": "DnDTome_subraces.json",
+        "id": 10
+    }
+]

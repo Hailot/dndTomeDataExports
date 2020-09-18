@@ -1,0 +1,852 @@
+[
+  {
+    "name": "Wizard",
+    "featureSets": [
+      {
+        "level": 1,
+        "profBonus": 2,
+        "features": [
+          {
+            "name": "Spellcasting",
+            "type": "normal",
+            "text": "Spellbook\n\nAt 1st level, you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.\nPreparing and Casting Spells\n\nThe Wizard table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.\n\nYou prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.\n\nYou can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.\nSpellcasting Ability\n\nIntelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.\n\nSpell save DC = 8 + your proficiency bonus + your Intelligence modifier\n\nSpell attack modifier = your proficiency bonus + your Intelligence modifier\nRitual Casting\n\nYou can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don’t need to have the spell prepared.\nSpellcasting Focus\n\nYou can use an arcane focus (see the Adventuring Gear section) as a spellcasting focus for your wizard spells.\nLearning Spells of 1st Level and Higher\n\nEach time you gain a wizard level, you can add two wizard spells of your choice to your spellbook for free. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see the “Your Spellbook” sidebar)."
+          },
+          {
+            "name": "Arcane Recovery",
+            "type": "normal",
+            "text": "You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher."
+          }
+        ],
+        "bonis": [{ "name": "Cantrips", "value": "3" }],
+        "spellslots": [2, 0, 0, 0, 0, 0, 0, 0, 0]
+      },
+      {
+        "level": 2,
+        "profBonus": 2,
+        "features": [
+          {
+            "name": "Arcane Tradition",
+            "type": "normal",
+            "text": "When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation. The School of Evocation is detailed at the end of the class description, and more choices are available in other sources.\n\nYour choice grants you features at 2nd level and again at 6th, 10th, and 14th level."
+          }
+        ],
+        "bonis": [{ "name": "Cantrips", "value": 3 }],
+        "spellslots": [3, 0, 0, 0, 0, 0, 0, 0, 0]
+      },
+      {
+        "level": 3,
+        "profBonus": 2,
+        "features": [],
+        "bonis": [{ "name": "Cantrips", "value": 3 }],
+        "spellslots": [4, 2, 0, 0, 0, 0, 0, 0, 0]
+      },
+      {
+        "level": 4,
+        "profBonus": 2,
+        "features": [
+          {
+            "name": "Ability Score Improvement",
+            "type": "normal",
+            "text": "When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature."
+          }
+        ],
+        "bonis": [{ "name": "Cantrips", "value": 4 }],
+        "spellslots": [4, 3, 0, 0, 0, 0, 0, 0, 0]
+      },
+      {
+        "level": 5,
+        "profBonus": 3,
+        "features": [],
+        "bonis": [{ "name": "Cantrips", "value": 4 }],
+        "spellslots": [4, 3, 2, 0, 0, 0, 0, 0, 0]
+      },
+      {
+        "level": 6,
+        "profBonus": 3,
+        "features": [
+          {
+            "name": "Arcane Tradition Feature",
+            "type": "normal",
+            "text": "Your Arcane Tradition choice grants you features at 6th."
+          }
+        ],
+        "bonis": [{ "name": "Cantrips", "value": 4 }],
+        "spellslots": [4, 3, 3, 0, 0, 0, 0, 0, 0]
+      },
+      {
+        "level": 7,
+        "profBonus": 3,
+        "features": [],
+        "bonis": [{ "name": "Cantrips", "value": 4 }],
+        "spellslots": [4, 3, 3, 1, 0, 0, 0, 0, 0]
+      },
+      {
+        "level": 8,
+        "profBonus": 3,
+        "features": [
+          {
+            "name": "Ability Score Improvement",
+            "type": "normal",
+            "text": "When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature."
+          }
+        ],
+        "bonis": [{ "name": "Cantrips", "value": 4 }],
+        "spellslots": [4, 3, 3, 2, 0, 0, 0, 0, 0]
+      },
+      {
+        "level": 9,
+        "profBonus": 4,
+        "features": [],
+        "bonis": [{ "name": "Cantrips", "value": 4 }],
+        "spellslots": [4, 3, 3, 3, 1, 0, 0, 0, 0]
+      },
+      {
+        "level": 10,
+        "profBonus": 4,
+        "features": [
+          {
+            "name": "Arcane Tradition Feature",
+            "type": "normal",
+            "text": "Your Arcane Tradition choice grants you features at 10th."
+          }
+        ],
+        "bonis": [{ "name": "Cantrips", "value": 5 }],
+        "spellslots": [4, 3, 3, 3, 2, 0, 0, 0, 0]
+      },
+      {
+        "level": 11,
+        "profBonus": 4,
+        "features": [],
+        "bonis": [{ "name": "Cantrips", "value": 5 }],
+        "spellslots": [4, 3, 3, 3, 2, 1, 0, 0, 0]
+      },
+      {
+        "level": 12,
+        "profBonus": 4,
+        "features": [
+          {
+            "name": "Ability Score Improvement",
+            "type": "normal",
+            "text": "When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature."
+          }
+        ],
+        "bonis": [{ "name": "Cantrips", "value": 3 }],
+        "spellslots": [4, 3, 3, 3, 2, 1, 0, 0, 0]
+      },
+      {
+        "level": 13,
+        "profBonus": 5,
+        "features": [],
+        "bonis": [{ "name": "Cantrips", "value": 5 }],
+        "spellslots": [4, 3, 3, 3, 2, 1, 1, 0, 0]
+      },
+      {
+        "level": 14,
+        "profBonus": 5,
+        "features": [
+          {
+            "name": "Arcane Tradition Feature",
+            "type": "normal",
+            "text": "Your Arcane Tradition choice grants you features at 14th level."
+          }
+        ],
+        "bonis": [{ "name": "Cantrips", "value": 5 }],
+        "spellslots": [4, 3, 3, 3, 2, 1, 1, 0, 0]
+      },
+      {
+        "level": 15,
+        "profBonus": 5,
+        "features": [],
+        "bonis": [{ "name": "Cantrips", "value": 5 }],
+        "spellslots": [4, 3, 3, 3, 2, 1, 1, 1, 0]
+      },
+      {
+        "level": 16,
+        "profBonus": 5,
+        "features": [
+          {
+            "name": "Ability Score Improvement",
+            "type": "normal",
+            "text": "When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature."
+          }
+        ],
+        "bonis": [{ "name": "Cantrips", "value": 5 }],
+        "spellslots": [4, 3, 3, 3, 2, 1, 1, 1, 0]
+      },
+      {
+        "level": 17,
+        "profBonus": 6,
+        "features": [],
+        "bonis": [{ "name": "Cantrips", "value": 5 }],
+        "spellslots": [4, 3, 3, 3, 2, 1, 1, 1, 1]
+      },
+      {
+        "level": 18,
+        "profBonus": 6,
+        "features": [
+          {
+            "name": "Spell Mastery",
+            "type": "normal",
+            "text": "At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.\n\nBy spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels."
+          }
+        ],
+        "bonis": [{ "name": "Cantrips", "value": 5 }],
+        "spellslots": [4, 3, 3, 3, 3, 1, 1, 1, 1]
+      },
+      {
+        "level": 19,
+        "profBonus": 6,
+        "features": [
+          {
+            "name": "Ability Score Improvement",
+            "type": "normal",
+            "text": "When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature."
+          }
+        ],
+        "bonis": [{ "name": "Cantrips", "value": 5 }],
+        "spellslots": [4, 3, 3, 3, 3, 2, 1, 1, 1]
+      },
+      {
+        "level": 20,
+        "profBonus": 6,
+        "features": [
+          {
+            "name": "Signature Spells",
+            "type": "normal",
+            "text": "When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don’t count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can’t do so again until you finish a short or long rest.\n\nIf you want to cast either spell at a higher level, you must expend a spell slot as normal."
+          }
+        ],
+        "bonis": [{ "name": "Cantrips", "value": 5 }],
+        "spellslots": [4, 3, 3, 3, 3, 2, 2, 1, 1]
+      }
+    ],
+    "hitDices": "d6",
+    "proficiencies": "Armor: None \n Weapons: Daggers, darts, slings, quarterstaffs, light crossbows \n Tools: None \n Saving Throws: Intelligence, Wisdom \n Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion",
+    "equipment": "You start with the following equipment, in addition to the equipment granted by your background: \n (a) a quarterstaff or (b) a dagger \n (a) a component pouch or (b) an arcane focus \n (a) a scholar’s pack or (b) an explorer’s pack \n A spellbook",
+    "sources": "X,150,E,15",
+    "pic": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/357/420/618/636272696881281556.png",
+    "filename": "DnDTome_classes.json",
+    "id": 3
+  },
+  {
+    "name": "Fighter",
+    "featureSets": [
+      {
+        "level": 1,
+        "profBonus": 2,
+        "features": [
+          {
+            "name": "Fighting Style",
+            "type": "normal",
+            "text": "You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.\n\nArchery\nYou gain a +2 bonus to attack rolls you make with ranged weapons.\n\nDefense\nWhile you are wearing armor, you gain a +1 bonus to AC.\n\nDueling\nWhen you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.\n\nGreat Weapon Fighting\nWhen you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.\n\nProtection\nWhen a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.\n\nTwo-Weapon Fighting\nWhen you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack."
+          },
+          {
+            "name": "Second Wind",
+            "type": "normal",
+            "text": "You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 2,
+        "profBonus": 2,
+        "features": [
+          {
+            "name": "Action Surge",
+            "type": "normal",
+            "text": "Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.\n\nOnce you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 3,
+        "profBonus": 2,
+        "features": [
+          {
+            "name": "Martial Archetype",
+            "type": "normal",
+            "text": "At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 4,
+        "profBonus": 2,
+        "features": [
+          {
+            "name": "Ability Score Improvement",
+            "type": "normal",
+            "text": "When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 5,
+        "profBonus": 3,
+        "features": [
+          {
+            "name": "Extra Attack",
+            "type": "normal",
+            "text": "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 6,
+        "profBonus": 3,
+        "features": [
+          {
+            "name": "Ability Score Improvement",
+            "type": "normal",
+            "text": "When you reach 6th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 7,
+        "profBonus": 3,
+        "features": [
+          {
+            "name": "Martial Archetype Feature",
+            "type": "normal",
+            "text": "The archetype you choose grants you features at 7th level."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 8,
+        "profBonus": 3,
+        "features": [
+          {
+            "name": "Ability Score Improvement",
+            "type": "normal",
+            "text": "When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 9,
+        "profBonus": 4,
+        "features": [
+          {
+            "name": "Indomitable",
+            "type": "normal",
+            "text": "Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 10,
+        "profBonus": 4,
+        "features": [
+          {
+            "name": "Martial Archetype Feature",
+            "type": "normal",
+            "text": "The archetype you choose grants you features at 10th level."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 11,
+        "profBonus": 4,
+        "features": [
+          {
+            "name": "Extra Attack (2)",
+            "type": "normal",
+            "text": "Beginning at 11th level, you can attack three times, instead of twice, whenever you take the Attack action on your turn."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 12,
+        "profBonus": 4,
+        "features": [
+          {
+            "name": "Ability Score Improvement",
+            "type": "normal",
+            "text": "When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 13,
+        "profBonus": 5,
+        "features": [
+          {
+            "name": "Indomitable (2)",
+            "type": "normal",
+            "text": "You can use this feature twice between long rests starting at 13th level."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 14,
+        "profBonus": 5,
+        "features": [
+          {
+            "name": "Ability Score Improvement",
+            "type": "normal",
+            "text": "When you reach 14th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 15,
+        "profBonus": 5,
+        "features": [
+          {
+            "name": "Martial Archetype Feature",
+            "type": "normal",
+            "text": "The archetype you choose grants you features at 15th level."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 16,
+        "profBonus": 5,
+        "features": [
+          {
+            "name": "Ability Score Improvement",
+            "type": "normal",
+            "text": "When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 17,
+        "profBonus": 6,
+        "features": [
+          {
+            "name": "Action Surge (2)",
+            "type": "normal",
+            "text": "Starting at 17th level, you can use it twice before a rest, but only once on the same turn."
+          },
+          {
+            "name": "Indomitable (3)",
+            "type": "normal",
+            "text": "You can use this feature three times between long rests starting at 17th level.\n"
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 18,
+        "profBonus": 6,
+        "features": [
+          {
+            "name": "Martial Archetype Feature",
+            "type": "normal",
+            "text": "The archetype you choose grants you features at 18th level."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 19,
+        "profBonus": 6,
+        "features": [
+          {
+            "name": "Ability Score Improvement",
+            "type": "normal",
+            "text": "When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 20,
+        "profBonus": 6,
+        "features": [
+          {
+            "name": "Extra Attack (3)",
+            "type": "normal",
+            "text": "At 20th level, you can attack four times, instead of three, whenever you take the Attack action on your turn."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      }
+    ],
+    "hitDices": "d12",
+    "proficiencies": "Armor: All armor, shields\nWeapons: Simple weapons, martial weapons\nTools: None\nSaving Throws: Strength, Constitution\nSkills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival",
+    "equipment": "You start with the following equipment, in addition to the equipment granted by your background:\n    (a) chain mail or (b) leather armor, longbow, and 20 arrows\n    (a) a martial weapon and a shield or (b) two martial weapons\n    (a) a light crossbow and 20 bolts or (b) two handaxes\n    (a) a dungeoneer’s pack or (b) an explorer’s pack\n",
+    "sources": "X,150,E,15",
+    "pic": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/6/359/420/618/636272697874197438.png",
+    "filename": "DnDTome_classes.json",
+    "id": 4
+  },
+  {
+    "name": "Monk (Revised)",
+    "featureSets": [
+      {
+        "level": 1,
+        "profBonus": 2,
+        "features": [
+          {
+            "name": "Unarmored Defense",
+            "type": "normal",
+            "text": "Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC\nequals 10 + your Dexterity modifier + your Wisdom modifier."
+          },
+          {
+            "name": "Martial Arts",
+            "type": "normal",
+            "text": "At 1st level, your practice of martial arts gives you mastery of combat styles that use\nunarmed strikes and monk weapons, which are shortswords and any simple melee weapons\nthat don’t have the two-handed or heavy property.\nYou gain the following benefits while you are unarmed or wielding only monk weapons and\nyou aren’t wearing armor or wielding a shield:\nYou can use Dexterity instead of Strength for the attack and damage rolls of your unarmed\nstrikes and monk weapons.\nYou can roll a d6 in place of the normal damage of your unarmed strike or monk weapon.\nThis die changes as you gain monk levels, as shown in the Martial Arts column of the Monk\ntable.\nWhen you use the Attack action with an unarmed strike or a monk weapon on your turn, you\ncan make one unarmed strike as a bonus action. For example, if you take the Attack action\nand attack with a quarterstaff, you can also make an unarmed strike as a bonus action,\nassuming you haven’t already taken a bonus action this turn."
+          }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d6" },
+          { "name": "Ki Points", "value": "0", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 2,
+        "profBonus": 2,
+        "features": [
+          {
+            "name": "Unarmored Movement",
+            "type": "normal",
+            "text": "Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or\nwielding a shield. This bonus increases when you reach certain monk levels, as shown in the\nMonk table."
+          },
+          {
+            "name": "Deflect Missiles",
+            "type": "normal",
+            "text": "Starting at 2nd level, you can use your reaction to deflect or catch the missile when you are\nhit by a ranged weapon attack. When you do so, the damage you take from the attack is\nreduced by 1d10 + your Dexterity modifier + your monk level.\nIf you reduce the damage to 0, you can catch the missile if it is small enough for you to hold\nin one hand and you have at least one hand free. If you catch a missile in this way, you can\nspend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just\ncaught, as part of the same reaction. You make this attack with proficiency, regardless of\nyour weapon proficiencies, and the missile counts as a monk weapon for the attack, which\nhas a normal range of 20 feet and a long range of 60 feet."
+          },
+          {
+            "name": "Ki",
+            "type": "normal",
+            "text": "Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your\naccess to this energy is represented by a number of ki points. Your monk level determines\nthe number of points you have, as shown in the Ki Points column of the Monk table.\nYou can spend these points to fuel various ki features.\nWhen you spend a ki point, it is unavailable until you finish a short or long rest, at the end of\nwhich you draw all of your expended ki back into yourself. You must spend at least 30\nminutes of the rest meditating to regain your monk level in ki points.\nSome of your ki features require your target to make a saving throw to resist the feature’s\neffects. The saving throw DC is calculated as follows:\nKi save DC = 8 + your proficiency bonus + your Wisdom modifier."
+          }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d6" },
+          { "name": "Ki Points", "value": "4", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+10 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 3,
+        "profBonus": 2,
+        "features": [],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d6" },
+          { "name": "Ki Points", "value": "6", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+10 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 4,
+        "profBonus": 2,
+        "features": [
+          { "name": "Ability Score Improvement", "type": "normal", "text": "" },
+          {
+            "name": "Slow Fall",
+            "type": "normal",
+            "text": "Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level."
+          }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d6" },
+          { "name": "Ki Points", "value": "8", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+10 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 5,
+        "profBonus": 3,
+        "features": [
+          {
+            "name": "Extra Attack",
+            "type": "normal",
+            "text": "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
+          }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d8" },
+          { "name": "Ki Points", "value": "10", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+10 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 6,
+        "profBonus": 3,
+        "features": [
+          {
+            "name": "Ki-Empowered Strikes",
+            "type": "normal",
+            "text": "Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage."
+          }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d8" },
+          { "name": "Ki Points", "value": "12", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+15 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 7,
+        "profBonus": 3,
+        "features": [
+          {
+            "name": "Evasion",
+            "type": "normal",
+            "text": "At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such\nas a blue dragon’s lightning breath or a fireball spell. When you are subjected to an effectthat allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail."
+          },
+          {
+            "name": "Stillness of Mind",
+            "type": "normal",
+            "text": "Starting at 7th level, you can use your action to end one effect on yourself that is causing\nyou to be charmed or frightened."
+          }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d8" },
+          { "name": "Ki Points", "value": "14", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+15 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 8,
+        "profBonus": 3,
+        "features": [
+          { "name": "Ability Score Improvement", "type": "normal", "text": "" }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d8" },
+          { "name": "Ki Points", "value": "16", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+15 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 9,
+        "profBonus": 4,
+        "features": [
+          {
+            "name": "Unarmored Movement Improvement",
+            "type": "normal",
+            "text": "At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during your move."
+          }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d8" },
+          { "name": "Ki Points", "value": "18", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+15 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 10,
+        "profBonus": 4,
+        "features": [
+          {
+            "name": "Purity of Body",
+            "type": "normal",
+            "text": "At 10th level, your mastery of the ki flowing through you makes you immune to disease and poison."
+          }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d8" },
+          { "name": "Ki Points", "value": "20", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+20 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 11,
+        "profBonus": 4,
+        "features": [],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d10" },
+          { "name": "Ki Points", "value": "22", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+20 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 12,
+        "profBonus": 4,
+        "features": [
+          { "name": "Ability Score Improvement", "type": "normal", "text": "" }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d10" },
+          { "name": "Ki Points", "value": "24", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+20 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 13,
+        "profBonus": 5,
+        "features": [
+          {
+            "name": "Tongue of the Sun and Moon",
+            "type": "normal",
+            "text": "Starting at 13th level, you learn to touch the ki of other minds so that you understand all\nspoken languages. Moreover, any creature that can understand a language can understand\nwhat you say."
+          }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d10" },
+          { "name": "Ki Points", "value": "26", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+20 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 14,
+        "profBonus": 5,
+        "features": [
+          {
+            "name": "Diamond Soul",
+            "type": "normal",
+            "text": "Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws.\nAdditionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it\nand take the second result."
+          }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d10" },
+          { "name": "Ki Points", "value": "28", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+25 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 15,
+        "profBonus": 5,
+        "features": [
+          {
+            "name": "Timeless Body",
+            "type": "normal",
+            "text": "At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you\ncan’t be aged magically. You can still die of old age, however. In addition, you no longer\nneed food or water."
+          }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d10" },
+          { "name": "Ki Points", "value": "30", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+25 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 16,
+        "profBonus": 5,
+        "features": [
+          { "name": "Ability Score Improvement", "type": "normal", "text": "" }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d10" },
+          { "name": "Ki Points", "value": "32", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+25 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 17,
+        "profBonus": 6,
+        "features": [],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d12" },
+          { "name": "Ki Points", "value": "34", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+25 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 18,
+        "profBonus": 6,
+        "features": [
+          {
+            "name": "Empty Body",
+            "type": "normal",
+            "text": "Beginning at 18th level, you can use your action to spend 4 ki points to have resistance to all\ndamage but force and psychic damage.\nAdditionally, you can spend 8 ki points to cast the astral projection spell, without needing\nmaterial components. When you do so, you can’t take any other creatures with you."
+          }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d12" },
+          { "name": "Ki Points", "value": "36", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+30 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 19,
+        "profBonus": 6,
+        "features": [
+          { "name": "Ability Score Improvement", "type": "normal", "text": "" }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d12" },
+          { "name": "Ki Points", "value": "38", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+30 ft" }
+        ],
+        "spellslots": []
+      },
+      {
+        "level": 20,
+        "profBonus": 6,
+        "features": [
+          {
+            "name": "Perfect Self",
+            "type": "normal",
+            "text": "At 20th level, when you roll for initiative and have no ki points remaining, you regain your\nmonk level in ki points."
+          }
+        ],
+        "bonis": [
+          { "name": "Martial Arts", "value": "1d12" },
+          { "name": "Ki Points", "value": "40", "isCurrency": true },
+          { "name": "Unarmored Movement", "value": "+30 ft" }
+        ],
+        "spellslots": []
+      }
+    ],
+    "hitDices": "d8",
+    "proficiencies": "Armor: None\nWeapons: Simple weapons, shortswords\nTools: Choose one type of artisan’s tools or one musical instrument\nSaving Throws: Strength, Dexterity\nSkills: Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth",
+    "equipment": "You start with the following equipment, in addition to the equipment granted by your background:\n\n    (a) a shortsword or (b) any simple weapon\n    (a) a dungeoneer’s pack or (b) an explorer’s pack\n    10 darts\n",
+    "sources": "DarthAmun",
+    "filename": "DnDTome_classes.json",
+    "pic": "",
+    "id": 5
+  }
+]

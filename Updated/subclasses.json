@@ -1,0 +1,209 @@
+[
+  {
+    "name": "School of Evocation",
+    "type": "Wizard",
+    "features": [
+      {
+        "level": 2,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "Evocation Savant",
+            "type": "normal", "text": "Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved."
+          },
+          {
+            "name": "Sculpt Spells",
+            "type": "normal", "text": "Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell’s level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 6,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "Potent Cantrip",
+            "type": "normal", "text": "Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip’s damage (if any) but suffers no additional effect from the cantrip."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 10,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "Empowered Evocation",
+            "type": "normal", "text": "Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 14,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "Overchannel",
+            "type": "normal", "text": "Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th level that deals damage, you can deal maximum damage with that spell.\n\nThe first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      }
+    ],
+    "sources": "X,150,E,15",
+    "filename": "DnDTome_subclasses.json",
+    "id": 2
+  },
+  {
+    "name": "Way of the Shadow",
+    "type": "Monk (Revised)",
+    "features": [
+      {
+        "level": 3,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "Shadow Techniques",
+            "type": "normal", "text": "You can choose the number of techniques when reaching the appropriate monk level as\nshown in the table below.\n\n\nLevel Number Techniques Ki Cost\n3 3 Smokebomb​ , ​ Shadow-Sight​ ,Shadow-Veil​ , ​ Silence-Of-Darkness​ , Shadow-Thorn-Palm-Strike 3\n6 3 Shadow-Step​ , ​ Vanishing-Shadows​ , ​ Water-Walking-Shadow​ , Slicing-Shadow-Shards​ , Unseen-Shadow-Claw 5\n11 2 Mass-Shadow-Shuriken​ , ​ Shadow-Passage​ , 7Rapid-Shadow-Strike​ , Destroying-Shadow-Palm\n17 2 Seeping-Shadow-Palm​ , Flying-Shadow-Crouching-Light 14\n20 1 Shadow-Shaking-Fist​ , ​ Ultimate-Shadow-Palm 20"
+          },
+          {
+            "name": "Shadow Form",
+            "type": "normal", "text": "Starting when you choose this tradition at 3rd level, you gain proficiency in stealth or if you\nare already proficient in stealth double the proficiency bonus."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 6,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "Shadow Step",
+            "type": "normal", "text": "At 6th level, you gain the ability to step from one shadow to another. When you are in dim\nlight or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space\nyou can see that is also in dim light or darkness. You then have advantage on the first melee\nattack you make before the end of the turn."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 11,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "Cloak of Shadows",
+            "type": "normal", "text": "By 11th level, you have learned to become one with the shadows. When you are in an area\nof dim light or darkness, you can use your action to become invisible. You remain invisible\nuntil you make an attack, cast a spell, or are in an area of bright light."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 17,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "Opportunist",
+            "type": "normal", "text": "At 17th level, you can exploit a creature’s momentary distraction when it is hit by an attack.\nWhenever a creature within 5 feet of you is hit by an attack made by a creature other than\nyou, you can use your reaction to make a melee attack against that creature."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 20,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "All is dark without light",
+            "type": "normal", "text": "At 20th level, you can cast the darkness spell twice per short rest. Extending its area to 300\nfeet centered around you. Extinguishing all nonmagic light sources in the process and all\nmagic light sources that originated from a spell of the 6 level or lower are dispelled for the\nduration."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      }
+    ],
+    "sources": "DarthAmun",
+    "filename": "DnDTome_subclasses.json",
+    "id": 3
+  },
+  {
+    "name": "Way of the Sword",
+    "type": "Monk (Revised)",
+    "features": [
+      {
+        "level": 3,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "Sword Techniques",
+            "type": "normal", "text": "You can choose the number of techniques when reaching the appropriate monk level as\nshown in the table below.\n\nLevel Number Techniques Ki Cost\n3 3 Slashing Step, Flame Blade, Psi Blade, Radiating Blade ofTempus, Shadow Blade, Sinister Blade, Windward Blade 3\n6 2 Blinding Smite, Fracture Spirit, Spirit Guardians; Vaporous Smite, Vampiric Touch, Hemorrhage 5\n11 2 Blade Wings, Flashing Blade, Banishing Smite, Far Step, Rimestrike, Sundering Smite, Slice World 7\n17 1 Blade Barrier, Grace of Shar(Self), Quasar, Wind Walk 14\n20 1 Mordenkainen's Sword(Improved), Whirlwind, Black Blade of Disaster 20\n\nAll spells are cast with the following components: V, S, M (a sword in your hand). You do not\nneed other ​ material components for those spells."
+          },
+          {
+            "name": "Sword Form",
+            "type": "normal", "text": "Starting when you choose this tradition at 3rd level, you gain an additional fighting style.\nChoose one of the following options.\n\nDueling: ​ When you are wielding a melee weapon in one hand and no other weapons, you\ngain a +2 bonus to damage rolls with that weapon.\n\nTunnel Fighter​ : You excel at defending narrow passages, doorways and other tight spaces.\nAs a bonus action, you can enter a defensive stance that lasts until the start of your next\nturn. While in your defensive stance, you can make opportunity attacks without using your\nreaction, and you can use your reaction to make a melee attack against a creature that\nmoves more than 5 feet while within your reach.\n\nPinning​: Once per turn, when you deal piercing damage to a creature with a weapon attack,\nyou can reduce its speed by 10 feet. Until the end of its next turn.\nFurthermore, you gain proficiency with your choice of calligrapher’s supplies or painter’s\nsupplies."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 6,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "One with the Blade",
+            "type": "normal", "text": "At 6th level, you gain the ability to infuse your sword with ki. Weapon attacks with swords\ncount as magical for the purpose of overcoming resistance and immunity to nonmagical\nattacks and damage.\n\nDeft Strike​: When you hit a target with a ki infused sword, you can spend 1 ki point to cause\nthe weapon to deal extra damage to the target equal to your Martial Arts die. You can use\nthis feature only once on each of your turns."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 11,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "All is a Blade, and a Blade is all",
+            "type": "normal", "text": "By 11th level, you have learned to use anything as a sword. You can use an improvised weapon and daggers as if it were a sword by spending 3 ki points infusing them with your sword ki. Such as a stick or bread knife. Those things count as monk weapons to you and you can only have one weapon infused in this way."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 17,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "Unerring Accuracy",
+            "type": "normal", "text": "At 17th level, your mastery of weapons grants you extraordinary accuracy. If you miss with an attack roll using a monk weapon on your turn, you can reroll it. You can use this feature only once on each of your turns."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      },
+      {
+        "level": 20,
+        "profBonus": 0,
+        "features": [
+          {
+            "name": "Sword is the Essence",
+            "type": "normal", "text": "At 20th level, you learn to absorb the essence of a sword. You are able to absorb a sword that needs attunement into your soul. In the process the sword is destroyed. When infusing a weapon with your ki you can apply one of those sword essences to it, giving it all of the properties and abilities the sword possessed.\n\nAdditionally, you can now use your bare hands as a monk weapon for your ​ All is a Blade, and a Blade is all ​ feature."
+          }
+        ],
+        "bonis": [],
+        "spellslots": []
+      }
+    ],
+    "sources": "DarthAmun",
+    "filename": "DnDTome_subclasses.json",
+    "id": 4
+  }
+]
